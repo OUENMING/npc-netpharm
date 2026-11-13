@@ -1,0 +1,10 @@
+﻿subset,n_pairs,fu,n_R_x_fu_ge_0.02,n_R_x_fu_ge_0.1,n_R_x_fu_ge_1
+All pairs with a concentration,492,1.0,450,345,194
+All pairs with a concentration,492,0.1,294,194,124
+All pairs with a concentration,492,0.01,180,124,76
+Source class OK only,229,1.0,218,139,50
+Source class OK only,229,0.1,106,50,28
+Source class OK only,229,0.01,43,28,18
+Source OK and 134-core target,138,1.0,131,78,26
+Source OK and 134-core target,138,0.1,58,26,10
+Source OK and 134-core target,138,0.01,20,10,4

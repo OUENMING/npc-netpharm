@@ -1,0 +1,30 @@
+﻿gpcr,name,s3_id,cas,tango_validated,pEC50_M,log2_activation,reported_in_literature,matches_ours,our_name,screen_source,match_route
+ADRA2A,Dopamine HCl,HM781,62-31-7,Y,6.562e-07,5.62,Y,True,Dopamine,Human/Bacteria,名称
+ADRA2B,Tyramine,HM 287,51-67-2,Y,0.0001282,6.83,Y,True,Tyramine,Human/Food/Bacteria,名称
+ADRA2B,Serotonin HCl,HM653,153-98-0,Y,4.443e-05,4.35,Y,True,Serotonin,Human/Food/Bacteria,名称
+ADRA2B,Tryptamine,HM691,61-54-1,Y,1.194e-05,5.9,Y,True,Tryptamine,Human/Food/Bacteria,名称
+ADRA2B,Dopamine HCl,HM781,62-31-7,Y,4.68e-07,6.03,Y,True,Dopamine,Human/Bacteria,名称
+ADRA2C,Tyramine,HM 287,51-67-2,Y,0.0001884,8.12,Y,True,Tyramine,Human/Food/Bacteria,名称
+ADRA2C,Tryptamine,HM691,61-54-1,Y,4.519e-05,6.7,Y,True,Tryptamine,Human/Food/Bacteria,名称
+ADRA2C,Dopamine HCl,HM781,62-31-7,Y,6.284e-07,6.87,Y,True,Dopamine,Human/Bacteria,名称
+DRD2,Tyramine,HM 287,51-67-2,Y,1.317e-05,7.04,Y,True,Tyramine,Human/Food/Bacteria,名称
+DRD2,Serotonin HCl,HM653,153-98-0,Y,8.042e-06,6.77,Y,True,Serotonin,Human/Food/Bacteria,名称
+DRD2,Tryptamine,HM691,61-54-1,Y,5.749e-06,6.16,Y,True,Tryptamine,Human/Food/Bacteria,名称
+DRD2,Dopamine HCl,HM781,62-31-7,Y,5.955e-08,6.3,Y,True,Dopamine,Human/Bacteria,名称
+DRD3,Tyramine,HM 287,51-67-2,Y,3.229e-05,7.99,Y,True,Tyramine,Human/Food/Bacteria,名称
+DRD3,Serotonin HCl,HM653,153-98-0,Y,0.0001016,8.11,Y,True,Serotonin,Human/Food/Bacteria,名称
+DRD3,Tryptamine,HM691,61-54-1,Y,1.532e-05,8.15,Y,True,Tryptamine,Human/Food/Bacteria,名称
+DRD3,Dopamine HCl,HM781,62-31-7,Y,8.205e-08,7.43,Y,True,Dopamine,Human/Bacteria,名称
+DRD4,Tyramine,HM 287,51-67-2,Y,0.000224,5.9,Y,True,Tyramine,Human/Food/Bacteria,名称
+DRD4,Tryptamine,HM691,61-54-1,Y,6.9e-05,7.61,Y,True,Tryptamine,Human/Food/Bacteria,名称
+DRD4,Dopamine HCl,HM781,62-31-7,Y,8.378e-06,6.52,Y,True,Dopamine,Human/Bacteria,名称
+GPR120,Linoleic acid (sodium salt),HM579,822-17-3,Y,5.474e-05,2.83,Y,True,Linoleic Acid,Food,名称
+GPR32,Baicalin,HM 30,21967-41-9,Y,4.399e-05,1.53,N,True,Baicalin,Food/Drug,名称
+HRH2,Histamine dihydrochloride,HM 249,56-92-8,Y,3.358e-05,4.56,Y,True,Histamine,Human/Bacteria,CID(HMDB→UniChem)
+HRH3,Histamine dihydrochloride,HM 249,56-92-8,Y,5.327e-08,6.74,Y,True,Histamine,Human/Bacteria,CID(HMDB→UniChem)
+HRH3,Folic acid,HM 264,59-30-3,Y,0.0004867,5.19,N,True,Folic Acid,Food/Bacteria,名称
+HRH4,Histamine dihydrochloride,HM 249,56-92-8,Y,2.771e-07,5.66,Y,True,Histamine,Human/Bacteria,CID(HMDB→UniChem)
+HTR1A,Tryptamine,HM691,61-54-1,Y,1.023e-05,2.77,N,True,Tryptamine,Human/Food/Bacteria,名称
+HTR6,Serotonin HCl,HM653,153-98-0,Y,8.09e-05,5.39,Y,True,Serotonin,Human/Food/Bacteria,名称
+HTR6,Tryptamine,HM691,61-54-1,Y,6.283e-06,4.75,N,True,Tryptamine,Human/Food/Bacteria,名称
+MTNR1B,Tryptamine,HM691,61-54-1,Y,3.89e-06,5.5,N,True,Tryptamine,Human/Food/Bacteria,名称

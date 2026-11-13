@@ -1,0 +1,51 @@
+﻿panel,ontology,termName,listHits,foldEnrichment,benjamini
+A,Biological process,GO:0097267~omega-hydroxylase P450 pathway,6,71.88345864661655,2.026768122098802e-06
+A,Biological process,GO:0042572~retinol metabolic process,9,23.105397422126742,9.112131026677796e-07
+A,Biological process,GO:0019373~epoxygenase P450 pathway,7,50.31842105263158,7.910746673258467e-07
+A,Biological process,GO:0019369~arachidonate metabolic process,9,30.807196562835657,1.0554659415071144e-07
+A,Biological process,GO:0008202~steroid metabolic process,10,23.568347097251323,1.0554659415071144e-07
+A,Biological process,GO:0042178~xenobiotic catabolic process,9,39.20915926179084,1.8309945206641568e-08
+A,Biological process,GO:0007173~epidermal growth factor receptor signaling pathway,11,24.32978600347021,1.0337401870521178e-08
+A,Biological process,GO:0006805~xenobiotic metabolic process,15,17.39115934998787,9.647135732989539e-11
+A,Biological process,GO:0042759~long-chain fatty acid biosynthetic process,10,71.88345864661655,3.8665911181966804e-12
+A,Biological process,GO:0043066~negative regulation of apoptotic process,27,7.970650445415386,6.123155970285056e-13
+A,Cellular component,GO:0005634~nucleus,68,1.5143401933065948,0.0013057084748864
+A,Cellular component,GO:0030425~dendrite,14,4.179515806792807,0.0010336557162624
+A,Cellular component,GO:0032991~protein-containing complex,19,3.5182876824667866,0.0002605794704393
+A,Cellular component,GO:0043235~signaling receptor complex,11,6.781397888605753,0.0002308389866243
+A,Cellular component,GO:0005654~nucleoplasm,49,1.985884314398079,5.3890354383088305e-05
+A,Cellular component,GO:0005886~plasma membrane,66,1.753256837201277,1.799310725180197e-05
+A,Cellular component,GO:0045121~membrane raft,13,8.571901362751461,2.981562255757369e-06
+A,Cellular component,GO:0005829~cytosol,65,1.8740848987004144,2.8826367867370046e-06
+A,Cellular component,GO:0005739~mitochondrion,33,3.0276295473630035,2.8368091448313864e-06
+A,Cellular component,GO:0005737~cytoplasm,89,1.95219088244056,1.0767074096837163e-11
+A,Molecular function,"GO:0016705~oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",11,19.625483692647872,1.3865598274422314e-08
+A,Molecular function,GO:0016491~oxidoreductase activity,18,9.000929608015287,1.1004743960512182e-09
+A,Molecular function,GO:0004713~protein tyrosine kinase activity,14,14.66093445814406,9.990939615728835e-10
+A,Molecular function,GO:0106310~protein serine kinase activity,21,8.224426647251548,8.842306592250109e-11
+A,Molecular function,GO:0004674~protein serine/threonine kinase activity,23,8.028606965174129,9.982845900215525e-12
+A,Molecular function,"GO:0008404~arachidonate 14,15-epoxygenase activity",8,115.61194029850746,9.76430285058221e-12
+A,Molecular function,GO:0016301~kinase activity,21,11.67235935706085,2.12324081554777e-13
+A,Molecular function,GO:0005524~ATP binding,44,4.0970726265579325,1.2866681668762896e-13
+A,Molecular function,GO:0019899~enzyme binding,26,8.924912255823022,3.437476988142438e-14
+A,Molecular function,GO:0004672~protein kinase activity,30,8.434723270805506,6.991647293939327e-16
+B,KEGG,hsa05230:Central carbon metabolism in cancer,9,9.71006526966678,4.2544302267207545e-05
+B,KEGG,hsa05135:Yersinia infection,12,6.661010957935667,2.0777653267537637e-05
+B,KEGG,hsa04066:HIF-1 signaling pathway,11,7.660162601626016,2.0166012963788086e-05
+B,KEGG,hsa04370:VEGF signaling pathway,9,11.490243902439024,1.3554352390632558e-05
+B,KEGG,hsa04151:PI3K-Akt signaling pathway,19,4.0205273323451465,1.3285933607075155e-05
+B,KEGG,hsa05219:Bladder cancer,8,14.946658734880032,1.3285933607075155e-05
+B,KEGG,hsa05223:Non-small cell lung cancer,10,10.493373426884954,6.622580716630454e-06
+B,KEGG,hsa00982:Drug metabolism - cytochrome P450,10,10.493373426884954,6.622580716630454e-06
+B,KEGG,hsa00590:Arachidonic acid metabolism,10,11.96900406504065,2.416664627487999e-06
+B,KEGG,hsa05215:Prostate cancer,12,8.67188219052002,2.416664627487999e-06
+B,KEGG,hsa01521:EGFR tyrosine kinase inhibitor resistance,11,10.532723577235773,1.766023555917391e-06
+B,KEGG,hsa05204:Chemical carcinogenesis - DNA adducts,11,12.03739837398374,5.271092689727906e-07
+B,KEGG,hsa05207:Chemical carcinogenesis - receptor activation,17,6.001049042748492,5.271092689727906e-07
+B,KEGG,hsa04012:ErbB signaling pathway,12,10.688598979013046,4.224503673091828e-07
+B,KEGG,hsa05205:Proteoglycans in cancer,17,6.3834688346883475,2.9748027851045984e-07
+B,KEGG,hsa05208:Chemical carcinogenesis - reactive oxygen species,18,6.0741377457827435,2.344767534612995e-07
+B,KEGG,hsa01522:Endocrine resistance,13,10.058799375872546,2.344767534612995e-07
+B,KEGG,hsa04726:Serotonergic synapse,14,9.325415341109933,2.031778285723663e-07
+B,KEGG,hsa05200:Pathways in cancer,29,4.167818301072317,1.4854014052192206e-08
+B,KEGG,hsa05417:Lipid and atherosclerosis,21,7.447380307136406,9.059371347577823e-10

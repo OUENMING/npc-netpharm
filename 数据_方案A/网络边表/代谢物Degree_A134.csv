@@ -1,0 +1,229 @@
+﻿代谢物,PubChem CID,Degree,连接的菌数,连接的核心靶点数
+Quercetin,5280343,69,8,61
+Butyrate,104775,35,34,1
+Acetate,175,34,34,0
+Luteolin,5280445,33,1,32
+Myricetin,5281672,31,3,28
+Kaempferol,5280863,30,6,24
+5-(3-Hydroxyphenyl)pentanoic Acid,10559720,29,29,0
+Apigenin,5280443,28,1,27
+"5-(3,4-Dihydroxyphenyl)pentanoic acid",49831816,25,25,0
+Equol,91469,25,25,0
+Genistein,5280961,23,7,16
+Propionate ion,104745,21,21,0
+Trimethylamine oxide,1145,20,20,0
+Daidzein,5281708,17,13,4
+Chrysin,5281607,16,1,15
+Succinate,160419,15,15,0
+Acacetin,5280442,13,1,12
+Caffeic Acid,689043,13,4,9
+1H-Indole-3-propanoic acid,3744,12,12,0
+Lactate,91435,11,11,0
+Ethanol,702,10,10,0
+4-Pyridoxic Acid,6723,9,9,0
+Dihydrocaffeic Acid,348154,9,9,0
+Levodopa,6047,9,1,8
+(+-)-Naringenin,932,8,1,7
+Diosmetin,5281612,8,1,7
+Isobutyric Acid,6590,8,8,0
+Isoquercetin,5280804,8,5,3
+Oleic Acid,445639,8,2,6
+Trimethylamine,1146,8,8,0
+L-Isoleucine,6306,7,7,0
+"2,3-Dihydroxybutanedioic Acid",875,6,6,0
+Creatine,586,6,6,0
+Formate,283,6,6,0
+Glycitein,5317750,6,5,1
+L-Leucine,6106,6,4,2
+Lithocholic Acid,9903,6,4,2
+(+-)-Dihydrodaidzein,176907,5,5,0
+(-)-Secoisolariciresinol,65373,5,5,0
+(R)-3-(4-Hydroxyphenyl)lactate,9548632,5,5,0
+4-Hydroxybenzoic Acid,135,5,3,2
+Arachidonic Acid,444899,5,3,2
+Coumarin,323,5,2,3
+Deoxycholic Acid,222528,5,4,1
+Enterodiol,115089,5,5,0
+"Ethyl phenyllactate, (-)-",9877619,5,5,0
+Isoallolithocholic Acid,94228,5,5,0
+L-Serine,5951,5,4,1
+Linoleic Acid,5280450,5,3,2
+Quercitrin,5280459,5,3,2
+Ursodeoxycholic Acid,31401,5,1,4
+3-(4-Hydroxyphenyl)propionic acid,10394,4,4,0
+"7-Hydroxy-5-methyl-3-phenyl-6,7,8,9-tetrahydropyrido[3',2':4,5]imidazo[1,2-a]pyrimidin-5-ium chloride",129849310,4,4,0
+Acetic acid 10-acetoxymethyl-anthracen-9-ylmethyl ester,613145,4,4,0
+Dopamine,681,4,1,3
+Glycine,750,4,4,0
+Glycocholic Acid,10140,4,4,0
+Hexanoic Acid,8892,4,4,0
+Isourolithin A,10376459,4,4,0
+Isovaleric Acid,10430,4,4,0
+L-Phenylalanine,6140,4,1,3
+Leucocyanidin,71629,4,4,0
+O-alpha-D-Glucopyranosyl-(1->4)-O-alpha-D-glucopyranosyl-(1->4)-D-glucopyranose,439586,4,4,0
+Palmitic Acid,985,4,3,1
+Palmitoylethanolamide,4671,4,2,2
+Platycodin D,162859,4,4,0
+Sophoraflavanone B,480764,4,1,3
+Taurocholic Acid,6675,4,3,1
+Urea,1176,4,4,0
+beta-D-fructose,439709,4,4,0
+(-)-Arctigenin,64981,3,1,2
+(-)-Asparagine,6267,3,2,1
+2-Methylbutyrate,22253297,3,3,0
+Benzenepropanoic acid,107,3,3,0
+Deoxyinosine,135398593,3,3,0
+Doconexent,445580,3,2,1
+Ginsenoside Rh2,119307,3,3,0
+Glutathione,124886,3,1,2
+Glycochenodeoxycholic Acid,12544,3,1,2
+Hexanoate,4398339,3,3,0
+Hydrogen Sulfide,402,3,3,0
+Icariside Ii,5488822,3,3,0
+Indole-3-lactic acid,92904,3,3,0
+Indoxyl Sulfate,10258,3,3,0
+Isovalerate,3587356,3,3,0
+L-Alanine,5950,3,3,0
+L-Ascorbic Acid,54670067,3,1,2
+L-Methionine,6137,3,3,0
+L-Proline,145742,3,3,0
+L-Valine,6287,3,3,0
+Myristic Acid,11005,3,3,0
+O-Desmethylangolensin,89472,3,3,0
+Phloretin,4788,3,1,2
+Protocatechuic Acid,72,3,2,1
+Quinate,6508,3,3,0
+Tryptamine,1150,3,1,2
+cis-11-Eicosenoic acid,5282768,3,2,1
+(+)-Genipin,442424,2,2,0
+(+)-Lariciresinol,332427,2,2,0
+(+)-Melezitose,92817,2,2,0
+(+-)-Aspartic Acid,424,2,2,0
+(20S)-Protopanaxadiol,11213350,2,2,0
+"(E)-3,4-Stilbendiol",10176710,2,2,0
+"1,6-Di-O-phosphono-beta-D-fructofuranose",10267,2,1,1
+"2',4,4',6'-Tetrahydroxychalcone",5280960,2,1,1
+20(R)-Ginsenoside,54580480,2,2,0
+"3-(3,4-Dihydroxyphenyl)-2-hydroxypropanoic acid",439435,2,1,1
+3-Hydroxy-2-methylbutyric acid,160471,2,2,0
+3-Hydroxy-4-methoxybenzenepropanoic acid,2752054,2,2,0
+3-Hydroxybenzoic Acid,7420,2,1,1
+5-Methoxyindoleacetic acid,18986,2,2,0
+5-hydroxy-1H-imidazole-4-carboxamide,124343,2,2,0
+"6,7,4'-Trihydroxyisoflavone",5284649,2,1,1
+Aglycone,139597845,2,2,0
+Agmatine,199,2,2,0
+Benzoate,242,2,2,0
+Bile Acid,439520,2,2,0
+Chenodeoxycholic Acid,10133,2,1,1
+Citric Acid,311,2,2,0
+Decanoic Acid,2969,2,1,1
+Deoxyguanosine,135398592,2,2,0
+Desthiobiotin,445027,2,1,1
+Dihydroresveratrol,185914,2,2,0
+Dopac,547,2,2,0
+Gamma-Aminobutyric Acid,119,2,2,0
+Hydroxyphenylacetic acid,127,2,1,1
+Icaritin,5318980,2,1,1
+Isocaproic acid,12587,2,2,0
+L-(+)-Cysteine,5862,2,1,1
+L-Glutamic Acid,33032,2,1,1
+L-Histidine,6274,2,2,0
+"Leucic acid, L-",83697,2,2,0
+Loganetin,10466307,2,1,1
+Lunularin,181511,2,2,0
+Norathyriol,5281656,2,1,1
+Palmitoleic Acid,445638,2,2,0
+Pantothenic Acid,6613,2,2,0
+Pentanoic Acid,7991,2,2,0
+Pipecolic Acid,849,2,2,0
+Taurodeoxycholic Acid,2733768,2,1,1
+Taurolithocholic Acid,439763,2,1,1
+Thymine,1135,2,2,0
+Trimethylsilyl 3-phenyl-2-[(trimethylsilyl)amino]propanoate,522502,2,2,0
+Tyramine,5610,2,1,1
+Xanthine,1188,2,2,0
+(+-)-3-(4-Hydroxyphenyl)lactic acid,9378,1,1,0
+(-)-Cystine,67678,1,1,0
+(2R)-2-hydroxypropanamide,1530236,1,1,0
+(S)-Lactate,5460161,1,1,0
+"1,2,3-Propanetricarboxylic acid",14925,1,1,0
+"1,3-Diphenyl-2-propanol",138478,1,1,0
+1-18:1-lysoPE,58177709,1,1,0
+1-Caffeoylglycerol,5315606,1,1,0
+1-Propanol,1031,1,1,0
+10-Oxo-trans-11-octadecenoic acid,10308378,1,1,0
+10-keto-12Z-octadecenoic acid,24970825,1,1,0
+11-Methoxycurvularin,10381440,1,1,0
+"2,3-Bis(3,4-dihydroxybenzyl)butyrolactone",500189,1,1,0
+"2,3-Butanediol",262,1,1,0
+"2,4-Dihydroxybenzenepropanoic acid",96384,1,1,0
+"2,4-Dioxopentanedioic acid",444873,1,1,0
+"2-(4-Hydroxyphenyl)propionic acid, (2S)-",6971268,1,1,0
+2-Acetoxypropionic Acid,79041,1,1,0
+"2-Amino-1-Methyl-6-Phenylimidazo(4,5-b)Pyridine",1530,1,1,0
+2-Methylbutanoic Acid,8314,1,1,0
+3-(1H-indol-3-yl)propanoate,3292996,1,1,0
+"3-(3',4'-Dihydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)-propan-2-ol",21722175,1,1,0
+3-(3'-Hydroxyphenyl)propionic acid,91,1,1,0
+3-Hydroxyphenethyl alcohol,83404,1,1,0
+3-Phospho-D-glyceric acid,439183,1,1,0
+"4-Hydroxy-(3',4'-dihydroxyphenyl)-valeric acid",52920332,1,1,0
+"4-[(Z)-15,16-dihydroxydotriacont-19-enyl]-2-methyl-2H-uran-5-one",131751737,1,1,0
+"5-(3,4-Dihydroxyphenyl)-valerolactone",45093073,1,1,0
+5-(Hydroxy-3-indolyl)lactic acid,192215,1,1,0
+"5-Amino-5-carboxy-N,N,N-trimethyl-1-pentanaminium",159660,1,1,0
+5-Hydroxyindoleacetic Acid,1826,1,1,0
+6'-Hydroxy-O-desmethylangolensin,20601635,1,1,0
+7-Aminoheptanoic acid,13580,1,1,0
+"Acetic acid, monoanhydride with phosphoric acid, ion(2-)",4183249,1,1,0
+Acetoin,179,1,1,0
+Allocholic acid,160636,1,1,0
+Ammonium,223,1,1,0
+Butanedione,650,1,1,0
+Carbon Dioxide,280,1,1,0
+Citrulline,9750,1,1,0
+Cohibin B,102066451,1,1,0
+Colibactin,138805674,1,1,0
+D-Glucuronic Acid,94715,1,1,0
+D-Lactic Acid,61503,1,1,0
+D-Methionine,84815,1,1,0
+D-Sedoheptulose,5459879,1,1,0
+D-Xylose,135191,1,1,0
+DL-alanine,602,1,1,0
+DL-norvaline,824,1,1,0
+Dihydrogenistein,9838356,1,1,0
+Dihydroglycitein,101101166,1,1,0
+Folic Acid,135398658,1,1,0
+Ginsenoside Rd,11679800,1,1,0
+Glycerol,753,1,1,0
+Glycoursodeoxycholic acid,12310288,1,1,0
+Hesperetin dihydrochalcone,147608,1,1,0
+Hydrogen,783,1,1,0
+Hydroquinone,785,1,1,0
+Hypoxanthine,135398638,1,1,0
+L-(-)-Ornithine,6262,1,1,0
+L-Aspartic Acid,5960,1,1,0
+L-Homoserine,12647,1,1,0
+L-Threonine,6288,1,1,0
+L-Tyrosine,6057,1,1,0
+Leu-Pro,80817,1,1,0
+N-Acetyl-L-Aspartic Acid,65065,1,1,0
+N-Acetyl-L-ornithine,439232,1,1,0
+N-Acetylputrescine,122356,1,1,0
+Oxaloacetic Acid,970,1,1,0
+P-Cresol glucuronide,154035,1,1,0
+P-Cresol sulfate,4615423,1,1,0
+Phenylacetic Acid,999,1,1,0
+Phloroglucinol,359,1,1,0
+Ponciretin,25201019,1,1,0
+Propylene Glycol,1030,1,1,0
+Protopanaxadiol,9920281,1,1,0
+Pyruvate,107735,1,1,0
+Quercetagetin 3-rhamnoside,129887767,1,1,0
+Quercimeritrin,5282160,1,1,0
+Sulfate Ion,1117,1,1,0
+Valerate,114781,1,1,0
+beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-beta-D-Gal-(1->4)-D-Glc,9831622,1,1,0
+lacto-N-tetraose,440993,1,1,0

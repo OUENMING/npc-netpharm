@@ -1,0 +1,10 @@
+﻿threshold,nodes,edges,isolated,rank_AKT1,rank_CTNNB1,rank_EGFR,rank_GSK3B,rank_PTGS2,rank_SRC,hubs_in_degree_top10,top10_degree,panel,variant,disease_set_size,core,pct_bg_in_set,pct_ours,p_enrich
+0.4,128.0,1037.0,6.0,1.0,2.0,3.0,7.0,5.0,3.0,6.0,AKT1;CTNNB1;SRC;EGFR;PTGS2;PPARG;GSK3B;MMP9;PARP1;TLR4,A/B,,,,,,
+0.7,105.0,336.0,29.0,2.0,1.0,2.0,23.0,5.0,4.0,5.0,CTNNB1;EGFR;AKT1;SRC;PTGS2;PIK3CA;PIK3R1;CYP3A4;MMP9;CYP2C9,A/B,,,,,,
+0.9,83.0,184.0,51.0,13.0,2.0,6.0,27.0,15.0,1.0,3.0,SRC;CTNNB1;PIK3CA;CYP2C19;CYP3A4;EGFR;PIK3R1;CYP2C9;CYP1A1;CYP2C8,A/B,,,,,,
+,,,,,,,,,,,,D,0 原口径：GeneCards 全部 ∪ DisGeNET,8642.0,134.0,60.6,53.6,0.9952
+,,,,,,,,,,,,D,1 GeneCards≥中位数(32.82) ∪ DisGeNET 全部,4379.0,121.0,50.8,48.4,0.8166
+,,,,,,,,,,,,D,2 仅 GeneCards≥中位数(32.82)（去掉 DisGeNET）,4278.0,120.0,49.6,48.0,0.7424
+,,,,,,,,,,,,D,3 GeneCards≥75 分位(62.9) ∪ DisGeNET,2283.0,95.0,35.0,38.0,0.1524
+,,,,,,,,,,,,D,4 GeneCards 前 1000 ∪ DisGeNET,1182.0,64.0,22.2,25.6,0.0854
+,,,,,,,,,,,,D,5 仅 GeneCards 前 1000,1000.0,62.0,19.8,24.8,0.0177

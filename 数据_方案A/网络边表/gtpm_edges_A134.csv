@@ -1,0 +1,2295 @@
+﻿source,target,interaction
+(+-)-Naringenin,ABCC1,代谢物预测结合靶点
+(+-)-Naringenin,CBR1,代谢物预测结合靶点
+(+-)-Naringenin,CYP1A2,代谢物预测结合靶点
+(+-)-Naringenin,CYP1B1,代谢物预测结合靶点
+(+-)-Naringenin,CYP2C19,代谢物预测结合靶点
+(+-)-Naringenin,CYP3A4,代谢物预测结合靶点
+(+-)-Naringenin,DPP4,代谢物预测结合靶点
+(-)-Arctigenin,CYP2C19,代谢物预测结合靶点
+(-)-Arctigenin,MAP2K1,代谢物预测结合靶点
+(-)-Asparagine,CYP3A4,代谢物预测结合靶点
+"1,6-Di-O-phosphono-beta-D-fructofuranose",PKM,代谢物预测结合靶点
+"2',4,4',6'-Tetrahydroxychalcone",CHRNA7,代谢物预测结合靶点
+"3-(3,4-Dihydroxyphenyl)-2-hydroxypropanoic acid",KDM6B,代谢物预测结合靶点
+3-Hydroxybenzoic Acid,CA9,代谢物预测结合靶点
+4-Hydroxybenzoic Acid,CA5B,代谢物预测结合靶点
+4-Hydroxybenzoic Acid,CA9,代谢物预测结合靶点
+"6,7,4'-Trihydroxyisoflavone",ALOX12,代谢物预测结合靶点
+ABCB1,hsa02010:ABC transporters,靶点参与通路
+ABCB1,hsa04976:Bile secretion,靶点参与通路
+ABCB1,hsa05206:MicroRNAs in cancer,靶点参与通路
+ABCB1,hsa05226:Gastric cancer,靶点参与通路
+ABCB11,hsa01522:Endocrine resistance,靶点参与通路
+ABCB11,hsa02010:ABC transporters,靶点参与通路
+ABCB11,hsa04976:Bile secretion,靶点参与通路
+ABCC1,hsa02010:ABC transporters,靶点参与通路
+ABCC1,hsa04071:Sphingolipid signaling pathway,靶点参与通路
+ABCC1,hsa04981:Folate transport and metabolism,靶点参与通路
+ABCC1,hsa05206:MicroRNAs in cancer,靶点参与通路
+ABCG2,hsa02010:ABC transporters,靶点参与通路
+ABCG2,hsa04976:Bile secretion,靶点参与通路
+ABCG2,hsa04981:Folate transport and metabolism,靶点参与通路
+ABL1,hsa04012:ErbB signaling pathway,靶点参与通路
+ABL1,hsa04014:Ras signaling pathway,靶点参与通路
+ABL1,hsa04360:Axon guidance,靶点参与通路
+ABL1,hsa04517:IgSF CAM signaling,靶点参与通路
+ABL1,hsa04722:Neurotrophin signaling pathway,靶点参与通路
+ABL1,hsa05200:Pathways in cancer,靶点参与通路
+ABL1,hsa05206:MicroRNAs in cancer,靶点参与通路
+ABL1,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+ABL1,hsa05220:Chronic myeloid leukemia,靶点参与通路
+ACE2,hsa05171:Coronavirus disease,靶点参与通路
+AHR,hsa04934:Cushing syndrome,靶点参与通路
+AHR,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+AHR,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+AKR1B1,hsa00790:Folate biosynthesis,靶点参与通路
+AKR1B1,hsa01100:Metabolic pathways,靶点参与通路
+AKR1B10,hsa00790:Folate biosynthesis,靶点参与通路
+AKR1B10,hsa01100:Metabolic pathways,靶点参与通路
+AKR1C3,hsa00140:Steroid hormone biosynthesis,靶点参与通路
+AKR1C3,hsa00590:Arachidonic acid metabolism,靶点参与通路
+AKR1C3,hsa00790:Folate biosynthesis,靶点参与通路
+AKR1C3,hsa01100:Metabolic pathways,靶点参与通路
+AKR1C3,hsa04913:Ovarian steroidogenesis,靶点参与通路
+AKR1C3,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+AKT1,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+AKT1,hsa01522:Endocrine resistance,靶点参与通路
+AKT1,hsa01524:Platinum drug resistance,靶点参与通路
+AKT1,hsa04010:MAPK signaling pathway,靶点参与通路
+AKT1,hsa04012:ErbB signaling pathway,靶点参与通路
+AKT1,hsa04014:Ras signaling pathway,靶点参与通路
+AKT1,hsa04015:Rap1 signaling pathway,靶点参与通路
+AKT1,hsa04024:cAMP signaling pathway,靶点参与通路
+AKT1,hsa04062:Chemokine signaling pathway,靶点参与通路
+AKT1,hsa04066:HIF-1 signaling pathway,靶点参与通路
+AKT1,hsa04068:FoxO signaling pathway,靶点参与通路
+AKT1,hsa04071:Sphingolipid signaling pathway,靶点参与通路
+AKT1,hsa04072:Phospholipase D signaling pathway,靶点参与通路
+AKT1,hsa04140:Autophagy - animal,靶点参与通路
+AKT1,hsa04150:mTOR signaling pathway,靶点参与通路
+AKT1,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+AKT1,hsa04152:AMPK signaling pathway,靶点参与通路
+AKT1,hsa04210:Apoptosis,靶点参与通路
+AKT1,hsa04211:Longevity regulating pathway,靶点参与通路
+AKT1,hsa04213:Longevity regulating pathway - multiple species,靶点参与通路
+AKT1,hsa04218:Cellular senescence,靶点参与通路
+AKT1,hsa04370:VEGF signaling pathway,靶点参与通路
+AKT1,hsa04380:Osteoclast differentiation,靶点参与通路
+AKT1,hsa04510:Focal adhesion,靶点参与通路
+AKT1,hsa04517:IgSF CAM signaling,靶点参与通路
+AKT1,hsa04518:Integrin signaling,靶点参与通路
+AKT1,hsa04550:Signaling pathways regulating pluripotency of stem cells,靶点参与通路
+AKT1,hsa04611:Platelet activation,靶点参与通路
+AKT1,hsa04613:Neutrophil extracellular trap formation,靶点参与通路
+AKT1,hsa04620:Toll-like receptor signaling pathway,靶点参与通路
+AKT1,hsa04625:C-type lectin receptor signaling pathway,靶点参与通路
+AKT1,hsa04630:JAK-STAT signaling pathway,靶点参与通路
+AKT1,hsa04660:T cell receptor signaling pathway,靶点参与通路
+AKT1,hsa04662:B cell receptor signaling pathway,靶点参与通路
+AKT1,hsa04664:Fc epsilon RI signaling pathway,靶点参与通路
+AKT1,hsa04666:Fc gamma R-mediated phagosome formation,靶点参与通路
+AKT1,hsa04668:TNF signaling pathway,靶点参与通路
+AKT1,hsa04722:Neurotrophin signaling pathway,靶点参与通路
+AKT1,hsa04725:Cholinergic synapse,靶点参与通路
+AKT1,hsa04728:Dopaminergic synapse,靶点参与通路
+AKT1,hsa04810:Regulation of actin cytoskeleton,靶点参与通路
+AKT1,hsa04910:Insulin signaling pathway,靶点参与通路
+AKT1,hsa04914:Progesterone-mediated oocyte maturation,靶点参与通路
+AKT1,hsa04915:Estrogen signaling pathway,靶点参与通路
+AKT1,hsa04917:Prolactin signaling pathway,靶点参与通路
+AKT1,hsa04919:Thyroid hormone signaling pathway,靶点参与通路
+AKT1,hsa04920:Adipocytokine signaling pathway,靶点参与通路
+AKT1,hsa04922:Glucagon signaling pathway,靶点参与通路
+AKT1,hsa04923:Regulation of lipolysis in adipocytes,靶点参与通路
+AKT1,hsa04926:Relaxin signaling pathway,靶点参与通路
+AKT1,hsa04929:GnRH secretion,靶点参与通路
+AKT1,hsa04931:Insulin resistance,靶点参与通路
+AKT1,hsa04932:Non-alcoholic fatty liver disease,靶点参与通路
+AKT1,hsa04933:AGE-RAGE signaling pathway in diabetic complications,靶点参与通路
+AKT1,"hsa04935:Growth hormone synthesis, secretion and action",靶点参与通路
+AKT1,hsa04936:Alcoholic liver disease,靶点参与通路
+AKT1,hsa05010:Alzheimer disease,靶点参与通路
+AKT1,hsa05131:Shigellosis,靶点参与通路
+AKT1,hsa05132:Salmonella infection,靶点参与通路
+AKT1,hsa05135:Yersinia infection,靶点参与通路
+AKT1,hsa05142:Chagas disease,靶点参与通路
+AKT1,hsa05145:Toxoplasmosis,靶点参与通路
+AKT1,hsa05152:Tuberculosis,靶点参与通路
+AKT1,hsa05160:Hepatitis C,靶点参与通路
+AKT1,hsa05161:Hepatitis B,靶点参与通路
+AKT1,hsa05162:Measles,靶点参与通路
+AKT1,hsa05163:Human cytomegalovirus infection,靶点参与通路
+AKT1,hsa05164:Influenza A,靶点参与通路
+AKT1,hsa05165:Human papillomavirus infection,靶点参与通路
+AKT1,hsa05166:Human T-cell leukemia virus 1 infection,靶点参与通路
+AKT1,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+AKT1,hsa05168:Herpes simplex virus 1 infection,靶点参与通路
+AKT1,hsa05169:Epstein-Barr virus infection,靶点参与通路
+AKT1,hsa05170:Human immunodeficiency virus 1 infection,靶点参与通路
+AKT1,hsa05200:Pathways in cancer,靶点参与通路
+AKT1,hsa05205:Proteoglycans in cancer,靶点参与通路
+AKT1,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+AKT1,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+AKT1,hsa05210:Colorectal cancer,靶点参与通路
+AKT1,hsa05211:Renal cell carcinoma,靶点参与通路
+AKT1,hsa05212:Pancreatic cancer,靶点参与通路
+AKT1,hsa05213:Endometrial cancer,靶点参与通路
+AKT1,hsa05214:Glioma,靶点参与通路
+AKT1,hsa05215:Prostate cancer,靶点参与通路
+AKT1,hsa05218:Melanoma,靶点参与通路
+AKT1,hsa05220:Chronic myeloid leukemia,靶点参与通路
+AKT1,hsa05221:Acute myeloid leukemia,靶点参与通路
+AKT1,hsa05222:Small cell lung cancer,靶点参与通路
+AKT1,hsa05223:Non-small cell lung cancer,靶点参与通路
+AKT1,hsa05224:Breast cancer,靶点参与通路
+AKT1,hsa05225:Hepatocellular carcinoma,靶点参与通路
+AKT1,hsa05226:Gastric cancer,靶点参与通路
+AKT1,hsa05230:Central carbon metabolism in cancer,靶点参与通路
+AKT1,hsa05231:Choline metabolism in cancer,靶点参与通路
+AKT1,hsa05235:PD-L1 expression and PD-1 checkpoint pathway in cancer,靶点参与通路
+AKT1,hsa05415:Diabetic cardiomyopathy,靶点参与通路
+AKT1,hsa05417:Lipid and atherosclerosis,靶点参与通路
+AKT1,hsa05418:Fluid shear stress and atherosclerosis,靶点参与通路
+ALDH2,hsa00340:Histidine metabolism,靶点参与通路
+ALDH2,hsa00380:Tryptophan metabolism,靶点参与通路
+ALDH2,hsa01100:Metabolic pathways,靶点参与通路
+ALDH2,hsa04936:Alcoholic liver disease,靶点参与通路
+ALK,hsa05200:Pathways in cancer,靶点参与通路
+ALK,hsa05223:Non-small cell lung cancer,靶点参与通路
+ALK,hsa05235:PD-L1 expression and PD-1 checkpoint pathway in cancer,靶点参与通路
+ALOX12,hsa00590:Arachidonic acid metabolism,靶点参与通路
+ALOX12,hsa01100:Metabolic pathways,靶点参与通路
+ALOX12,hsa04726:Serotonergic synapse,靶点参与通路
+ALOX12,hsa04750:Inflammatory mediator regulation of TRP channels,靶点参与通路
+ALOX15,hsa00590:Arachidonic acid metabolism,靶点参与通路
+ALOX15,hsa00591:Linoleic acid metabolism,靶点参与通路
+ALOX15,hsa01100:Metabolic pathways,靶点参与通路
+ALOX15,hsa04148:Efferocytosis,靶点参与通路
+ALOX15,hsa04217:Necroptosis,靶点参与通路
+ALOX15,hsa04726:Serotonergic synapse,靶点参与通路
+ALOX5,hsa00590:Arachidonic acid metabolism,靶点参与通路
+ALOX5,hsa01100:Metabolic pathways,靶点参与通路
+ALOX5,hsa04148:Efferocytosis,靶点参与通路
+ALOX5,hsa04664:Fc epsilon RI signaling pathway,靶点参与通路
+ALOX5,hsa04726:Serotonergic synapse,靶点参与通路
+ALOX5,hsa04913:Ovarian steroidogenesis,靶点参与通路
+ALOX5,hsa05145:Toxoplasmosis,靶点参与通路
+ALPL,hsa00790:Folate biosynthesis,靶点参与通路
+ALPL,hsa01100:Metabolic pathways,靶点参与通路
+ALPL,hsa04145:Phagocytosis,靶点参与通路
+AR,hsa04114:Oocyte meiosis,靶点参与通路
+AR,hsa05200:Pathways in cancer,靶点参与通路
+AR,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+AR,hsa05215:Prostate cancer,靶点参与通路
+Acacetin,CDK9,代谢物预测结合靶点
+Acacetin,CYP1A1,代谢物预测结合靶点
+Acacetin,CYP1A2,代谢物预测结合靶点
+Acacetin,CYP1B1,代谢物预测结合靶点
+Acacetin,CYP2C19,代谢物预测结合靶点
+Acacetin,CYP2C9,代谢物预测结合靶点
+Acacetin,CYP3A4,代谢物预测结合靶点
+Acacetin,IP6K2,代谢物预测结合靶点
+Acacetin,KCNA5,代谢物预测结合靶点
+Acacetin,KCND3,代谢物预测结合靶点
+Acacetin,MAOA,代谢物预测结合靶点
+Acacetin,MAOB,代谢物预测结合靶点
+Acidaminobacter,L-Glutamic Acid,菌产生代谢物
+Acidaminobacter,L-Threonine,菌产生代谢物
+Acidipropionibacterium acidipropionici,Propionate ion,菌产生代谢物
+Acidipropionibacterium acidipropionici,Succinate,菌产生代谢物
+Acinetobacter,4-Pyridoxic Acid,菌产生代谢物
+Acinetobacter baumannii,Trimethylamine,菌产生代谢物
+Actinomycetota,Benzenepropanoic acid,菌产生代谢物
+Actinomycetota,Trimethylamine,菌产生代谢物
+Adlercreutzia equolifaciens,"(E)-3,4-Stilbendiol",菌产生代谢物
+Adlercreutzia equolifaciens,Dihydroresveratrol,菌产生代谢物
+Adlercreutzia equolifaciens,Equol,菌产生代谢物
+Adlercreutzia equolifaciens,Lunularin,菌产生代谢物
+Agathobacter,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Agathobacter,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Agathobacter,Arachidonic Acid,菌产生代谢物
+Agathobacter rectalis,Acetate,菌产生代谢物
+Agathobacter rectalis,Butyrate,菌产生代谢物
+Akkermansia,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Akkermansia,Creatine,菌产生代谢物
+Akkermansia,Glycocholic Acid,菌产生代谢物
+Akkermansia,O-alpha-D-Glucopyranosyl-(1->4)-O-alpha-D-glucopyranosyl-(1->4)-D-glucopyranose,菌产生代谢物
+Akkermansia muciniphila,Acetate,菌产生代谢物
+Akkermansia muciniphila,Propionate ion,菌产生代谢物
+Alistipes,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Alistipes,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Alistipes,Isoallolithocholic Acid,菌产生代谢物
+Alistipes indistinctus,Acetic acid 10-acetoxymethyl-anthracen-9-ylmethyl ester,菌产生代谢物
+Alistipes indistinctus,Isovaleric Acid,菌产生代谢物
+Alistipes indistinctus,Succinate,菌产生代谢物
+Alistipes shahii,Trimethylamine oxide,菌产生代谢物
+Amedibacillus dolichus,1H-Indole-3-propanoic acid,菌产生代谢物
+Anaerobutyricum hallii,"7-Hydroxy-5-methyl-3-phenyl-6,7,8,9-tetrahydropyrido[3',2':4,5]imidazo[1,2-a]pyrimidin-5-ium chloride",菌产生代谢物
+Anaerobutyricum hallii,Butyrate,菌产生代谢物
+Anaerobutyricum hallii,Lithocholic Acid,菌产生代谢物
+Anaerobutyricum hallii,Trimethylamine oxide,菌产生代谢物
+Anaerostipes hadrus,Acetate,菌产生代谢物
+Anaerostipes hadrus,Butyrate,菌产生代谢物
+Anaerotignum,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Anaerotignum,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Apigenin,ABCB1,代谢物预测结合靶点
+Apigenin,ABCC1,代谢物预测结合靶点
+Apigenin,ABCG2,代谢物预测结合靶点
+Apigenin,AKR1B10,代谢物预测结合靶点
+Apigenin,AR,代谢物预测结合靶点
+Apigenin,BACE1,代谢物预测结合靶点
+Apigenin,CDK6,代谢物预测结合靶点
+Apigenin,CFTR,代谢物预测结合靶点
+Apigenin,CSNK2A1,代谢物预测结合靶点
+Apigenin,CYP1A1,代谢物预测结合靶点
+Apigenin,CYP1A2,代谢物预测结合靶点
+Apigenin,CYP1B1,代谢物预测结合靶点
+Apigenin,CYP2C19,代谢物预测结合靶点
+Apigenin,CYP3A4,代谢物预测结合靶点
+Apigenin,DPP4,代谢物预测结合靶点
+Apigenin,GSK3B,代谢物预测结合靶点
+Apigenin,HDAC6,代谢物预测结合靶点
+Apigenin,IP6K2,代谢物预测结合靶点
+Apigenin,MAOA,代谢物预测结合靶点
+Apigenin,MAOB,代谢物预测结合靶点
+Apigenin,MKNK2,代谢物预测结合靶点
+Apigenin,NLRP3,代谢物预测结合靶点
+Apigenin,PKM,代谢物预测结合靶点
+Apigenin,PSMB5,代谢物预测结合靶点
+Apigenin,PTGS2,代谢物预测结合靶点
+Apigenin,SYK,代谢物预测结合靶点
+Apigenin,TNKS,代谢物预测结合靶点
+Arachidonic Acid,PPARA,代谢物预测结合靶点
+Arachidonic Acid,PPARD,代谢物预测结合靶点
+BACE1,hsa05010:Alzheimer disease,靶点参与通路
+BRAF,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+BRAF,hsa01522:Endocrine resistance,靶点参与通路
+BRAF,hsa04010:MAPK signaling pathway,靶点参与通路
+BRAF,hsa04012:ErbB signaling pathway,靶点参与通路
+BRAF,hsa04015:Rap1 signaling pathway,靶点参与通路
+BRAF,hsa04024:cAMP signaling pathway,靶点参与通路
+BRAF,hsa04062:Chemokine signaling pathway,靶点参与通路
+BRAF,hsa04068:FoxO signaling pathway,靶点参与通路
+BRAF,hsa04150:mTOR signaling pathway,靶点参与通路
+BRAF,hsa04510:Focal adhesion,靶点参与通路
+BRAF,hsa04650:Natural killer cell mediated cytotoxicity,靶点参与通路
+BRAF,hsa04720:Long-term potentiation,靶点参与通路
+BRAF,hsa04722:Neurotrophin signaling pathway,靶点参与通路
+BRAF,hsa04726:Serotonergic synapse,靶点参与通路
+BRAF,hsa04810:Regulation of actin cytoskeleton,靶点参与通路
+BRAF,hsa04910:Insulin signaling pathway,靶点参与通路
+BRAF,hsa04914:Progesterone-mediated oocyte maturation,靶点参与通路
+BRAF,"hsa04928:Parathyroid hormone synthesis, secretion and action",靶点参与通路
+BRAF,hsa04934:Cushing syndrome,靶点参与通路
+BRAF,hsa05010:Alzheimer disease,靶点参与通路
+BRAF,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+BRAF,hsa05160:Hepatitis C,靶点参与通路
+BRAF,hsa05161:Hepatitis B,靶点参与通路
+BRAF,hsa05200:Pathways in cancer,靶点参与通路
+BRAF,hsa05205:Proteoglycans in cancer,靶点参与通路
+BRAF,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+BRAF,hsa05210:Colorectal cancer,靶点参与通路
+BRAF,hsa05211:Renal cell carcinoma,靶点参与通路
+BRAF,hsa05212:Pancreatic cancer,靶点参与通路
+BRAF,hsa05213:Endometrial cancer,靶点参与通路
+BRAF,hsa05214:Glioma,靶点参与通路
+BRAF,hsa05215:Prostate cancer,靶点参与通路
+BRAF,hsa05216:Thyroid cancer,靶点参与通路
+BRAF,hsa05218:Melanoma,靶点参与通路
+BRAF,hsa05219:Bladder cancer,靶点参与通路
+BRAF,hsa05220:Chronic myeloid leukemia,靶点参与通路
+BRAF,hsa05221:Acute myeloid leukemia,靶点参与通路
+BRAF,hsa05223:Non-small cell lung cancer,靶点参与通路
+BRAF,hsa05224:Breast cancer,靶点参与通路
+BRAF,hsa05225:Hepatocellular carcinoma,靶点参与通路
+BRAF,hsa05226:Gastric cancer,靶点参与通路
+Bacillota,Benzenepropanoic acid,菌产生代谢物
+Bacillota,Benzoate,菌产生代谢物
+Bacillota bacterium,(R)-3-(4-Hydroxyphenyl)lactate,菌产生代谢物
+Bacillota bacterium,"Ethyl phenyllactate, (-)-",菌产生代谢物
+Bacillus sp. 46,11-Methoxycurvularin,菌产生代谢物
+Bacillus sp. 46,Isoquercetin,菌产生代谢物
+Bacillus sp. 46,Platycodin D,菌产生代谢物
+Bacillus sp. 46,Quercetin,菌产生代谢物
+Bacillus sp. 46,Quercimeritrin,菌产生代谢物
+Bacillus sp. 46,Quercitrin,菌产生代谢物
+Bacillus sp. 52,Isoquercetin,菌产生代谢物
+Bacillus sp. 52,Leucocyanidin,菌产生代谢物
+Bacteria Latreille et al. 1825,Acetate,菌产生代谢物
+Bacteria Latreille et al. 1825,Ethanol,菌产生代谢物
+Bacteria Latreille et al. 1825,Lactate,菌产生代谢物
+Bacteroides,(+)-Melezitose,菌产生代谢物
+Bacteroides,(+-)-Aspartic Acid,菌产生代谢物
+Bacteroides,2-Methylbutyrate,菌产生代谢物
+Bacteroides,3-Hydroxy-2-methylbutyric acid,菌产生代谢物
+Bacteroides,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Bacteroides,5-Methoxyindoleacetic acid,菌产生代谢物
+Bacteroides,Acetate,菌产生代谢物
+Bacteroides,Arachidonic Acid,菌产生代谢物
+Bacteroides,Coumarin,菌产生代谢物
+Bacteroides,Deoxyguanosine,菌产生代谢物
+Bacteroides,Deoxyinosine,菌产生代谢物
+Bacteroides,Hexanoate,菌产生代谢物
+Bacteroides,Indole-3-lactic acid,菌产生代谢物
+Bacteroides,Isoallolithocholic Acid,菌产生代谢物
+Bacteroides,Isobutyric Acid,菌产生代谢物
+Bacteroides,Isovalerate,菌产生代谢物
+Bacteroides,L-Isoleucine,菌产生代谢物
+Bacteroides,L-Methionine,菌产生代谢物
+Bacteroides,Oxaloacetic Acid,菌产生代谢物
+Bacteroides,Palmitoylethanolamide,菌产生代谢物
+Bacteroides,Pantothenic Acid,菌产生代谢物
+Bacteroides,Propionate ion,菌产生代谢物
+Bacteroides,Succinate,菌产生代谢物
+Bacteroides,Thymine,菌产生代谢物
+Bacteroides,Xanthine,菌产生代谢物
+Bacteroides caccae,(R)-3-(4-Hydroxyphenyl)lactate,菌产生代谢物
+Bacteroides caccae,"2,3-Dihydroxybutanedioic Acid",菌产生代谢物
+Bacteroides caccae,4-Pyridoxic Acid,菌产生代谢物
+Bacteroides caccae,"Ethyl phenyllactate, (-)-",菌产生代谢物
+Bacteroides fragilis,(+)-Genipin,菌产生代谢物
+Bacteroides fragilis,(-)-Secoisolariciresinol,菌产生代谢物
+Bacteroides fragilis,Equol,菌产生代谢物
+Bacteroides ovatus,(-)-Secoisolariciresinol,菌产生代谢物
+Bacteroides ovatus,Equol,菌产生代谢物
+Bacteroides ovatus,Quercetin,菌产生代谢物
+Bacteroides sp. 22,Isoquercetin,菌产生代谢物
+Bacteroides sp. 42,Leucocyanidin,菌产生代谢物
+Bacteroides sp. 45,Isoquercetin,菌产生代谢物
+Bacteroides sp. 45,Leucocyanidin,菌产生代谢物
+Bacteroides sp. 45,Protocatechuic Acid,菌产生代谢物
+Bacteroides sp. 45,Quercetagetin 3-rhamnoside,菌产生代谢物
+Bacteroides sp. 45,Quercetin,菌产生代谢物
+Bacteroides sp. MANG,Aglycone,菌产生代谢物
+Bacteroides sp. MANG,Norathyriol,菌产生代谢物
+Bacteroides stercoris,20(R)-Ginsenoside,菌产生代谢物
+Bacteroides stercoris,Equol,菌产生代谢物
+Bacteroides stercoris,Ginsenoside Rh2,菌产生代谢物
+Bacteroides stercoris,Protopanaxadiol,菌产生代谢物
+Bacteroides stercoris HJ-15,(20S)-Protopanaxadiol,菌产生代谢物
+Bacteroides thetaiotaomicron,(-)-Asparagine,菌产生代谢物
+Bacteroides thetaiotaomicron,(-)-Cystine,菌产生代谢物
+Bacteroides thetaiotaomicron,Acetate,菌产生代谢物
+Bacteroides thetaiotaomicron,DL-alanine,菌产生代谢物
+Bacteroides thetaiotaomicron,Equol,菌产生代谢物
+Bacteroides thetaiotaomicron,Formate,菌产生代谢物
+Bacteroides thetaiotaomicron,Glutathione,菌产生代谢物
+Bacteroides thetaiotaomicron,L-(+)-Cysteine,菌产生代谢物
+Bacteroides thetaiotaomicron,L-Histidine,菌产生代谢物
+Bacteroides thetaiotaomicron,Lactate,菌产生代谢物
+Bacteroides thetaiotaomicron,Propionate ion,菌产生代谢物
+Bacteroides thetaiotaomicron,Succinate,菌产生代谢物
+Bacteroides uniformis,Equol,菌产生代谢物
+Bacteroides uniformis,Quercetin,菌产生代谢物
+Barnesiella intestinihominis,Acetate,菌产生代谢物
+Barnesiella intestinihominis,Succinate,菌产生代谢物
+Bifidobacteriaceae,4-Hydroxybenzoic Acid,菌产生代谢物
+Bifidobacteriaceae,Protocatechuic Acid,菌产生代谢物
+Bifidobacterium,(2R)-2-hydroxypropanamide,菌产生代谢物
+Bifidobacterium,1-Caffeoylglycerol,菌产生代谢物
+Bifidobacterium,3-(1H-indol-3-yl)propanoate,菌产生代谢物
+Bifidobacterium,3-(3'-Hydroxyphenyl)propionic acid,菌产生代谢物
+Bifidobacterium,3-Hydroxyphenethyl alcohol,菌产生代谢物
+Bifidobacterium,"5-Amino-5-carboxy-N,N,N-trimethyl-1-pentanaminium",菌产生代谢物
+Bifidobacterium,7-Aminoheptanoic acid,菌产生代谢物
+Bifidobacterium,Acetate,菌产生代谢物
+Bifidobacterium,Allocholic acid,菌产生代谢物
+Bifidobacterium,Caffeic Acid,菌产生代谢物
+Bifidobacterium,D-Methionine,菌产生代谢物
+Bifidobacterium,DL-norvaline,菌产生代谢物
+Bifidobacterium,Deoxyinosine,菌产生代谢物
+Bifidobacterium,Desthiobiotin,菌产生代谢物
+Bifidobacterium,Dihydrocaffeic Acid,菌产生代谢物
+Bifidobacterium,Folic Acid,菌产生代谢物
+Bifidobacterium,Formate,菌产生代谢物
+Bifidobacterium,L-Methionine,菌产生代谢物
+Bifidobacterium,Lactate,菌产生代谢物
+Bifidobacterium,Leu-Pro,菌产生代谢物
+Bifidobacterium,N-Acetyl-L-ornithine,菌产生代谢物
+Bifidobacterium,N-Acetylputrescine,菌产生代谢物
+Bifidobacterium,Phenylacetic Acid,菌产生代谢物
+Bifidobacterium,Propylene Glycol,菌产生代谢物
+Bifidobacterium,Trimethylamine oxide,菌产生代谢物
+Bifidobacterium adolescentis,Acetate,菌产生代谢物
+Bifidobacterium adolescentis,Butyrate,菌产生代谢物
+Bifidobacterium adolescentis,Daidzein,菌产生代谢物
+Bifidobacterium adolescentis,Genistein,菌产生代谢物
+Bifidobacterium adolescentis,Glycitein,菌产生代谢物
+Bifidobacterium adolescentis,Kaempferol,菌产生代谢物
+Bifidobacterium animalis,Caffeic Acid,菌产生代谢物
+Bifidobacterium animalis,Quinate,菌产生代谢物
+Bifidobacterium animalis subsp. lactis,Daidzein,菌产生代谢物
+Bifidobacterium bifidum,Daidzein,菌产生代谢物
+Bifidobacterium bifidum,Equol,菌产生代谢物
+Bifidobacterium breve,Daidzein,菌产生代谢物
+Bifidobacterium breve,Genistein,菌产生代谢物
+Bifidobacterium breve,Glycitein,菌产生代谢物
+Bifidobacterium breve,Kaempferol,菌产生代谢物
+Bifidobacterium catenulatum,Daidzein,菌产生代谢物
+Bifidobacterium catenulatum,Genistein,菌产生代谢物
+Bifidobacterium catenulatum,Glycitein,菌产生代谢物
+Bifidobacterium catenulatum,Kaempferol,菌产生代谢物
+Bifidobacterium catenulatum subsp. kashiwanohense,beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-beta-D-Gal-(1->4)-D-Glc,菌产生代谢物
+Bifidobacterium catenulatum subsp. kashiwanohense,lacto-N-tetraose,菌产生代谢物
+Bifidobacterium dentium,Ponciretin,菌产生代谢物
+Bifidobacterium dentium,Quercetin,菌产生代谢物
+Bifidobacterium longum,(+)-Genipin,菌产生代谢物
+Bifidobacterium longum,(-)-Arctigenin,菌产生代谢物
+Bifidobacterium longum,Acetate,菌产生代谢物
+Bifidobacterium longum,Butyrate,菌产生代谢物
+Bifidobacterium longum,Daidzein,菌产生代谢物
+Bifidobacterium longum,Dihydrocaffeic Acid,菌产生代谢物
+Bifidobacterium longum,Ginsenoside Rd,菌产生代谢物
+Bifidobacterium longum,Hydroquinone,菌产生代谢物
+Bifidobacterium longum,Lactate,菌产生代谢物
+Bifidobacterium longum,Loganetin,菌产生代谢物
+Bifidobacterium longum subsp. infantis,Daidzein,菌产生代谢物
+Bifidobacterium longum subsp. infantis,Genistein,菌产生代谢物
+Bifidobacterium longum subsp. infantis,Glycitein,菌产生代谢物
+Bifidobacterium longum subsp. infantis,Kaempferol,菌产生代谢物
+Bifidobacterium pseudocatenulatum,Aglycone,菌产生代谢物
+Bifidobacterium pseudocatenulatum,Daidzein,菌产生代谢物
+Bifidobacterium pseudocatenulatum,Genistein,菌产生代谢物
+Bifidobacterium pseudocatenulatum,Glycitein,菌产生代谢物
+Bifidobacterium pseudocatenulatum,Kaempferol,菌产生代谢物
+Bilophila,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Bilophila,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Bilophila,Hexanoic Acid,菌产生代谢物
+Bilophila,Propionate ion,菌产生代谢物
+Bilophila wadsworthia,Deoxycholic Acid,菌产生代谢物
+Bilophila wadsworthia,Hydrogen Sulfide,菌产生代谢物
+Bilophila wadsworthia,Taurocholic Acid,菌产生代谢物
+Blautia,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Blautia,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Blautia,Acetate,菌产生代谢物
+Blautia,Butyrate,菌产生代谢物
+Blautia,Glycine,菌产生代谢物
+Blautia,L-Alanine,菌产生代谢物
+Blautia,L-Isoleucine,菌产生代谢物
+Blautia,L-Leucine,菌产生代谢物
+Blautia,L-Proline,菌产生代谢物
+Blautia,L-Serine,菌产生代谢物
+Blautia,Trimethylamine oxide,菌产生代谢物
+Blautia faecis,Acetate,菌产生代谢物
+Blautia faecis,Lactate,菌产生代谢物
+Blautia obeum,"7-Hydroxy-5-methyl-3-phenyl-6,7,8,9-tetrahydropyrido[3',2':4,5]imidazo[1,2-a]pyrimidin-5-ium chloride",菌产生代谢物
+Blautia producta,"2,3-Bis(3,4-dihydroxybenzyl)butyrolactone",菌产生代谢物
+Blautia producta,Enterodiol,菌产生代谢物
+Blautia producta,Equol,菌产生代谢物
+Blautia sp. MRG-PMF1,Apigenin,菌产生代谢物
+Blautia sp. MRG-PMF1,Chrysin,菌产生代谢物
+Bulleidia,4-Pyridoxic Acid,菌产生代谢物
+Butyrate,HDAC3,代谢物预测结合靶点
+Butyricimonas,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Butyricimonas,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Butyricimonas,Isoallolithocholic Acid,菌产生代谢物
+Butyricimonas synergistica,Butyrate,菌产生代谢物
+Butyricimonas synergistica,Isobutyric Acid,菌产生代谢物
+Butyricimonas virosa,Butyrate,菌产生代谢物
+Butyricimonas virosa,Isobutyric Acid,菌产生代谢物
+CA5B,hsa01100:Metabolic pathways,靶点参与通路
+CA9,hsa01100:Metabolic pathways,靶点参与通路
+CACNA1H,hsa04010:MAPK signaling pathway,靶点参与通路
+CACNA1H,hsa04020:Calcium signaling pathway,靶点参与通路
+CACNA1H,hsa04929:GnRH secretion,靶点参与通路
+CACNA1H,hsa04934:Cushing syndrome,靶点参与通路
+CAMK2A,hsa04012:ErbB signaling pathway,靶点参与通路
+CAMK2A,hsa04020:Calcium signaling pathway,靶点参与通路
+CAMK2A,hsa04024:cAMP signaling pathway,靶点参与通路
+CAMK2A,hsa04066:HIF-1 signaling pathway,靶点参与通路
+CAMK2A,hsa04114:Oocyte meiosis,靶点参与通路
+CAMK2A,hsa04148:Efferocytosis,靶点参与通路
+CAMK2A,hsa04217:Necroptosis,靶点参与通路
+CAMK2A,hsa04360:Axon guidance,靶点参与通路
+CAMK2A,hsa04720:Long-term potentiation,靶点参与通路
+CAMK2A,hsa04722:Neurotrophin signaling pathway,靶点参与通路
+CAMK2A,hsa04725:Cholinergic synapse,靶点参与通路
+CAMK2A,hsa04728:Dopaminergic synapse,靶点参与通路
+CAMK2A,hsa04750:Inflammatory mediator regulation of TRP channels,靶点参与通路
+CAMK2A,hsa04912:GnRH signaling pathway,靶点参与通路
+CAMK2A,hsa04921:Oxytocin signaling pathway,靶点参与通路
+CAMK2A,hsa04922:Glucagon signaling pathway,靶点参与通路
+CAMK2A,hsa04934:Cushing syndrome,靶点参与通路
+CAMK2A,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+CAMK2A,hsa05152:Tuberculosis,靶点参与通路
+CAMK2A,hsa05200:Pathways in cancer,靶点参与通路
+CAMK2A,hsa05205:Proteoglycans in cancer,靶点参与通路
+CAMK2A,hsa05214:Glioma,靶点参与通路
+CAMK2A,hsa05415:Diabetic cardiomyopathy,靶点参与通路
+CAMK2A,hsa05417:Lipid and atherosclerosis,靶点参与通路
+CASP7,hsa04148:Efferocytosis,靶点参与通路
+CASP7,hsa04210:Apoptosis,靶点参与通路
+CASP7,hsa04668:TNF signaling pathway,靶点参与通路
+CASP7,hsa04932:Non-alcoholic fatty liver disease,靶点参与通路
+CASP7,hsa05010:Alzheimer disease,靶点参与通路
+CASP7,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+CASP7,hsa05132:Salmonella infection,靶点参与通路
+CASP7,hsa05200:Pathways in cancer,靶点参与通路
+CASP7,hsa05417:Lipid and atherosclerosis,靶点参与通路
+CBR1,hsa00590:Arachidonic acid metabolism,靶点参与通路
+CBR1,hsa00790:Folate biosynthesis,靶点参与通路
+CBR1,hsa00980:Metabolism of xenobiotics by cytochrome P450,靶点参与通路
+CBR1,hsa01100:Metabolic pathways,靶点参与通路
+CBR1,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+CBR1,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+CD38,hsa01100:Metabolic pathways,靶点参与通路
+CD38,hsa04020:Calcium signaling pathway,靶点参与通路
+CD38,hsa04921:Oxytocin signaling pathway,靶点参与通路
+CDK1,hsa04114:Oocyte meiosis,靶点参与通路
+CDK1,hsa04218:Cellular senescence,靶点参与通路
+CDK1,hsa04540:Gap junction,靶点参与通路
+CDK1,hsa04914:Progesterone-mediated oocyte maturation,靶点参与通路
+CDK1,hsa05170:Human immunodeficiency virus 1 infection,靶点参与通路
+CDK1,hsa05203:Viral carcinogenesis,靶点参与通路
+CDK6,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+CDK6,hsa04218:Cellular senescence,靶点参与通路
+CDK6,hsa04934:Cushing syndrome,靶点参与通路
+CDK6,hsa05160:Hepatitis C,靶点参与通路
+CDK6,hsa05162:Measles,靶点参与通路
+CDK6,hsa05163:Human cytomegalovirus infection,靶点参与通路
+CDK6,hsa05164:Influenza A,靶点参与通路
+CDK6,hsa05165:Human papillomavirus infection,靶点参与通路
+CDK6,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+CDK6,hsa05169:Epstein-Barr virus infection,靶点参与通路
+CDK6,hsa05200:Pathways in cancer,靶点参与通路
+CDK6,hsa05203:Viral carcinogenesis,靶点参与通路
+CDK6,hsa05206:MicroRNAs in cancer,靶点参与通路
+CDK6,hsa05212:Pancreatic cancer,靶点参与通路
+CDK6,hsa05214:Glioma,靶点参与通路
+CDK6,hsa05218:Melanoma,靶点参与通路
+CDK6,hsa05220:Chronic myeloid leukemia,靶点参与通路
+CDK6,hsa05222:Small cell lung cancer,靶点参与通路
+CDK6,hsa05223:Non-small cell lung cancer,靶点参与通路
+CDK6,hsa05224:Breast cancer,靶点参与通路
+CDK6,hsa05225:Hepatocellular carcinoma,靶点参与通路
+CDK9,hsa05202:Transcriptional misregulation in cancer,靶点参与通路
+CEBAS 4A1,Isourolithin A,菌产生代谢物
+CEBAS 4A2,Isourolithin A,菌产生代谢物
+CEBAS 4A3,Isourolithin A,菌产生代谢物
+CEBAS 4A4,Isourolithin A,菌产生代谢物
+CFTR,hsa02010:ABC transporters,靶点参与通路
+CFTR,hsa04024:cAMP signaling pathway,靶点参与通路
+CFTR,hsa04145:Phagocytosis,靶点参与通路
+CFTR,hsa04152:AMPK signaling pathway,靶点参与通路
+CFTR,hsa04976:Bile secretion,靶点参与通路
+CHRM2,hsa04020:Calcium signaling pathway,靶点参与通路
+CHRM2,hsa04024:cAMP signaling pathway,靶点参与通路
+CHRM2,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+CHRM2,hsa04725:Cholinergic synapse,靶点参与通路
+CHRM2,hsa04810:Regulation of actin cytoskeleton,靶点参与通路
+CHRNA7,hsa04020:Calcium signaling pathway,靶点参与通路
+CHRNA7,hsa04725:Cholinergic synapse,靶点参与通路
+CHRNA7,hsa05010:Alzheimer disease,靶点参与通路
+CHRNA7,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+CHRNA7,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+CISD1,hsa01100:Metabolic pathways,靶点参与通路
+CNR1,hsa04015:Rap1 signaling pathway,靶点参与通路
+CSNK2A1,hsa04064:NF-kappa B signaling pathway,靶点参与通路
+CSNK2A1,hsa04520:Adherens junction,靶点参与通路
+CSNK2A1,hsa05010:Alzheimer disease,靶点参与通路
+CSNK2A1,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+CSNK2A1,hsa05162:Measles,靶点参与通路
+CSNK2A1,hsa05235:PD-L1 expression and PD-1 checkpoint pathway in cancer,靶点参与通路
+CTNNB1,hsa04015:Rap1 signaling pathway,靶点参与通路
+CTNNB1,hsa04510:Focal adhesion,靶点参与通路
+CTNNB1,hsa04517:IgSF CAM signaling,靶点参与通路
+CTNNB1,hsa04518:Integrin signaling,靶点参与通路
+CTNNB1,hsa04520:Adherens junction,靶点参与通路
+CTNNB1,hsa04550:Signaling pathways regulating pluripotency of stem cells,靶点参与通路
+CTNNB1,hsa04670:Leukocyte transendothelial migration,靶点参与通路
+CTNNB1,hsa04919:Thyroid hormone signaling pathway,靶点参与通路
+CTNNB1,hsa04934:Cushing syndrome,靶点参与通路
+CTNNB1,hsa04936:Alcoholic liver disease,靶点参与通路
+CTNNB1,hsa05010:Alzheimer disease,靶点参与通路
+CTNNB1,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+CTNNB1,hsa05100:Bacterial invasion of epithelial cells,靶点参与通路
+CTNNB1,hsa05132:Salmonella infection,靶点参与通路
+CTNNB1,hsa05160:Hepatitis C,靶点参与通路
+CTNNB1,hsa05163:Human cytomegalovirus infection,靶点参与通路
+CTNNB1,hsa05165:Human papillomavirus infection,靶点参与通路
+CTNNB1,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+CTNNB1,hsa05200:Pathways in cancer,靶点参与通路
+CTNNB1,hsa05205:Proteoglycans in cancer,靶点参与通路
+CTNNB1,hsa05210:Colorectal cancer,靶点参与通路
+CTNNB1,hsa05213:Endometrial cancer,靶点参与通路
+CTNNB1,hsa05215:Prostate cancer,靶点参与通路
+CTNNB1,hsa05216:Thyroid cancer,靶点参与通路
+CTNNB1,hsa05224:Breast cancer,靶点参与通路
+CTNNB1,hsa05225:Hepatocellular carcinoma,靶点参与通路
+CTNNB1,hsa05226:Gastric cancer,靶点参与通路
+CTNNB1,hsa05418:Fluid shear stress and atherosclerosis,靶点参与通路
+CYP1A1,hsa00140:Steroid hormone biosynthesis,靶点参与通路
+CYP1A1,hsa00380:Tryptophan metabolism,靶点参与通路
+CYP1A1,hsa00830:Retinol metabolism,靶点参与通路
+CYP1A1,hsa00980:Metabolism of xenobiotics by cytochrome P450,靶点参与通路
+CYP1A1,hsa01100:Metabolic pathways,靶点参与通路
+CYP1A1,hsa04913:Ovarian steroidogenesis,靶点参与通路
+CYP1A1,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+CYP1A1,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+CYP1A1,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+CYP1A1,hsa05417:Lipid and atherosclerosis,靶点参与通路
+CYP1A2,hsa00140:Steroid hormone biosynthesis,靶点参与通路
+CYP1A2,hsa00232:Caffeine metabolism,靶点参与通路
+CYP1A2,hsa00380:Tryptophan metabolism,靶点参与通路
+CYP1A2,hsa00591:Linoleic acid metabolism,靶点参与通路
+CYP1A2,hsa00830:Retinol metabolism,靶点参与通路
+CYP1A2,hsa00980:Metabolism of xenobiotics by cytochrome P450,靶点参与通路
+CYP1A2,hsa00982:Drug metabolism - cytochrome P450,靶点参与通路
+CYP1A2,hsa01100:Metabolic pathways,靶点参与通路
+CYP1A2,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+CYP1A2,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+CYP1A2,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+CYP1B1,hsa00140:Steroid hormone biosynthesis,靶点参与通路
+CYP1B1,hsa00380:Tryptophan metabolism,靶点参与通路
+CYP1B1,hsa00980:Metabolism of xenobiotics by cytochrome P450,靶点参与通路
+CYP1B1,hsa04913:Ovarian steroidogenesis,靶点参与通路
+CYP1B1,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+CYP1B1,hsa05206:MicroRNAs in cancer,靶点参与通路
+CYP1B1,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+CYP1B1,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+CYP2A6,hsa00232:Caffeine metabolism,靶点参与通路
+CYP2A6,hsa00830:Retinol metabolism,靶点参与通路
+CYP2A6,hsa00980:Metabolism of xenobiotics by cytochrome P450,靶点参与通路
+CYP2A6,hsa00982:Drug metabolism - cytochrome P450,靶点参与通路
+CYP2A6,hsa01100:Metabolic pathways,靶点参与通路
+CYP2A6,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+CYP2A6,hsa05417:Lipid and atherosclerosis,靶点参与通路
+CYP2C19,hsa00590:Arachidonic acid metabolism,靶点参与通路
+CYP2C19,hsa00591:Linoleic acid metabolism,靶点参与通路
+CYP2C19,hsa00982:Drug metabolism - cytochrome P450,靶点参与通路
+CYP2C19,hsa01100:Metabolic pathways,靶点参与通路
+CYP2C19,hsa04726:Serotonergic synapse,靶点参与通路
+CYP2C19,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+CYP2C8,hsa00590:Arachidonic acid metabolism,靶点参与通路
+CYP2C8,hsa00591:Linoleic acid metabolism,靶点参与通路
+CYP2C8,hsa00830:Retinol metabolism,靶点参与通路
+CYP2C8,hsa00982:Drug metabolism - cytochrome P450,靶点参与通路
+CYP2C8,hsa01100:Metabolic pathways,靶点参与通路
+CYP2C8,hsa04726:Serotonergic synapse,靶点参与通路
+CYP2C8,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+CYP2C8,hsa05417:Lipid and atherosclerosis,靶点参与通路
+CYP2C9,hsa00590:Arachidonic acid metabolism,靶点参与通路
+CYP2C9,hsa00591:Linoleic acid metabolism,靶点参与通路
+CYP2C9,hsa00830:Retinol metabolism,靶点参与通路
+CYP2C9,hsa00980:Metabolism of xenobiotics by cytochrome P450,靶点参与通路
+CYP2C9,hsa00982:Drug metabolism - cytochrome P450,靶点参与通路
+CYP2C9,hsa01100:Metabolic pathways,靶点参与通路
+CYP2C9,hsa04726:Serotonergic synapse,靶点参与通路
+CYP2C9,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+CYP2C9,hsa05417:Lipid and atherosclerosis,靶点参与通路
+CYP2D6,hsa00980:Metabolism of xenobiotics by cytochrome P450,靶点参与通路
+CYP2D6,hsa00982:Drug metabolism - cytochrome P450,靶点参与通路
+CYP2D6,hsa01522:Endocrine resistance,靶点参与通路
+CYP2D6,hsa04726:Serotonergic synapse,靶点参与通路
+CYP3A4,hsa00140:Steroid hormone biosynthesis,靶点参与通路
+CYP3A4,hsa00591:Linoleic acid metabolism,靶点参与通路
+CYP3A4,hsa00830:Retinol metabolism,靶点参与通路
+CYP3A4,hsa00980:Metabolism of xenobiotics by cytochrome P450,靶点参与通路
+CYP3A4,hsa00982:Drug metabolism - cytochrome P450,靶点参与通路
+CYP3A4,hsa01100:Metabolic pathways,靶点参与通路
+CYP3A4,hsa04976:Bile secretion,靶点参与通路
+CYP3A4,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+CYP3A4,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+Caffeic Acid,ALOX5,代谢物预测结合靶点
+Caffeic Acid,CA5B,代谢物预测结合靶点
+Caffeic Acid,CA9,代谢物预测结合靶点
+Caffeic Acid,DPP4,代谢物预测结合靶点
+Caffeic Acid,KDM5B,代谢物预测结合靶点
+Caffeic Acid,MMP1,代谢物预测结合靶点
+Caffeic Acid,MMP2,代谢物预测结合靶点
+Caffeic Acid,MMP9,代谢物预测结合靶点
+Caffeic Acid,PTPN1,代谢物预测结合靶点
+Candidatus Arthromitus,Trimethylamine oxide,菌产生代谢物
+Candidatus Saccharimonas,Linoleic Acid,菌产生代谢物
+Candidatus Saccharimonas,Myristic Acid,菌产生代谢物
+Candidatus Saccharimonas,Oleic Acid,菌产生代谢物
+Candidatus Saccharimonas,Palmitic Acid,菌产生代谢物
+Candidatus Saccharimonas,Palmitoleic Acid,菌产生代谢物
+Candidatus Saccharimonas,cis-11-Eicosenoic acid,菌产生代谢物
+Caproiciproducens,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Catenibacillus scindens,"2,4-Dihydroxybenzenepropanoic acid",菌产生代谢物
+Catenibacillus scindens,3-(4-Hydroxyphenyl)propionic acid,菌产生代谢物
+Catenibacillus scindens,Daidzein,菌产生代谢物
+Catenibacterium,"2,3-Dihydroxybutanedioic Acid",菌产生代谢物
+Chenodeoxycholic Acid,KDR,代谢物预测结合靶点
+Christensenella minuta,Acetate,菌产生代谢物
+Christensenella minuta,Butyrate,菌产生代谢物
+Christensenellaceae,1H-Indole-3-propanoic acid,菌产生代谢物
+Christensenellaceae,Creatine,菌产生代谢物
+Christensenellaceae,Ethanol,菌产生代谢物
+Christensenellaceae,Urea,菌产生代谢物
+Chrysin,ABCB1,代谢物预测结合靶点
+Chrysin,ABCG2,代谢物预测结合靶点
+Chrysin,AKR1B1,代谢物预测结合靶点
+Chrysin,CA9,代谢物预测结合靶点
+Chrysin,CBR1,代谢物预测结合靶点
+Chrysin,CDK6,代谢物预测结合靶点
+Chrysin,CYP1A1,代谢物预测结合靶点
+Chrysin,CYP1A2,代谢物预测结合靶点
+Chrysin,CYP1B1,代谢物预测结合靶点
+Chrysin,CYP2C19,代谢物预测结合靶点
+Chrysin,CYP2C9,代谢物预测结合靶点
+Chrysin,CYP3A4,代谢物预测结合靶点
+Chrysin,HDAC6,代谢物预测结合靶点
+Chrysin,PPARG,代谢物预测结合靶点
+Chrysin,PSMB5,代谢物预测结合靶点
+Citrobacter,2-Methylbutanoic Acid,菌产生代谢物
+Citrobacter,Hexanoic Acid,菌产生代谢物
+Citrobacter,Isobutyric Acid,菌产生代谢物
+Citrobacter,Isovaleric Acid,菌产生代谢物
+Citrobacter,Propionate ion,菌产生代谢物
+Citrobacter freundii,Trimethylamine,菌产生代谢物
+Citrobacter freundii,Trimethylamine oxide,菌产生代谢物
+Clostridiales bacterium,Trimethylamine oxide,菌产生代谢物
+Clostridiales bacterium,Trimethylsilyl 3-phenyl-2-[(trimethylsilyl)amino]propanoate,菌产生代谢物
+Clostridioides difficile,Butyrate,菌产生代谢物
+Clostridioides difficile,Deoxycholic Acid,菌产生代谢物
+Clostridioides difficile,Propionate ion,菌产生代谢物
+Clostridioides difficile,Succinate,菌产生代谢物
+Clostridioides difficile,Taurocholic Acid,菌产生代谢物
+Clostridioides difficile,Valerate,菌产生代谢物
+Clostridium,4-Hydroxybenzoic Acid,菌产生代谢物
+Clostridium,"Acetic acid, monoanhydride with phosphoric acid, ion(2-)",菌产生代谢物
+Clostridium,Butyrate,菌产生代谢物
+Clostridium,O-alpha-D-Glucopyranosyl-(1->4)-O-alpha-D-glucopyranosyl-(1->4)-D-glucopyranose,菌产生代谢物
+Clostridium,Pyruvate,菌产生代谢物
+Clostridium cadaveris,1H-Indole-3-propanoic acid,菌产生代谢物
+Clostridium pasteurianum,Acetate,菌产生代谢物
+Clostridium pasteurianum,Butyrate,菌产生代谢物
+Clostridium perfringens,Butyrate,菌产生代谢物
+Clostridium perfringens,Propionate ion,菌产生代谢物
+Clostridium sp.,(-)-Secoisolariciresinol,菌产生代谢物
+Clostridium sp.,(R)-3-(4-Hydroxyphenyl)lactate,菌产生代谢物
+Clostridium sp.,"Ethyl phenyllactate, (-)-",菌产生代谢物
+Clostridium sp. HGH136,6'-Hydroxy-O-desmethylangolensin,菌产生代谢物
+Clostridium sp. HGH136,O-Desmethylangolensin,菌产生代谢物
+Clostridium sp. HGH6,(+-)-Dihydrodaidzein,菌产生代谢物
+Clostridium sp. HGH6,"2,4-Dioxopentanedioic acid",菌产生代谢物
+Clostridium sp. L2-50,Acetate,菌产生代谢物
+Clostridium sp. TM-40,(+-)-Dihydrodaidzein,菌产生代谢物
+Clostridium sporogenes,(+-)-3-(4-Hydroxyphenyl)lactic acid,菌产生代谢物
+Clostridium sporogenes,1H-Indole-3-propanoic acid,菌产生代谢物
+Clostridium sporogenes,"3-(3,4-Dihydroxyphenyl)-2-hydroxypropanoic acid",菌产生代谢物
+Clostridium sporogenes,3-(4-Hydroxyphenyl)propionic acid,菌产生代谢物
+Clostridium sporogenes,5-(Hydroxy-3-indolyl)lactic acid,菌产生代谢物
+Clostridium sporogenes,Ammonium,菌产生代谢物
+Clostridium sporogenes,Benzenepropanoic acid,菌产生代谢物
+Clostridium sporogenes,Carbon Dioxide,菌产生代谢物
+Clostridium sporogenes,Dihydrocaffeic Acid,菌产生代谢物
+Clostridium sporogenes,Indole-3-lactic acid,菌产生代谢物
+Clostridium sporogenes,L-(-)-Ornithine,菌产生代谢物
+Colidextribacter,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Collinsella,Trimethylamine oxide,菌产生代谢物
+Collinsella aerofaciens,"1,2,3-Propanetricarboxylic acid",菌产生代谢物
+Collinsella aerofaciens,Citric Acid,菌产生代谢物
+Collinsella aerofaciens,D-Sedoheptulose,菌产生代谢物
+Collinsella tanakaei,Acetate,菌产生代谢物
+Collinsella tanakaei,Formate,菌产生代谢物
+Collinsella tanakaei,Lactate,菌产生代谢物
+Coprococcus,1H-Indole-3-propanoic acid,菌产生代谢物
+Coprococcus,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Coprococcus,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Coprococcus,D-Xylose,菌产生代谢物
+Coprococcus catus,Creatine,菌产生代谢物
+Coumarin,CA5B,代谢物预测结合靶点
+Coumarin,CA9,代谢物预测结合靶点
+Coumarin,MCL1,代谢物预测结合靶点
+Cronobacter sakazakii,beta-D-fructose,菌产生代谢物
+Cutibacterium avidum,Propionate ion,菌产生代谢物
+DAPK1,hsa04140:Autophagy - animal,靶点参与通路
+DAPK1,hsa05200:Pathways in cancer,靶点参与通路
+DAPK1,hsa05219:Bladder cancer,靶点参与通路
+Daidzein,ALDH2,代谢物预测结合靶点
+Daidzein,CYP2C19,代谢物预测结合靶点
+Daidzein,CYP2C9,代谢物预测结合靶点
+Daidzein,HDAC6,代谢物预测结合靶点
+Decanoic Acid,PPARG,代谢物预测结合靶点
+Deoxycholic Acid,GPBAR1,代谢物预测结合靶点
+Desthiobiotin,IDE,代谢物预测结合靶点
+Desulfovibrio piger,Sulfate Ion,菌产生代谢物
+Dialister,"2,3-Dihydroxybutanedioic Acid",菌产生代谢物
+Dialister,Arachidonic Acid,菌产生代谢物
+Dialister,N-Acetyl-L-Aspartic Acid,菌产生代谢物
+Dialister succinatiphilus,Propionate ion,菌产生代谢物
+Diosmetin,ABCC1,代谢物预测结合靶点
+Diosmetin,CYP1A1,代谢物预测结合靶点
+Diosmetin,CYP1A2,代谢物预测结合靶点
+Diosmetin,CYP1B1,代谢物预测结合靶点
+Diosmetin,HDAC6,代谢物预测结合靶点
+Diosmetin,IP6K2,代谢物预测结合靶点
+Diosmetin,IPMK,代谢物预测结合靶点
+Doconexent,RXRA,代谢物预测结合靶点
+Dopamine,KDM4E,代谢物预测结合靶点
+Dopamine,PTGS1,代谢物预测结合靶点
+Dopamine,SNCA,代谢物预测结合靶点
+Dorea,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Dorea,Acetate,菌产生代谢物
+Dorea,Butyrate,菌产生代谢物
+Dorea,Glycine,菌产生代谢物
+Dorea,L-Alanine,菌产生代谢物
+Dorea,L-Isoleucine,菌产生代谢物
+Dorea,L-Leucine,菌产生代谢物
+Dorea,L-Proline,菌产生代谢物
+Dorea,L-Serine,菌产生代谢物
+Dysgonomonas,4-Pyridoxic Acid,菌产生代谢物
+EGFR,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+EGFR,hsa01522:Endocrine resistance,靶点参与通路
+EGFR,hsa04010:MAPK signaling pathway,靶点参与通路
+EGFR,hsa04012:ErbB signaling pathway,靶点参与通路
+EGFR,hsa04014:Ras signaling pathway,靶点参与通路
+EGFR,hsa04015:Rap1 signaling pathway,靶点参与通路
+EGFR,hsa04020:Calcium signaling pathway,靶点参与通路
+EGFR,hsa04066:HIF-1 signaling pathway,靶点参与通路
+EGFR,hsa04068:FoxO signaling pathway,靶点参与通路
+EGFR,hsa04072:Phospholipase D signaling pathway,靶点参与通路
+EGFR,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+EGFR,hsa04510:Focal adhesion,靶点参与通路
+EGFR,hsa04518:Integrin signaling,靶点参与通路
+EGFR,hsa04520:Adherens junction,靶点参与通路
+EGFR,hsa04540:Gap junction,靶点参与通路
+EGFR,hsa04630:JAK-STAT signaling pathway,靶点参与通路
+EGFR,hsa04810:Regulation of actin cytoskeleton,靶点参与通路
+EGFR,hsa04912:GnRH signaling pathway,靶点参与通路
+EGFR,hsa04915:Estrogen signaling pathway,靶点参与通路
+EGFR,hsa04921:Oxytocin signaling pathway,靶点参与通路
+EGFR,hsa04926:Relaxin signaling pathway,靶点参与通路
+EGFR,"hsa04928:Parathyroid hormone synthesis, secretion and action",靶点参与通路
+EGFR,hsa04934:Cushing syndrome,靶点参与通路
+EGFR,hsa05120:Epithelial cell signaling in Helicobacter pylori infection,靶点参与通路
+EGFR,hsa05131:Shigellosis,靶点参与通路
+EGFR,hsa05160:Hepatitis C,靶点参与通路
+EGFR,hsa05163:Human cytomegalovirus infection,靶点参与通路
+EGFR,hsa05165:Human papillomavirus infection,靶点参与通路
+EGFR,hsa05171:Coronavirus disease,靶点参与通路
+EGFR,hsa05200:Pathways in cancer,靶点参与通路
+EGFR,hsa05205:Proteoglycans in cancer,靶点参与通路
+EGFR,hsa05206:MicroRNAs in cancer,靶点参与通路
+EGFR,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+EGFR,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+EGFR,hsa05210:Colorectal cancer,靶点参与通路
+EGFR,hsa05212:Pancreatic cancer,靶点参与通路
+EGFR,hsa05213:Endometrial cancer,靶点参与通路
+EGFR,hsa05214:Glioma,靶点参与通路
+EGFR,hsa05215:Prostate cancer,靶点参与通路
+EGFR,hsa05218:Melanoma,靶点参与通路
+EGFR,hsa05219:Bladder cancer,靶点参与通路
+EGFR,hsa05223:Non-small cell lung cancer,靶点参与通路
+EGFR,hsa05224:Breast cancer,靶点参与通路
+EGFR,hsa05225:Hepatocellular carcinoma,靶点参与通路
+EGFR,hsa05226:Gastric cancer,靶点参与通路
+EGFR,hsa05230:Central carbon metabolism in cancer,靶点参与通路
+EGFR,hsa05231:Choline metabolism in cancer,靶点参与通路
+EGFR,hsa05235:PD-L1 expression and PD-1 checkpoint pathway in cancer,靶点参与通路
+ELAVL1,hsa04152:AMPK signaling pathway,靶点参与通路
+ELAVL1,hsa04657:IL-17 signaling pathway,靶点参与通路
+END-49,Enterodiol,菌产生代谢物
+ENPP2,hsa01100:Metabolic pathways,靶点参与通路
+Eggerthella,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Eggerthella lenta,(+)-Lariciresinol,菌产生代谢物
+Eggerthella lenta,(-)-Secoisolariciresinol,菌产生代谢物
+Eggerthella lenta,"3-(3',4'-Dihydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)-propan-2-ol",菌产生代谢物
+Eggerthella lenta,5-hydroxy-1H-imidazole-4-carboxamide,菌产生代谢物
+Eggerthella lenta,Enterodiol,菌产生代谢物
+Eggerthella lenta,Equol,菌产生代谢物
+Eggerthella sinensis,Equol,菌产生代谢物
+Eggerthella sp. SDG-2,"1,3-Diphenyl-2-propanol",菌产生代谢物
+Eggerthella sp. YY7918,Equol,菌产生代谢物
+Eisenbergiella,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Eisenbergiella,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Emergencia timonensis,Trimethylamine,菌产生代谢物
+Enorma timonensis,Trimethylamine,菌产生代谢物
+Enterocloster asparagiformis,Acetate,菌产生代谢物
+Enterocloster asparagiformis,Ethanol,菌产生代谢物
+Enterocloster asparagiformis,Lactate,菌产生代谢物
+Enterocloster citroniae,Trimethylamine oxide,菌产生代谢物
+Enterocloster clostridioformis,Trimethylamine oxide,菌产生代谢物
+Enterococcus,Dopamine,菌产生代谢物
+Enterococcus avium,Quercitrin,菌产生代谢物
+Enterococcus casseliflavus,(S)-Lactate,菌产生代谢物
+Enterococcus casseliflavus,Acetate,菌产生代谢物
+Enterococcus casseliflavus,Ethanol,菌产生代谢物
+Enterococcus casseliflavus,Formate,菌产生代谢物
+Enterococcus casseliflavus,Quercetin,菌产生代谢物
+Enterococcus faecalis,(+)-Lariciresinol,菌产生代谢物
+Enterococcus faecalis,Agmatine,菌产生代谢物
+Enterococcus faecalis,Citrulline,菌产生代谢物
+Enterococcus faecalis,"Leucic acid, L-",菌产生代谢物
+Enterococcus faecalis,Levodopa,菌产生代谢物
+Enterococcus faecalis,Tyramine,菌产生代谢物
+Enterococcus faecium,Equol,菌产生代谢物
+Enterococcus sp. 41,Platycodin D,菌产生代谢物
+Enterococcus sp. 45,Luteolin,菌产生代谢物
+Enterococcus sp. 45,Myricetin,菌产生代谢物
+Enterococcus sp. 45,Quercetin,菌产生代谢物
+Enterococcus sp. MRG-ICA-E,Icariside Ii,菌产生代谢物
+Erysipelotrichaceae bacterium,Trimethylamine oxide,菌产生代谢物
+Escherichia,Glycocholic Acid,菌产生代谢物
+Escherichia,Indoxyl Sulfate,菌产生代谢物
+Escherichia,Trimethylamine,菌产生代谢物
+Escherichia,Trimethylamine oxide,菌产生代谢物
+Escherichia coli,(+-)-Dihydrodaidzein,菌产生代谢物
+Escherichia coli,(R)-3-(4-Hydroxyphenyl)lactate,菌产生代谢物
+Escherichia coli,"2,3-Butanediol",菌产生代谢物
+Escherichia coli,2-Acetoxypropionic Acid,菌产生代谢物
+Escherichia coli,Acetoin,菌产生代谢物
+Escherichia coli,Agmatine,菌产生代谢物
+Escherichia coli,Butanedione,菌产生代谢物
+Escherichia coli,Caffeic Acid,菌产生代谢物
+Escherichia coli,Colibactin,菌产生代谢物
+Escherichia coli,Daidzein,菌产生代谢物
+Escherichia coli,Dihydrogenistein,菌产生代谢物
+Escherichia coli,"Ethyl phenyllactate, (-)-",菌产生代谢物
+Escherichia coli,Genistein,菌产生代谢物
+Escherichia coli,Isoquercetin,菌产生代谢物
+Escherichia coli,Pipecolic Acid,菌产生代谢物
+Escherichia coli,Quinate,菌产生代谢物
+Escherichia coli,Trimethylamine,菌产生代谢物
+Escherichia sp. 12,Myricetin,菌产生代谢物
+Escherichia sp. 12,Quercitrin,菌产生代谢物
+Escherichia sp. 33,Myricetin,菌产生代谢物
+Escherichia sp. 33,Quercetin,菌产生代谢物
+Escherichia sp. 4,Acacetin,菌产生代谢物
+Escherichia sp. 4,Diosmetin,菌产生代谢物
+Escherichia sp. 49A,Platycodin D,菌产生代谢物
+Escherichia sp. 64,Platycodin D,菌产生代谢物
+Eubacteriales,Butyrate,菌产生代谢物
+Eubacterium,1H-Indole-3-propanoic acid,菌产生代谢物
+Eubacterium,3-Hydroxybenzoic Acid,菌产生代谢物
+Eubacterium,4-Hydroxybenzoic Acid,菌产生代谢物
+Eubacterium,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Eubacterium,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Eubacterium,Acetate,菌产生代谢物
+Eubacterium,Butyrate,菌产生代谢物
+Eubacterium coprostanoligenes,Lithocholic Acid,菌产生代谢物
+Eubacterium limosum,"6,7,4'-Trihydroxyisoflavone",菌产生代谢物
+Eubacterium limosum,Acetate,菌产生代谢物
+Eubacterium limosum,Butyrate,菌产生代谢物
+Eubacterium limosum,Daidzein,菌产生代谢物
+Eubacterium limosum,Dihydroglycitein,菌产生代谢物
+Eubacterium limosum,Genistein,菌产生代谢物
+Eubacterium limosum,Propionate ion,菌产生代谢物
+Eubacterium limosum,Sophoraflavanone B,菌产生代谢物
+Eubacterium ramulus,(+-)-Naringenin,菌产生代谢物
+Eubacterium ramulus,"2',4,4',6'-Tetrahydroxychalcone",菌产生代谢物
+Eubacterium ramulus,"2-(4-Hydroxyphenyl)propionic acid, (2S)-",菌产生代谢物
+Eubacterium ramulus,3-(4-Hydroxyphenyl)propionic acid,菌产生代谢物
+Eubacterium ramulus,3-Hydroxy-4-methoxybenzenepropanoic acid,菌产生代谢物
+Eubacterium ramulus,Acetate,菌产生代谢物
+Eubacterium ramulus,Butyrate,菌产生代谢物
+Eubacterium ramulus,Dihydrocaffeic Acid,菌产生代谢物
+Eubacterium ramulus,Dopac,菌产生代谢物
+Eubacterium ramulus,Hesperetin dihydrochalcone,菌产生代谢物
+Eubacterium ramulus,Hydroxyphenylacetic acid,菌产生代谢物
+Eubacterium ramulus,O-Desmethylangolensin,菌产生代谢物
+Eubacterium ramulus,Phloretin,菌产生代谢物
+Eubacterium ramulus,Phloroglucinol,菌产生代谢物
+Eubacterium sp.,Enterodiol,菌产生代谢物
+Eubacterium sp. A-44,(20S)-Protopanaxadiol,菌产生代谢物
+Eubacterium sp. A-44,Ginsenoside Rh2,菌产生代谢物
+F2,hsa04072:Phospholipase D signaling pathway,靶点参与通路
+F2,hsa04611:Platelet activation,靶点参与通路
+F2,hsa04810:Regulation of actin cytoskeleton,靶点参与通路
+F2,hsa05171:Coronavirus disease,靶点参与通路
+F2,hsa05200:Pathways in cancer,靶点参与通路
+Faecalibacterium,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Faecalibacterium prausnitzii,1H-Indole-3-propanoic acid,菌产生代谢物
+Faecalibacterium prausnitzii,"2-Amino-1-Methyl-6-Phenylimidazo(4,5-b)Pyridine",菌产生代谢物
+Faecalibacterium prausnitzii,Acetate,菌产生代谢物
+Faecalibacterium prausnitzii,Bile Acid,菌产生代谢物
+Faecalibacterium prausnitzii,Butyrate,菌产生代谢物
+Faecalibacterium prausnitzii,D-Glucuronic Acid,菌产生代谢物
+Faecalibacterium prausnitzii,D-Lactic Acid,菌产生代谢物
+Faecalibacterium prausnitzii,Dihydrocaffeic Acid,菌产生代谢物
+Faecalibacterium prausnitzii,Hypoxanthine,菌产生代谢物
+Faecalibacterium prausnitzii,L-Histidine,菌产生代谢物
+Faecalibacterium prausnitzii,Palmitic Acid,菌产生代谢物
+Faecalibacterium prausnitzii,Tryptamine,菌产生代谢物
+Faecalitalea,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Finegoldia magna,Equol,菌产生代谢物
+Flavonifractor plautii,3-(4-Hydroxyphenyl)propionic acid,菌产生代谢物
+Flavonifractor plautii,3-Hydroxy-4-methoxybenzenepropanoic acid,菌产生代谢物
+Flavonifractor plautii,"7-Hydroxy-5-methyl-3-phenyl-6,7,8,9-tetrahydropyrido[3',2':4,5]imidazo[1,2-a]pyrimidin-5-ium chloride",菌产生代谢物
+Flavonifractor plautii,Dihydrocaffeic Acid,菌产生代谢物
+Flavonifractor plautii,Dopac,菌产生代谢物
+Fusobacterium,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Fusobacterium nucleatum,"1,6-Di-O-phosphono-beta-D-fructofuranose",菌产生代谢物
+Fusobacterium nucleatum,3-Phospho-D-glyceric acid,菌产生代谢物
+Fusobacterium nucleatum,Lactate,菌产生代谢物
+Fusobacterium sp.,Hydrogen Sulfide,菌产生代谢物
+Fusobacterium sp. K-60,20(R)-Ginsenoside,菌产生代谢物
+Fusobacterium sp. K-60,Ginsenoside Rh2,菌产生代谢物
+GLO1,hsa01100:Metabolic pathways,靶点参与通路
+GSK3B,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+GSK3B,hsa04012:ErbB signaling pathway,靶点参与通路
+GSK3B,hsa04062:Chemokine signaling pathway,靶点参与通路
+GSK3B,hsa04150:mTOR signaling pathway,靶点参与通路
+GSK3B,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+GSK3B,hsa04360:Axon guidance,靶点参与通路
+GSK3B,hsa04510:Focal adhesion,靶点参与通路
+GSK3B,hsa04517:IgSF CAM signaling,靶点参与通路
+GSK3B,hsa04518:Integrin signaling,靶点参与通路
+GSK3B,hsa04550:Signaling pathways regulating pluripotency of stem cells,靶点参与通路
+GSK3B,hsa04657:IL-17 signaling pathway,靶点参与通路
+GSK3B,hsa04660:T cell receptor signaling pathway,靶点参与通路
+GSK3B,hsa04662:B cell receptor signaling pathway,靶点参与通路
+GSK3B,hsa04722:Neurotrophin signaling pathway,靶点参与通路
+GSK3B,hsa04728:Dopaminergic synapse,靶点参与通路
+GSK3B,hsa04910:Insulin signaling pathway,靶点参与通路
+GSK3B,hsa04917:Prolactin signaling pathway,靶点参与通路
+GSK3B,hsa04919:Thyroid hormone signaling pathway,靶点参与通路
+GSK3B,hsa04931:Insulin resistance,靶点参与通路
+GSK3B,hsa04932:Non-alcoholic fatty liver disease,靶点参与通路
+GSK3B,hsa04934:Cushing syndrome,靶点参与通路
+GSK3B,"hsa04935:Growth hormone synthesis, secretion and action",靶点参与通路
+GSK3B,hsa04936:Alcoholic liver disease,靶点参与通路
+GSK3B,hsa05010:Alzheimer disease,靶点参与通路
+GSK3B,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+GSK3B,hsa05131:Shigellosis,靶点参与通路
+GSK3B,hsa05135:Yersinia infection,靶点参与通路
+GSK3B,hsa05160:Hepatitis C,靶点参与通路
+GSK3B,hsa05162:Measles,靶点参与通路
+GSK3B,hsa05163:Human cytomegalovirus infection,靶点参与通路
+GSK3B,hsa05165:Human papillomavirus infection,靶点参与通路
+GSK3B,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+GSK3B,hsa05200:Pathways in cancer,靶点参与通路
+GSK3B,hsa05210:Colorectal cancer,靶点参与通路
+GSK3B,hsa05213:Endometrial cancer,靶点参与通路
+GSK3B,hsa05215:Prostate cancer,靶点参与通路
+GSK3B,hsa05224:Breast cancer,靶点参与通路
+GSK3B,hsa05225:Hepatocellular carcinoma,靶点参与通路
+GSK3B,hsa05226:Gastric cancer,靶点参与通路
+GSK3B,hsa05415:Diabetic cardiomyopathy,靶点参与通路
+GSK3B,hsa05417:Lipid and atherosclerosis,靶点参与通路
+GSTK1,hsa00980:Metabolism of xenobiotics by cytochrome P450,靶点参与通路
+GSTK1,hsa00982:Drug metabolism - cytochrome P450,靶点参与通路
+GSTK1,hsa01100:Metabolic pathways,靶点参与通路
+GSTK1,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+Gemmiger formicilis,Butyrate,菌产生代谢物
+Genistein,ABCG2,代谢物预测结合靶点
+Genistein,ABL1,代谢物预测结合靶点
+Genistein,CFTR,代谢物预测结合靶点
+Genistein,CYP1A2,代谢物预测结合靶点
+Genistein,CYP2C19,代谢物预测结合靶点
+Genistein,DPP4,代谢物预测结合靶点
+Genistein,EGFR,代谢物预测结合靶点
+Genistein,ESRRA,代谢物预测结合靶点
+Genistein,HDAC6,代谢物预测结合靶点
+Genistein,MAOA,代谢物预测结合靶点
+Genistein,MAOB,代谢物预测结合靶点
+Genistein,MAP2K4,代谢物预测结合靶点
+Genistein,PSMB5,代谢物预测结合靶点
+Genistein,SLC2A1,代谢物预测结合靶点
+Genistein,SLCO2B1,代谢物预测结合靶点
+Genistein,SRC,代谢物预测结合靶点
+Glutathione,GSTK1,代谢物预测结合靶点
+Glutathione,PTGS1,代谢物预测结合靶点
+Glycitein,HDAC6,代谢物预测结合靶点
+Glycochenodeoxycholic Acid,ABCB11,代谢物预测结合靶点
+Glycochenodeoxycholic Acid,GPBAR1,代谢物预测结合靶点
+HDAC3,hsa04613:Neutrophil extracellular trap formation,靶点参与通路
+HDAC3,hsa04919:Thyroid hormone signaling pathway,靶点参与通路
+HDAC3,hsa05203:Viral carcinogenesis,靶点参与通路
+HDAC6,hsa04613:Neutrophil extracellular trap formation,靶点参与通路
+HDAC6,hsa05203:Viral carcinogenesis,靶点参与通路
+HRH1,hsa04020:Calcium signaling pathway,靶点参与通路
+HRH1,hsa04750:Inflammatory mediator regulation of TRP channels,靶点参与通路
+HTR2B,hsa04020:Calcium signaling pathway,靶点参与通路
+HTR2B,hsa04540:Gap junction,靶点参与通路
+HTR2B,hsa04726:Serotonergic synapse,靶点参与通路
+HTR2B,hsa04750:Inflammatory mediator regulation of TRP channels,靶点参与通路
+Holdemanella biformis,Trimethylamine oxide,菌产生代谢物
+Holdemania,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Hungatella,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Hungatella,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Hydroxyphenylacetic acid,CAMK2A,代谢物预测结合靶点
+IDE,hsa05010:Alzheimer disease,靶点参与通路
+IGF1R,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+IGF1R,hsa01522:Endocrine resistance,靶点参与通路
+IGF1R,hsa04010:MAPK signaling pathway,靶点参与通路
+IGF1R,hsa04014:Ras signaling pathway,靶点参与通路
+IGF1R,hsa04015:Rap1 signaling pathway,靶点参与通路
+IGF1R,hsa04066:HIF-1 signaling pathway,靶点参与通路
+IGF1R,hsa04068:FoxO signaling pathway,靶点参与通路
+IGF1R,hsa04114:Oocyte meiosis,靶点参与通路
+IGF1R,hsa04140:Autophagy - animal,靶点参与通路
+IGF1R,hsa04150:mTOR signaling pathway,靶点参与通路
+IGF1R,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+IGF1R,hsa04152:AMPK signaling pathway,靶点参与通路
+IGF1R,hsa04211:Longevity regulating pathway,靶点参与通路
+IGF1R,hsa04213:Longevity regulating pathway - multiple species,靶点参与通路
+IGF1R,hsa04510:Focal adhesion,靶点参与通路
+IGF1R,hsa04518:Integrin signaling,靶点参与通路
+IGF1R,hsa04520:Adherens junction,靶点参与通路
+IGF1R,hsa04550:Signaling pathways regulating pluripotency of stem cells,靶点参与通路
+IGF1R,hsa04913:Ovarian steroidogenesis,靶点参与通路
+IGF1R,hsa04914:Progesterone-mediated oocyte maturation,靶点参与通路
+IGF1R,hsa05200:Pathways in cancer,靶点参与通路
+IGF1R,hsa05202:Transcriptional misregulation in cancer,靶点参与通路
+IGF1R,hsa05205:Proteoglycans in cancer,靶点参与通路
+IGF1R,hsa05214:Glioma,靶点参与通路
+IGF1R,hsa05215:Prostate cancer,靶点参与通路
+IGF1R,hsa05218:Melanoma,靶点参与通路
+IGF1R,hsa05224:Breast cancer,靶点参与通路
+IGF1R,hsa05225:Hepatocellular carcinoma,靶点参与通路
+IP6K2,hsa00562:Inositol phosphate metabolism,靶点参与通路
+IP6K2,hsa01100:Metabolic pathways,靶点参与通路
+IPMK,hsa00562:Inositol phosphate metabolism,靶点参与通路
+IPMK,hsa01100:Metabolic pathways,靶点参与通路
+Icaritin,PDE5A,代谢物预测结合靶点
+Intestinimonas,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Intestinimonas,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Isoquercetin,KDM1A,代谢物预测结合靶点
+Isoquercetin,P4HB,代谢物预测结合靶点
+Isoquercetin,PKM,代谢物预测结合靶点
+KDR,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+KDR,hsa04010:MAPK signaling pathway,靶点参与通路
+KDR,hsa04014:Ras signaling pathway,靶点参与通路
+KDR,hsa04015:Rap1 signaling pathway,靶点参与通路
+KDR,hsa04020:Calcium signaling pathway,靶点参与通路
+KDR,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+KDR,hsa04370:VEGF signaling pathway,靶点参与通路
+KDR,hsa04510:Focal adhesion,靶点参与通路
+KDR,hsa04517:IgSF CAM signaling,靶点参与通路
+KDR,hsa04518:Integrin signaling,靶点参与通路
+KDR,hsa05205:Proteoglycans in cancer,靶点参与通路
+KDR,hsa05418:Fluid shear stress and atherosclerosis,靶点参与通路
+Kaempferol,ABCB1,代谢物预测结合靶点
+Kaempferol,ABCC1,代谢物预测结合靶点
+Kaempferol,ABCG2,代谢物预测结合靶点
+Kaempferol,AHR,代谢物预测结合靶点
+Kaempferol,AKR1B1,代谢物预测结合靶点
+Kaempferol,ALOX5,代谢物预测结合靶点
+Kaempferol,AR,代谢物预测结合靶点
+Kaempferol,CISD1,代谢物预测结合靶点
+Kaempferol,CYP1A1,代谢物预测结合靶点
+Kaempferol,CYP1A2,代谢物预测结合靶点
+Kaempferol,CYP1B1,代谢物预测结合靶点
+Kaempferol,CYP2C19,代谢物预测结合靶点
+Kaempferol,CYP2C9,代谢物预测结合靶点
+Kaempferol,CYP2D6,代谢物预测结合靶点
+Kaempferol,CYP3A4,代谢物预测结合靶点
+Kaempferol,DAPK1,代谢物预测结合靶点
+Kaempferol,DPP4,代谢物预测结合靶点
+Kaempferol,ESRRA,代谢物预测结合靶点
+Kaempferol,HDAC6,代谢物预测结合靶点
+Kaempferol,IP6K2,代谢物预测结合靶点
+Kaempferol,IPMK,代谢物预测结合靶点
+Kaempferol,RPS6KA3,代谢物预测结合靶点
+Kaempferol,SLC2A1,代谢物预测结合靶点
+Kaempferol,YES1,代谢物预测结合靶点
+Klebsiella,Trimethylamine,菌产生代谢物
+Klebsiella pneumoniae,Ethanol,菌产生代谢物
+Kocuria rhizophila,4-Pyridoxic Acid,菌产生代谢物
+L-(+)-Cysteine,PTGS1,代谢物预测结合靶点
+L-Ascorbic Acid,ADRA2B,代谢物预测结合靶点
+L-Ascorbic Acid,PTGS1,代谢物预测结合靶点
+L-Glutamic Acid,SLC1A1,代谢物预测结合靶点
+L-Leucine,ALPL,代谢物预测结合靶点
+L-Leucine,PLAA,代谢物预测结合靶点
+L-Phenylalanine,ALPL,代谢物预测结合靶点
+L-Phenylalanine,PKM,代谢物预测结合靶点
+L-Phenylalanine,PLAA,代谢物预测结合靶点
+L-Serine,MAOA,代谢物预测结合靶点
+Lachnoclostridium,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Lachnoclostridium,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Lachnospira eligens,Acetate,菌产生代谢物
+Lachnospira eligens,Butyrate,菌产生代谢物
+Lachnospira eligens,Lithocholic Acid,菌产生代谢物
+Lachnospiraceae,1H-Indole-3-propanoic acid,菌产生代谢物
+Lachnospiraceae,Trimethylamine oxide,菌产生代谢物
+Lacticaseibacillus casei,Pipecolic Acid,菌产生代谢物
+Lacticaseibacillus paracasei,10-keto-12Z-octadecenoic acid,菌产生代谢物
+Lacticaseibacillus paracasei,Equol,菌产生代谢物
+Lacticaseibacillus rhamnosus,Lactate,菌产生代谢物
+Lacticaseibacillus zeae,Dihydrocaffeic Acid,菌产生代谢物
+Lactiplantibacillus plantarum,10-Oxo-trans-11-octadecenoic acid,菌产生代谢物
+Lactiplantibacillus plantarum,"4-Hydroxy-(3',4'-dihydroxyphenyl)-valeric acid",菌产生代谢物
+Lactiplantibacillus plantarum,"5-(3,4-Dihydroxyphenyl)-valerolactone",菌产生代谢物
+Lactiplantibacillus plantarum,L-Ascorbic Acid,菌产生代谢物
+Lactobacillus,Butyrate,菌产生代谢物
+Lactobacillus,Trimethylamine oxide,菌产生代谢物
+Lactobacillus gasseri,Caffeic Acid,菌产生代谢物
+Lactobacillus gasseri,Quinate,菌产生代谢物
+Lactococcus lactis,Lactate,菌产生代谢物
+Lactococcus sp. 20-92,(+-)-Dihydrodaidzein,菌产生代谢物
+Lactococcus sp. 20-92,Equol,菌产生代谢物
+Latilactobacillus sakei,5-Hydroxyindoleacetic Acid,菌产生代谢物
+Latilactobacillus sakei,Doconexent,菌产生代谢物
+Latilactobacillus sakei,Gamma-Aminobutyric Acid,菌产生代谢物
+Lawsonibacter asaccharolyticus,Acetate,菌产生代谢物
+Lawsonibacter asaccharolyticus,Butyrate,菌产生代谢物
+Levodopa,ADRA2B,代谢物预测结合靶点
+Levodopa,CHRM2,代谢物预测结合靶点
+Levodopa,CNR1,代谢物预测结合靶点
+Levodopa,EGFR,代谢物预测结合靶点
+Levodopa,HRH1,代谢物预测结合靶点
+Levodopa,HTR2B,代谢物预测结合靶点
+Levodopa,MAOA,代谢物预测结合靶点
+Levodopa,PTGS1,代谢物预测结合靶点
+Limosilactobacillus fermentum,Ethanol,菌产生代谢物
+Limosilactobacillus mucosae,(+-)-Dihydrodaidzein,菌产生代谢物
+Limosilactobacillus mucosae,Dihydrocaffeic Acid,菌产生代谢物
+Limosilactobacillus mucosae,Equol,菌产生代谢物
+Limosilactobacillus mucosae,O-Desmethylangolensin,菌产生代谢物
+Limosilactobacillus reuteri,"7-Hydroxy-5-methyl-3-phenyl-6,7,8,9-tetrahydropyrido[3',2':4,5]imidazo[1,2-a]pyrimidin-5-ium chloride",菌产生代谢物
+Linoleic Acid,AKR1C3,代谢物预测结合靶点
+Linoleic Acid,PPARA,代谢物预测结合靶点
+Lithocholic Acid,GPBAR1,代谢物预测结合靶点
+Lithocholic Acid,VDR,代谢物预测结合靶点
+Loganetin,TLR4,代谢物预测结合靶点
+Luteolin,ABCG2,代谢物预测结合靶点
+Luteolin,ADAMTS4,代谢物预测结合靶点
+Luteolin,AKR1B1,代谢物预测结合靶点
+Luteolin,AKR1B10,代谢物预测结合靶点
+Luteolin,ALOX15,代谢物预测结合靶点
+Luteolin,ALOX5,代谢物预测结合靶点
+Luteolin,BACE1,代谢物预测结合靶点
+Luteolin,CD38,代谢物预测结合靶点
+Luteolin,CYP1A1,代谢物预测结合靶点
+Luteolin,CYP1A2,代谢物预测结合靶点
+Luteolin,CYP1B1,代谢物预测结合靶点
+Luteolin,CYP3A4,代谢物预测结合靶点
+Luteolin,DPP4,代谢物预测结合靶点
+Luteolin,GLO1,代谢物预测结合靶点
+Luteolin,GSK3B,代谢物预测结合靶点
+Luteolin,HDAC6,代谢物预测结合靶点
+Luteolin,IP6K2,代谢物预测结合靶点
+Luteolin,IPMK,代谢物预测结合靶点
+Luteolin,MAOA,代谢物预测结合靶点
+Luteolin,MKNK1,代谢物预测结合靶点
+Luteolin,MKNK2,代谢物预测结合靶点
+Luteolin,MMP2,代谢物预测结合靶点
+Luteolin,MMP9,代谢物预测结合靶点
+Luteolin,PARP1,代谢物预测结合靶点
+Luteolin,PSMB5,代谢物预测结合靶点
+Luteolin,RPS6KA3,代谢物预测结合靶点
+Luteolin,SETD7,代谢物预测结合靶点
+Luteolin,SIRT6,代谢物预测结合靶点
+Luteolin,SLCO2B1,代谢物预测结合靶点
+Luteolin,SYK,代谢物预测结合靶点
+Luteolin,TNKS,代谢物预测结合靶点
+Luteolin,YES1,代谢物预测结合靶点
+MAOA,hsa00340:Histidine metabolism,靶点参与通路
+MAOA,hsa00380:Tryptophan metabolism,靶点参与通路
+MAOA,hsa00982:Drug metabolism - cytochrome P450,靶点参与通路
+MAOA,hsa01100:Metabolic pathways,靶点参与通路
+MAOA,hsa04726:Serotonergic synapse,靶点参与通路
+MAOA,hsa04728:Dopaminergic synapse,靶点参与通路
+MAOB,hsa00340:Histidine metabolism,靶点参与通路
+MAOB,hsa00380:Tryptophan metabolism,靶点参与通路
+MAOB,hsa00982:Drug metabolism - cytochrome P450,靶点参与通路
+MAOB,hsa01100:Metabolic pathways,靶点参与通路
+MAOB,hsa04726:Serotonergic synapse,靶点参与通路
+MAOB,hsa04728:Dopaminergic synapse,靶点参与通路
+MAP2K1,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+MAP2K1,hsa01522:Endocrine resistance,靶点参与通路
+MAP2K1,hsa04010:MAPK signaling pathway,靶点参与通路
+MAP2K1,hsa04012:ErbB signaling pathway,靶点参与通路
+MAP2K1,hsa04014:Ras signaling pathway,靶点参与通路
+MAP2K1,hsa04015:Rap1 signaling pathway,靶点参与通路
+MAP2K1,hsa04024:cAMP signaling pathway,靶点参与通路
+MAP2K1,hsa04062:Chemokine signaling pathway,靶点参与通路
+MAP2K1,hsa04066:HIF-1 signaling pathway,靶点参与通路
+MAP2K1,hsa04068:FoxO signaling pathway,靶点参与通路
+MAP2K1,hsa04071:Sphingolipid signaling pathway,靶点参与通路
+MAP2K1,hsa04072:Phospholipase D signaling pathway,靶点参与通路
+MAP2K1,hsa04114:Oocyte meiosis,靶点参与通路
+MAP2K1,hsa04140:Autophagy - animal,靶点参与通路
+MAP2K1,hsa04148:Efferocytosis,靶点参与通路
+MAP2K1,hsa04150:mTOR signaling pathway,靶点参与通路
+MAP2K1,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+MAP2K1,hsa04210:Apoptosis,靶点参与通路
+MAP2K1,hsa04218:Cellular senescence,靶点参与通路
+MAP2K1,hsa04370:VEGF signaling pathway,靶点参与通路
+MAP2K1,hsa04380:Osteoclast differentiation,靶点参与通路
+MAP2K1,hsa04510:Focal adhesion,靶点参与通路
+MAP2K1,hsa04517:IgSF CAM signaling,靶点参与通路
+MAP2K1,hsa04540:Gap junction,靶点参与通路
+MAP2K1,hsa04550:Signaling pathways regulating pluripotency of stem cells,靶点参与通路
+MAP2K1,hsa04613:Neutrophil extracellular trap formation,靶点参与通路
+MAP2K1,hsa04620:Toll-like receptor signaling pathway,靶点参与通路
+MAP2K1,hsa04650:Natural killer cell mediated cytotoxicity,靶点参与通路
+MAP2K1,hsa04660:T cell receptor signaling pathway,靶点参与通路
+MAP2K1,hsa04662:B cell receptor signaling pathway,靶点参与通路
+MAP2K1,hsa04664:Fc epsilon RI signaling pathway,靶点参与通路
+MAP2K1,hsa04666:Fc gamma R-mediated phagosome formation,靶点参与通路
+MAP2K1,hsa04668:TNF signaling pathway,靶点参与通路
+MAP2K1,hsa04720:Long-term potentiation,靶点参与通路
+MAP2K1,hsa04722:Neurotrophin signaling pathway,靶点参与通路
+MAP2K1,hsa04725:Cholinergic synapse,靶点参与通路
+MAP2K1,hsa04726:Serotonergic synapse,靶点参与通路
+MAP2K1,hsa04810:Regulation of actin cytoskeleton,靶点参与通路
+MAP2K1,hsa04910:Insulin signaling pathway,靶点参与通路
+MAP2K1,hsa04912:GnRH signaling pathway,靶点参与通路
+MAP2K1,hsa04914:Progesterone-mediated oocyte maturation,靶点参与通路
+MAP2K1,hsa04915:Estrogen signaling pathway,靶点参与通路
+MAP2K1,hsa04917:Prolactin signaling pathway,靶点参与通路
+MAP2K1,hsa04919:Thyroid hormone signaling pathway,靶点参与通路
+MAP2K1,hsa04921:Oxytocin signaling pathway,靶点参与通路
+MAP2K1,hsa04926:Relaxin signaling pathway,靶点参与通路
+MAP2K1,"hsa04928:Parathyroid hormone synthesis, secretion and action",靶点参与通路
+MAP2K1,hsa04929:GnRH secretion,靶点参与通路
+MAP2K1,hsa04934:Cushing syndrome,靶点参与通路
+MAP2K1,"hsa04935:Growth hormone synthesis, secretion and action",靶点参与通路
+MAP2K1,hsa05010:Alzheimer disease,靶点参与通路
+MAP2K1,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+MAP2K1,hsa05132:Salmonella infection,靶点参与通路
+MAP2K1,hsa05135:Yersinia infection,靶点参与通路
+MAP2K1,hsa05160:Hepatitis C,靶点参与通路
+MAP2K1,hsa05161:Hepatitis B,靶点参与通路
+MAP2K1,hsa05163:Human cytomegalovirus infection,靶点参与通路
+MAP2K1,hsa05164:Influenza A,靶点参与通路
+MAP2K1,hsa05165:Human papillomavirus infection,靶点参与通路
+MAP2K1,hsa05166:Human T-cell leukemia virus 1 infection,靶点参与通路
+MAP2K1,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+MAP2K1,hsa05170:Human immunodeficiency virus 1 infection,靶点参与通路
+MAP2K1,hsa05200:Pathways in cancer,靶点参与通路
+MAP2K1,hsa05205:Proteoglycans in cancer,靶点参与通路
+MAP2K1,hsa05206:MicroRNAs in cancer,靶点参与通路
+MAP2K1,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+MAP2K1,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+MAP2K1,hsa05210:Colorectal cancer,靶点参与通路
+MAP2K1,hsa05211:Renal cell carcinoma,靶点参与通路
+MAP2K1,hsa05212:Pancreatic cancer,靶点参与通路
+MAP2K1,hsa05213:Endometrial cancer,靶点参与通路
+MAP2K1,hsa05214:Glioma,靶点参与通路
+MAP2K1,hsa05215:Prostate cancer,靶点参与通路
+MAP2K1,hsa05216:Thyroid cancer,靶点参与通路
+MAP2K1,hsa05218:Melanoma,靶点参与通路
+MAP2K1,hsa05219:Bladder cancer,靶点参与通路
+MAP2K1,hsa05220:Chronic myeloid leukemia,靶点参与通路
+MAP2K1,hsa05221:Acute myeloid leukemia,靶点参与通路
+MAP2K1,hsa05223:Non-small cell lung cancer,靶点参与通路
+MAP2K1,hsa05224:Breast cancer,靶点参与通路
+MAP2K1,hsa05225:Hepatocellular carcinoma,靶点参与通路
+MAP2K1,hsa05226:Gastric cancer,靶点参与通路
+MAP2K1,hsa05230:Central carbon metabolism in cancer,靶点参与通路
+MAP2K1,hsa05231:Choline metabolism in cancer,靶点参与通路
+MAP2K1,hsa05235:PD-L1 expression and PD-1 checkpoint pathway in cancer,靶点参与通路
+MAP2K4,hsa04010:MAPK signaling pathway,靶点参与通路
+MAP2K4,hsa04012:ErbB signaling pathway,靶点参与通路
+MAP2K4,hsa04620:Toll-like receptor signaling pathway,靶点参与通路
+MAP2K4,hsa04664:Fc epsilon RI signaling pathway,靶点参与通路
+MAP2K4,hsa04668:TNF signaling pathway,靶点参与通路
+MAP2K4,hsa04912:GnRH signaling pathway,靶点参与通路
+MAP2K4,hsa04926:Relaxin signaling pathway,靶点参与通路
+MAP2K4,"hsa04935:Growth hormone synthesis, secretion and action",靶点参与通路
+MAP2K4,hsa04936:Alcoholic liver disease,靶点参与通路
+MAP2K4,hsa05120:Epithelial cell signaling in Helicobacter pylori infection,靶点参与通路
+MAP2K4,hsa05132:Salmonella infection,靶点参与通路
+MAP2K4,hsa05135:Yersinia infection,靶点参与通路
+MAP2K4,hsa05142:Chagas disease,靶点参与通路
+MAP2K4,hsa05161:Hepatitis B,靶点参与通路
+MAP2K4,hsa05166:Human T-cell leukemia virus 1 infection,靶点参与通路
+MAP2K4,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+MAP2K4,hsa05169:Epstein-Barr virus infection,靶点参与通路
+MAP2K4,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+MAP2K4,hsa05417:Lipid and atherosclerosis,靶点参与通路
+MAP2K4,hsa05418:Fluid shear stress and atherosclerosis,靶点参与通路
+MAPT,hsa04010:MAPK signaling pathway,靶点参与通路
+MAPT,hsa05010:Alzheimer disease,靶点参与通路
+MAPT,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+MCL1,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+MCL1,hsa04210:Apoptosis,靶点参与通路
+MCL1,hsa04630:JAK-STAT signaling pathway,靶点参与通路
+MCL1,hsa05206:MicroRNAs in cancer,靶点参与通路
+MET,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+MET,hsa04010:MAPK signaling pathway,靶点参与通路
+MET,hsa04014:Ras signaling pathway,靶点参与通路
+MET,hsa04015:Rap1 signaling pathway,靶点参与通路
+MET,hsa04020:Calcium signaling pathway,靶点参与通路
+MET,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+MET,hsa04360:Axon guidance,靶点参与通路
+MET,hsa04510:Focal adhesion,靶点参与通路
+MET,hsa04518:Integrin signaling,靶点参与通路
+MET,hsa04520:Adherens junction,靶点参与通路
+MET,hsa05100:Bacterial invasion of epithelial cells,靶点参与通路
+MET,hsa05120:Epithelial cell signaling in Helicobacter pylori infection,靶点参与通路
+MET,hsa05200:Pathways in cancer,靶点参与通路
+MET,hsa05202:Transcriptional misregulation in cancer,靶点参与通路
+MET,hsa05205:Proteoglycans in cancer,靶点参与通路
+MET,hsa05206:MicroRNAs in cancer,靶点参与通路
+MET,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+MET,hsa05211:Renal cell carcinoma,靶点参与通路
+MET,hsa05218:Melanoma,靶点参与通路
+MET,hsa05223:Non-small cell lung cancer,靶点参与通路
+MET,hsa05225:Hepatocellular carcinoma,靶点参与通路
+MET,hsa05226:Gastric cancer,靶点参与通路
+MET,hsa05230:Central carbon metabolism in cancer,靶点参与通路
+MKNK1,hsa04010:MAPK signaling pathway,靶点参与通路
+MKNK1,hsa04066:HIF-1 signaling pathway,靶点参与通路
+MKNK1,hsa04910:Insulin signaling pathway,靶点参与通路
+MKNK2,hsa04010:MAPK signaling pathway,靶点参与通路
+MKNK2,hsa04066:HIF-1 signaling pathway,靶点参与通路
+MKNK2,hsa04910:Insulin signaling pathway,靶点参与通路
+MMP1,hsa03320:PPAR signaling pathway,靶点参与通路
+MMP1,hsa04657:IL-17 signaling pathway,靶点参与通路
+MMP1,hsa04926:Relaxin signaling pathway,靶点参与通路
+MMP1,hsa05171:Coronavirus disease,靶点参与通路
+MMP1,hsa05200:Pathways in cancer,靶点参与通路
+MMP1,hsa05219:Bladder cancer,靶点参与通路
+MMP1,hsa05417:Lipid and atherosclerosis,靶点参与通路
+MMP13,hsa04657:IL-17 signaling pathway,靶点参与通路
+MMP13,hsa04926:Relaxin signaling pathway,靶点参与通路
+MMP13,"hsa04928:Parathyroid hormone synthesis, secretion and action",靶点参与通路
+MMP2,hsa01522:Endocrine resistance,靶点参与通路
+MMP2,hsa04670:Leukocyte transendothelial migration,靶点参与通路
+MMP2,hsa04912:GnRH signaling pathway,靶点参与通路
+MMP2,hsa04915:Estrogen signaling pathway,靶点参与通路
+MMP2,hsa04926:Relaxin signaling pathway,靶点参与通路
+MMP2,hsa04933:AGE-RAGE signaling pathway in diabetic complications,靶点参与通路
+MMP2,hsa05200:Pathways in cancer,靶点参与通路
+MMP2,hsa05205:Proteoglycans in cancer,靶点参与通路
+MMP2,hsa05219:Bladder cancer,靶点参与通路
+MMP2,hsa05415:Diabetic cardiomyopathy,靶点参与通路
+MMP2,hsa05418:Fluid shear stress and atherosclerosis,靶点参与通路
+MMP3,hsa04657:IL-17 signaling pathway,靶点参与通路
+MMP3,hsa04668:TNF signaling pathway,靶点参与通路
+MMP3,hsa05171:Coronavirus disease,靶点参与通路
+MMP3,hsa05202:Transcriptional misregulation in cancer,靶点参与通路
+MMP3,hsa05215:Prostate cancer,靶点参与通路
+MMP3,hsa05417:Lipid and atherosclerosis,靶点参与通路
+MMP9,hsa01522:Endocrine resistance,靶点参与通路
+MMP9,hsa04145:Phagocytosis,靶点参与通路
+MMP9,hsa04657:IL-17 signaling pathway,靶点参与通路
+MMP9,hsa04668:TNF signaling pathway,靶点参与通路
+MMP9,hsa04670:Leukocyte transendothelial migration,靶点参与通路
+MMP9,hsa04915:Estrogen signaling pathway,靶点参与通路
+MMP9,hsa04926:Relaxin signaling pathway,靶点参与通路
+MMP9,hsa05161:Hepatitis B,靶点参与通路
+MMP9,hsa05200:Pathways in cancer,靶点参与通路
+MMP9,hsa05202:Transcriptional misregulation in cancer,靶点参与通路
+MMP9,hsa05205:Proteoglycans in cancer,靶点参与通路
+MMP9,hsa05206:MicroRNAs in cancer,靶点参与通路
+MMP9,hsa05215:Prostate cancer,靶点参与通路
+MMP9,hsa05219:Bladder cancer,靶点参与通路
+MMP9,hsa05415:Diabetic cardiomyopathy,靶点参与通路
+MMP9,hsa05417:Lipid and atherosclerosis,靶点参与通路
+MMP9,hsa05418:Fluid shear stress and atherosclerosis,靶点参与通路
+Marvinbryantia,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Marvinbryantia formatexigens,beta-D-fructose,菌产生代谢物
+Mediterraneibacter gnavus,beta-D-fructose,菌产生代谢物
+Methanobrevibacter smithii,1-18:1-lysoPE,菌产生代谢物
+Methanobrevibacter smithii,"4-[(Z)-15,16-dihydroxydotriacont-19-enyl]-2-methyl-2H-uran-5-one",菌产生代谢物
+Methanobrevibacter smithii,Cohibin B,菌产生代谢物
+Microbacterium,4-Pyridoxic Acid,菌产生代谢物
+Mogibacterium,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Mollicutes,1H-Indole-3-propanoic acid,菌产生代谢物
+Morganella,Acetate,菌产生代谢物
+Morganella,Propionate ion,菌产生代谢物
+Mycoplasmatota,1H-Indole-3-propanoic acid,菌产生代谢物
+Myricetin,ABCC1,代谢物预测结合靶点
+Myricetin,ACE2,代谢物预测结合靶点
+Myricetin,APEX1,代谢物预测结合靶点
+Myricetin,BACE1,代谢物预测结合靶点
+Myricetin,BRAF,代谢物预测结合靶点
+Myricetin,CASP7,代谢物预测结合靶点
+Myricetin,CYP1A1,代谢物预测结合靶点
+Myricetin,CYP1A2,代谢物预测结合靶点
+Myricetin,CYP1B1,代谢物预测结合靶点
+Myricetin,CYP2C19,代谢物预测结合靶点
+Myricetin,CYP2C9,代谢物预测结合靶点
+Myricetin,CYP3A4,代谢物预测结合靶点
+Myricetin,GLO1,代谢物预测结合靶点
+Myricetin,HDAC6,代谢物预测结合靶点
+Myricetin,IP6K2,代谢物预测结合靶点
+Myricetin,IPMK,代谢物预测结合靶点
+Myricetin,KDM4E,代谢物预测结合靶点
+Myricetin,MAOA,代谢物预测结合靶点
+Myricetin,MAPT,代谢物预测结合靶点
+Myricetin,MBNL1,代谢物预测结合靶点
+Myricetin,PIK3CA,代谢物预测结合靶点
+Myricetin,PIK3CG,代谢物预测结合靶点
+Myricetin,PIM1,代谢物预测结合靶点
+Myricetin,PKM,代谢物预测结合靶点
+Myricetin,PSMB5,代谢物预测结合靶点
+Myricetin,SNCA,代谢物预测结合靶点
+Myricetin,SYK,代谢物预测结合靶点
+Myricetin,TOP2A,代谢物预测结合靶点
+NLRP3,hsa04217:Necroptosis,靶点参与通路
+NLRP3,hsa04625:C-type lectin receptor signaling pathway,靶点参与通路
+NLRP3,hsa05131:Shigellosis,靶点参与通路
+NLRP3,hsa05132:Salmonella infection,靶点参与通路
+NLRP3,hsa05135:Yersinia infection,靶点参与通路
+NLRP3,hsa05164:Influenza A,靶点参与通路
+NLRP3,hsa05171:Coronavirus disease,靶点参与通路
+NLRP3,hsa05417:Lipid and atherosclerosis,靶点参与通路
+Norathyriol,PTPN1,代谢物预测结合靶点
+Odoribacter,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Odoribacter,Isoallolithocholic Acid,菌产生代谢物
+Odoribacter laneus,Acetic acid 10-acetoxymethyl-anthracen-9-ylmethyl ester,菌产生代谢物
+Odoribacter laneus,Isovaleric Acid,菌产生代谢物
+Odoribacter laneus,Succinate,菌产生代谢物
+Oleic Acid,FAAH,代谢物预测结合靶点
+Oleic Acid,PPARA,代谢物预测结合靶点
+Oleic Acid,PPARD,代谢物预测结合靶点
+Oleic Acid,PPARG,代谢物预测结合靶点
+Oleic Acid,PTGS1,代谢物预测结合靶点
+Oleic Acid,TERT,代谢物预测结合靶点
+Oscillibacter,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Oscillibacter,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Oscillibacter,Indoxyl Sulfate,菌产生代谢物
+Oscillibacter,P-Cresol glucuronide,菌产生代谢物
+Oscillibacter,P-Cresol sulfate,菌产生代谢物
+Oscillibacter,Trimethylamine oxide,菌产生代谢物
+Oscillospira,4-Pyridoxic Acid,菌产生代谢物
+Oscillospira,Citric Acid,菌产生代谢物
+Oscillospiraceae,1H-Indole-3-propanoic acid,菌产生代谢物
+Oscillospiraceae,2-Methylbutyrate,菌产生代谢物
+Oscillospiraceae,Creatine,菌产生代谢物
+Oscillospiraceae,Hexanoate,菌产生代谢物
+Oscillospiraceae,Isobutyric Acid,菌产生代谢物
+Oscillospiraceae,Isovalerate,菌产生代谢物
+Oscillospiraceae,L-Isoleucine,菌产生代谢物
+Oscillospiraceae,Urea,菌产生代谢物
+PARP1,hsa04064:NF-kappa B signaling pathway,靶点参与通路
+PARP1,hsa04210:Apoptosis,靶点参与通路
+PARP1,hsa04217:Necroptosis,靶点参与通路
+PARP1,hsa05415:Diabetic cardiomyopathy,靶点参与通路
+PDE4D,hsa01100:Metabolic pathways,靶点参与通路
+PDE4D,hsa04024:cAMP signaling pathway,靶点参与通路
+PDE4D,"hsa04928:Parathyroid hormone synthesis, secretion and action",靶点参与通路
+PDE5A,hsa01100:Metabolic pathways,靶点参与通路
+PIK3CA,hsa00562:Inositol phosphate metabolism,靶点参与通路
+PIK3CA,hsa01100:Metabolic pathways,靶点参与通路
+PIK3CA,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+PIK3CA,hsa01522:Endocrine resistance,靶点参与通路
+PIK3CA,hsa01524:Platinum drug resistance,靶点参与通路
+PIK3CA,hsa04012:ErbB signaling pathway,靶点参与通路
+PIK3CA,hsa04014:Ras signaling pathway,靶点参与通路
+PIK3CA,hsa04015:Rap1 signaling pathway,靶点参与通路
+PIK3CA,hsa04024:cAMP signaling pathway,靶点参与通路
+PIK3CA,hsa04062:Chemokine signaling pathway,靶点参与通路
+PIK3CA,hsa04066:HIF-1 signaling pathway,靶点参与通路
+PIK3CA,hsa04068:FoxO signaling pathway,靶点参与通路
+PIK3CA,hsa04071:Sphingolipid signaling pathway,靶点参与通路
+PIK3CA,hsa04072:Phospholipase D signaling pathway,靶点参与通路
+PIK3CA,hsa04140:Autophagy - animal,靶点参与通路
+PIK3CA,hsa04145:Phagocytosis,靶点参与通路
+PIK3CA,hsa04150:mTOR signaling pathway,靶点参与通路
+PIK3CA,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+PIK3CA,hsa04152:AMPK signaling pathway,靶点参与通路
+PIK3CA,hsa04210:Apoptosis,靶点参与通路
+PIK3CA,hsa04211:Longevity regulating pathway,靶点参与通路
+PIK3CA,hsa04213:Longevity regulating pathway - multiple species,靶点参与通路
+PIK3CA,hsa04218:Cellular senescence,靶点参与通路
+PIK3CA,hsa04360:Axon guidance,靶点参与通路
+PIK3CA,hsa04370:VEGF signaling pathway,靶点参与通路
+PIK3CA,hsa04380:Osteoclast differentiation,靶点参与通路
+PIK3CA,hsa04510:Focal adhesion,靶点参与通路
+PIK3CA,hsa04517:IgSF CAM signaling,靶点参与通路
+PIK3CA,hsa04518:Integrin signaling,靶点参与通路
+PIK3CA,hsa04550:Signaling pathways regulating pluripotency of stem cells,靶点参与通路
+PIK3CA,hsa04611:Platelet activation,靶点参与通路
+PIK3CA,hsa04613:Neutrophil extracellular trap formation,靶点参与通路
+PIK3CA,hsa04620:Toll-like receptor signaling pathway,靶点参与通路
+PIK3CA,hsa04625:C-type lectin receptor signaling pathway,靶点参与通路
+PIK3CA,hsa04630:JAK-STAT signaling pathway,靶点参与通路
+PIK3CA,hsa04650:Natural killer cell mediated cytotoxicity,靶点参与通路
+PIK3CA,hsa04660:T cell receptor signaling pathway,靶点参与通路
+PIK3CA,hsa04662:B cell receptor signaling pathway,靶点参与通路
+PIK3CA,hsa04664:Fc epsilon RI signaling pathway,靶点参与通路
+PIK3CA,hsa04666:Fc gamma R-mediated phagosome formation,靶点参与通路
+PIK3CA,hsa04668:TNF signaling pathway,靶点参与通路
+PIK3CA,hsa04670:Leukocyte transendothelial migration,靶点参与通路
+PIK3CA,hsa04722:Neurotrophin signaling pathway,靶点参与通路
+PIK3CA,hsa04725:Cholinergic synapse,靶点参与通路
+PIK3CA,hsa04750:Inflammatory mediator regulation of TRP channels,靶点参与通路
+PIK3CA,hsa04810:Regulation of actin cytoskeleton,靶点参与通路
+PIK3CA,hsa04910:Insulin signaling pathway,靶点参与通路
+PIK3CA,hsa04914:Progesterone-mediated oocyte maturation,靶点参与通路
+PIK3CA,hsa04915:Estrogen signaling pathway,靶点参与通路
+PIK3CA,hsa04917:Prolactin signaling pathway,靶点参与通路
+PIK3CA,hsa04919:Thyroid hormone signaling pathway,靶点参与通路
+PIK3CA,hsa04923:Regulation of lipolysis in adipocytes,靶点参与通路
+PIK3CA,hsa04926:Relaxin signaling pathway,靶点参与通路
+PIK3CA,hsa04929:GnRH secretion,靶点参与通路
+PIK3CA,hsa04931:Insulin resistance,靶点参与通路
+PIK3CA,hsa04932:Non-alcoholic fatty liver disease,靶点参与通路
+PIK3CA,hsa04933:AGE-RAGE signaling pathway in diabetic complications,靶点参与通路
+PIK3CA,"hsa04935:Growth hormone synthesis, secretion and action",靶点参与通路
+PIK3CA,hsa05010:Alzheimer disease,靶点参与通路
+PIK3CA,hsa05100:Bacterial invasion of epithelial cells,靶点参与通路
+PIK3CA,hsa05131:Shigellosis,靶点参与通路
+PIK3CA,hsa05132:Salmonella infection,靶点参与通路
+PIK3CA,hsa05135:Yersinia infection,靶点参与通路
+PIK3CA,hsa05142:Chagas disease,靶点参与通路
+PIK3CA,hsa05146:Amoebiasis,靶点参与通路
+PIK3CA,hsa05160:Hepatitis C,靶点参与通路
+PIK3CA,hsa05161:Hepatitis B,靶点参与通路
+PIK3CA,hsa05162:Measles,靶点参与通路
+PIK3CA,hsa05163:Human cytomegalovirus infection,靶点参与通路
+PIK3CA,hsa05164:Influenza A,靶点参与通路
+PIK3CA,hsa05165:Human papillomavirus infection,靶点参与通路
+PIK3CA,hsa05166:Human T-cell leukemia virus 1 infection,靶点参与通路
+PIK3CA,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+PIK3CA,hsa05168:Herpes simplex virus 1 infection,靶点参与通路
+PIK3CA,hsa05169:Epstein-Barr virus infection,靶点参与通路
+PIK3CA,hsa05170:Human immunodeficiency virus 1 infection,靶点参与通路
+PIK3CA,hsa05171:Coronavirus disease,靶点参与通路
+PIK3CA,hsa05200:Pathways in cancer,靶点参与通路
+PIK3CA,hsa05203:Viral carcinogenesis,靶点参与通路
+PIK3CA,hsa05205:Proteoglycans in cancer,靶点参与通路
+PIK3CA,hsa05206:MicroRNAs in cancer,靶点参与通路
+PIK3CA,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+PIK3CA,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+PIK3CA,hsa05210:Colorectal cancer,靶点参与通路
+PIK3CA,hsa05211:Renal cell carcinoma,靶点参与通路
+PIK3CA,hsa05212:Pancreatic cancer,靶点参与通路
+PIK3CA,hsa05213:Endometrial cancer,靶点参与通路
+PIK3CA,hsa05214:Glioma,靶点参与通路
+PIK3CA,hsa05215:Prostate cancer,靶点参与通路
+PIK3CA,hsa05218:Melanoma,靶点参与通路
+PIK3CA,hsa05220:Chronic myeloid leukemia,靶点参与通路
+PIK3CA,hsa05221:Acute myeloid leukemia,靶点参与通路
+PIK3CA,hsa05222:Small cell lung cancer,靶点参与通路
+PIK3CA,hsa05223:Non-small cell lung cancer,靶点参与通路
+PIK3CA,hsa05224:Breast cancer,靶点参与通路
+PIK3CA,hsa05225:Hepatocellular carcinoma,靶点参与通路
+PIK3CA,hsa05226:Gastric cancer,靶点参与通路
+PIK3CA,hsa05230:Central carbon metabolism in cancer,靶点参与通路
+PIK3CA,hsa05231:Choline metabolism in cancer,靶点参与通路
+PIK3CA,hsa05235:PD-L1 expression and PD-1 checkpoint pathway in cancer,靶点参与通路
+PIK3CA,hsa05415:Diabetic cardiomyopathy,靶点参与通路
+PIK3CA,hsa05417:Lipid and atherosclerosis,靶点参与通路
+PIK3CA,hsa05418:Fluid shear stress and atherosclerosis,靶点参与通路
+PIK3CG,hsa00562:Inositol phosphate metabolism,靶点参与通路
+PIK3CG,hsa01100:Metabolic pathways,靶点参与通路
+PIK3CG,hsa04062:Chemokine signaling pathway,靶点参与通路
+PIK3CG,hsa04072:Phospholipase D signaling pathway,靶点参与通路
+PIK3CG,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+PIK3CG,hsa04611:Platelet activation,靶点参与通路
+PIK3CG,hsa04725:Cholinergic synapse,靶点参与通路
+PIK3CG,hsa04921:Oxytocin signaling pathway,靶点参与通路
+PIK3CG,hsa05132:Salmonella infection,靶点参与通路
+PIK3CG,hsa05145:Toxoplasmosis,靶点参与通路
+PIK3CG,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+PIK3R1,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+PIK3R1,hsa01522:Endocrine resistance,靶点参与通路
+PIK3R1,hsa01524:Platinum drug resistance,靶点参与通路
+PIK3R1,hsa04012:ErbB signaling pathway,靶点参与通路
+PIK3R1,hsa04014:Ras signaling pathway,靶点参与通路
+PIK3R1,hsa04015:Rap1 signaling pathway,靶点参与通路
+PIK3R1,hsa04024:cAMP signaling pathway,靶点参与通路
+PIK3R1,hsa04062:Chemokine signaling pathway,靶点参与通路
+PIK3R1,hsa04066:HIF-1 signaling pathway,靶点参与通路
+PIK3R1,hsa04068:FoxO signaling pathway,靶点参与通路
+PIK3R1,hsa04071:Sphingolipid signaling pathway,靶点参与通路
+PIK3R1,hsa04072:Phospholipase D signaling pathway,靶点参与通路
+PIK3R1,hsa04140:Autophagy - animal,靶点参与通路
+PIK3R1,hsa04145:Phagocytosis,靶点参与通路
+PIK3R1,hsa04150:mTOR signaling pathway,靶点参与通路
+PIK3R1,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+PIK3R1,hsa04152:AMPK signaling pathway,靶点参与通路
+PIK3R1,hsa04210:Apoptosis,靶点参与通路
+PIK3R1,hsa04211:Longevity regulating pathway,靶点参与通路
+PIK3R1,hsa04213:Longevity regulating pathway - multiple species,靶点参与通路
+PIK3R1,hsa04218:Cellular senescence,靶点参与通路
+PIK3R1,hsa04360:Axon guidance,靶点参与通路
+PIK3R1,hsa04370:VEGF signaling pathway,靶点参与通路
+PIK3R1,hsa04380:Osteoclast differentiation,靶点参与通路
+PIK3R1,hsa04510:Focal adhesion,靶点参与通路
+PIK3R1,hsa04517:IgSF CAM signaling,靶点参与通路
+PIK3R1,hsa04518:Integrin signaling,靶点参与通路
+PIK3R1,hsa04550:Signaling pathways regulating pluripotency of stem cells,靶点参与通路
+PIK3R1,hsa04611:Platelet activation,靶点参与通路
+PIK3R1,hsa04613:Neutrophil extracellular trap formation,靶点参与通路
+PIK3R1,hsa04620:Toll-like receptor signaling pathway,靶点参与通路
+PIK3R1,hsa04625:C-type lectin receptor signaling pathway,靶点参与通路
+PIK3R1,hsa04630:JAK-STAT signaling pathway,靶点参与通路
+PIK3R1,hsa04650:Natural killer cell mediated cytotoxicity,靶点参与通路
+PIK3R1,hsa04660:T cell receptor signaling pathway,靶点参与通路
+PIK3R1,hsa04662:B cell receptor signaling pathway,靶点参与通路
+PIK3R1,hsa04664:Fc epsilon RI signaling pathway,靶点参与通路
+PIK3R1,hsa04666:Fc gamma R-mediated phagosome formation,靶点参与通路
+PIK3R1,hsa04668:TNF signaling pathway,靶点参与通路
+PIK3R1,hsa04670:Leukocyte transendothelial migration,靶点参与通路
+PIK3R1,hsa04722:Neurotrophin signaling pathway,靶点参与通路
+PIK3R1,hsa04725:Cholinergic synapse,靶点参与通路
+PIK3R1,hsa04750:Inflammatory mediator regulation of TRP channels,靶点参与通路
+PIK3R1,hsa04810:Regulation of actin cytoskeleton,靶点参与通路
+PIK3R1,hsa04910:Insulin signaling pathway,靶点参与通路
+PIK3R1,hsa04914:Progesterone-mediated oocyte maturation,靶点参与通路
+PIK3R1,hsa04915:Estrogen signaling pathway,靶点参与通路
+PIK3R1,hsa04917:Prolactin signaling pathway,靶点参与通路
+PIK3R1,hsa04919:Thyroid hormone signaling pathway,靶点参与通路
+PIK3R1,hsa04923:Regulation of lipolysis in adipocytes,靶点参与通路
+PIK3R1,hsa04926:Relaxin signaling pathway,靶点参与通路
+PIK3R1,hsa04929:GnRH secretion,靶点参与通路
+PIK3R1,hsa04931:Insulin resistance,靶点参与通路
+PIK3R1,hsa04932:Non-alcoholic fatty liver disease,靶点参与通路
+PIK3R1,hsa04933:AGE-RAGE signaling pathway in diabetic complications,靶点参与通路
+PIK3R1,"hsa04935:Growth hormone synthesis, secretion and action",靶点参与通路
+PIK3R1,hsa05010:Alzheimer disease,靶点参与通路
+PIK3R1,hsa05100:Bacterial invasion of epithelial cells,靶点参与通路
+PIK3R1,hsa05131:Shigellosis,靶点参与通路
+PIK3R1,hsa05135:Yersinia infection,靶点参与通路
+PIK3R1,hsa05142:Chagas disease,靶点参与通路
+PIK3R1,hsa05146:Amoebiasis,靶点参与通路
+PIK3R1,hsa05160:Hepatitis C,靶点参与通路
+PIK3R1,hsa05161:Hepatitis B,靶点参与通路
+PIK3R1,hsa05162:Measles,靶点参与通路
+PIK3R1,hsa05163:Human cytomegalovirus infection,靶点参与通路
+PIK3R1,hsa05164:Influenza A,靶点参与通路
+PIK3R1,hsa05165:Human papillomavirus infection,靶点参与通路
+PIK3R1,hsa05166:Human T-cell leukemia virus 1 infection,靶点参与通路
+PIK3R1,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+PIK3R1,hsa05168:Herpes simplex virus 1 infection,靶点参与通路
+PIK3R1,hsa05169:Epstein-Barr virus infection,靶点参与通路
+PIK3R1,hsa05170:Human immunodeficiency virus 1 infection,靶点参与通路
+PIK3R1,hsa05171:Coronavirus disease,靶点参与通路
+PIK3R1,hsa05200:Pathways in cancer,靶点参与通路
+PIK3R1,hsa05203:Viral carcinogenesis,靶点参与通路
+PIK3R1,hsa05205:Proteoglycans in cancer,靶点参与通路
+PIK3R1,hsa05206:MicroRNAs in cancer,靶点参与通路
+PIK3R1,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+PIK3R1,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+PIK3R1,hsa05210:Colorectal cancer,靶点参与通路
+PIK3R1,hsa05211:Renal cell carcinoma,靶点参与通路
+PIK3R1,hsa05212:Pancreatic cancer,靶点参与通路
+PIK3R1,hsa05213:Endometrial cancer,靶点参与通路
+PIK3R1,hsa05214:Glioma,靶点参与通路
+PIK3R1,hsa05215:Prostate cancer,靶点参与通路
+PIK3R1,hsa05218:Melanoma,靶点参与通路
+PIK3R1,hsa05220:Chronic myeloid leukemia,靶点参与通路
+PIK3R1,hsa05221:Acute myeloid leukemia,靶点参与通路
+PIK3R1,hsa05222:Small cell lung cancer,靶点参与通路
+PIK3R1,hsa05223:Non-small cell lung cancer,靶点参与通路
+PIK3R1,hsa05224:Breast cancer,靶点参与通路
+PIK3R1,hsa05225:Hepatocellular carcinoma,靶点参与通路
+PIK3R1,hsa05226:Gastric cancer,靶点参与通路
+PIK3R1,hsa05230:Central carbon metabolism in cancer,靶点参与通路
+PIK3R1,hsa05231:Choline metabolism in cancer,靶点参与通路
+PIK3R1,hsa05235:PD-L1 expression and PD-1 checkpoint pathway in cancer,靶点参与通路
+PIK3R1,hsa05415:Diabetic cardiomyopathy,靶点参与通路
+PIK3R1,hsa05417:Lipid and atherosclerosis,靶点参与通路
+PIK3R1,hsa05418:Fluid shear stress and atherosclerosis,靶点参与通路
+PIM1,hsa04630:JAK-STAT signaling pathway,靶点参与通路
+PIM1,hsa04933:AGE-RAGE signaling pathway in diabetic complications,靶点参与通路
+PIM1,hsa05200:Pathways in cancer,靶点参与通路
+PIM1,hsa05206:MicroRNAs in cancer,靶点参与通路
+PIM1,hsa05221:Acute myeloid leukemia,靶点参与通路
+PKM,hsa01100:Metabolic pathways,靶点参与通路
+PKM,hsa04922:Glucagon signaling pathway,靶点参与通路
+PKM,hsa05165:Human papillomavirus infection,靶点参与通路
+PKM,hsa05203:Viral carcinogenesis,靶点参与通路
+PKM,hsa05230:Central carbon metabolism in cancer,靶点参与通路
+PKN1,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+PKN1,hsa05132:Salmonella infection,靶点参与通路
+PKN1,hsa05135:Yersinia infection,靶点参与通路
+PLK1,hsa04068:FoxO signaling pathway,靶点参与通路
+PLK1,hsa04114:Oocyte meiosis,靶点参与通路
+PLK1,hsa04914:Progesterone-mediated oocyte maturation,靶点参与通路
+PPARA,hsa03320:PPAR signaling pathway,靶点参与通路
+PPARA,hsa04024:cAMP signaling pathway,靶点参与通路
+PPARA,hsa04920:Adipocytokine signaling pathway,靶点参与通路
+PPARA,hsa04922:Glucagon signaling pathway,靶点参与通路
+PPARA,hsa04931:Insulin resistance,靶点参与通路
+PPARA,hsa04932:Non-alcoholic fatty liver disease,靶点参与通路
+PPARA,hsa04936:Alcoholic liver disease,靶点参与通路
+PPARA,hsa05160:Hepatitis C,靶点参与通路
+PPARA,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+PPARA,hsa05415:Diabetic cardiomyopathy,靶点参与通路
+PPARD,hsa03320:PPAR signaling pathway,靶点参与通路
+PPARD,hsa04148:Efferocytosis,靶点参与通路
+PPARD,hsa05200:Pathways in cancer,靶点参与通路
+PPARD,hsa05221:Acute myeloid leukemia,靶点参与通路
+PPARG,hsa03320:PPAR signaling pathway,靶点参与通路
+PPARG,hsa04148:Efferocytosis,靶点参与通路
+PPARG,hsa04152:AMPK signaling pathway,靶点参与通路
+PPARG,hsa04211:Longevity regulating pathway,靶点参与通路
+PPARG,hsa04380:Osteoclast differentiation,靶点参与通路
+PPARG,hsa04932:Non-alcoholic fatty liver disease,靶点参与通路
+PPARG,hsa05200:Pathways in cancer,靶点参与通路
+PPARG,hsa05202:Transcriptional misregulation in cancer,靶点参与通路
+PPARG,hsa05216:Thyroid cancer,靶点参与通路
+PPARG,hsa05417:Lipid and atherosclerosis,靶点参与通路
+PSMB5,hsa05010:Alzheimer disease,靶点参与通路
+PSMB5,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+PTGS1,hsa00590:Arachidonic acid metabolism,靶点参与通路
+PTGS1,hsa01100:Metabolic pathways,靶点参与通路
+PTGS1,hsa04611:Platelet activation,靶点参与通路
+PTGS1,hsa04726:Serotonergic synapse,靶点参与通路
+PTGS1,hsa04923:Regulation of lipolysis in adipocytes,靶点参与通路
+PTGS2,hsa00590:Arachidonic acid metabolism,靶点参与通路
+PTGS2,hsa01100:Metabolic pathways,靶点参与通路
+PTGS2,hsa04064:NF-kappa B signaling pathway,靶点参与通路
+PTGS2,hsa04148:Efferocytosis,靶点参与通路
+PTGS2,hsa04370:VEGF signaling pathway,靶点参与通路
+PTGS2,hsa04625:C-type lectin receptor signaling pathway,靶点参与通路
+PTGS2,hsa04657:IL-17 signaling pathway,靶点参与通路
+PTGS2,hsa04668:TNF signaling pathway,靶点参与通路
+PTGS2,hsa04726:Serotonergic synapse,靶点参与通路
+PTGS2,hsa04913:Ovarian steroidogenesis,靶点参与通路
+PTGS2,hsa04921:Oxytocin signaling pathway,靶点参与通路
+PTGS2,hsa04923:Regulation of lipolysis in adipocytes,靶点参与通路
+PTGS2,hsa05010:Alzheimer disease,靶点参与通路
+PTGS2,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+PTGS2,hsa05163:Human cytomegalovirus infection,靶点参与通路
+PTGS2,hsa05165:Human papillomavirus infection,靶点参与通路
+PTGS2,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+PTGS2,hsa05200:Pathways in cancer,靶点参与通路
+PTGS2,hsa05204:Chemical carcinogenesis - DNA adducts,靶点参与通路
+PTGS2,hsa05206:MicroRNAs in cancer,靶点参与通路
+PTGS2,hsa05222:Small cell lung cancer,靶点参与通路
+PTK2,hsa01522:Endocrine resistance,靶点参与通路
+PTK2,hsa04012:ErbB signaling pathway,靶点参与通路
+PTK2,hsa04062:Chemokine signaling pathway,靶点参与通路
+PTK2,hsa04148:Efferocytosis,靶点参与通路
+PTK2,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+PTK2,hsa04360:Axon guidance,靶点参与通路
+PTK2,hsa04370:VEGF signaling pathway,靶点参与通路
+PTK2,hsa04510:Focal adhesion,靶点参与通路
+PTK2,hsa04517:IgSF CAM signaling,靶点参与通路
+PTK2,hsa04518:Integrin signaling,靶点参与通路
+PTK2,hsa04670:Leukocyte transendothelial migration,靶点参与通路
+PTK2,hsa04810:Regulation of actin cytoskeleton,靶点参与通路
+PTK2,"hsa04935:Growth hormone synthesis, secretion and action",靶点参与通路
+PTK2,hsa05100:Bacterial invasion of epithelial cells,靶点参与通路
+PTK2,hsa05131:Shigellosis,靶点参与通路
+PTK2,hsa05135:Yersinia infection,靶点参与通路
+PTK2,hsa05146:Amoebiasis,靶点参与通路
+PTK2,hsa05163:Human cytomegalovirus infection,靶点参与通路
+PTK2,hsa05165:Human papillomavirus infection,靶点参与通路
+PTK2,hsa05170:Human immunodeficiency virus 1 infection,靶点参与通路
+PTK2,hsa05200:Pathways in cancer,靶点参与通路
+PTK2,hsa05202:Transcriptional misregulation in cancer,靶点参与通路
+PTK2,hsa05205:Proteoglycans in cancer,靶点参与通路
+PTK2,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+PTK2,hsa05222:Small cell lung cancer,靶点参与通路
+PTK2,hsa05417:Lipid and atherosclerosis,靶点参与通路
+PTK2,hsa05418:Fluid shear stress and atherosclerosis,靶点参与通路
+PTPN1,hsa04520:Adherens junction,靶点参与通路
+PTPN1,hsa04910:Insulin signaling pathway,靶点参与通路
+PTPN1,hsa04931:Insulin resistance,靶点参与通路
+PTPN1,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+PYGL,hsa01100:Metabolic pathways,靶点参与通路
+PYGL,hsa04217:Necroptosis,靶点参与通路
+PYGL,hsa04910:Insulin signaling pathway,靶点参与通路
+PYGL,hsa04922:Glucagon signaling pathway,靶点参与通路
+PYGL,hsa04931:Insulin resistance,靶点参与通路
+Palmitic Acid,TLR2,代谢物预测结合靶点
+Palmitoylethanolamide,CNR1,代谢物预测结合靶点
+Palmitoylethanolamide,CNR2,代谢物预测结合靶点
+Parabacteroides,(+)-Melezitose,菌产生代谢物
+Parabacteroides,(+-)-Aspartic Acid,菌产生代谢物
+Parabacteroides,3-Hydroxy-2-methylbutyric acid,菌产生代谢物
+Parabacteroides,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Parabacteroides,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Parabacteroides,5-Methoxyindoleacetic acid,菌产生代谢物
+Parabacteroides,Coumarin,菌产生代谢物
+Parabacteroides,Deoxyguanosine,菌产生代谢物
+Parabacteroides,Deoxyinosine,菌产生代谢物
+Parabacteroides,Indole-3-lactic acid,菌产生代谢物
+Parabacteroides,Isoallolithocholic Acid,菌产生代谢物
+Parabacteroides,L-Methionine,菌产生代谢物
+Parabacteroides,Linoleic Acid,菌产生代谢物
+Parabacteroides,Myristic Acid,菌产生代谢物
+Parabacteroides,O-alpha-D-Glucopyranosyl-(1->4)-O-alpha-D-glucopyranosyl-(1->4)-D-glucopyranose,菌产生代谢物
+Parabacteroides,Oleic Acid,菌产生代谢物
+Parabacteroides,Palmitic Acid,菌产生代谢物
+Parabacteroides,Palmitoleic Acid,菌产生代谢物
+Parabacteroides,Palmitoylethanolamide,菌产生代谢物
+Parabacteroides,Pantothenic Acid,菌产生代谢物
+Parabacteroides,Thymine,菌产生代谢物
+Parabacteroides,Xanthine,菌产生代谢物
+Parabacteroides,cis-11-Eicosenoic acid,菌产生代谢物
+Parabacteroides distasonis,(-)-Secoisolariciresinol,菌产生代谢物
+Parabacteroides distasonis,"2,3-Dihydroxybutanedioic Acid",菌产生代谢物
+Parabacteroides distasonis,Bile Acid,菌产生代谢物
+Parabacteroides distasonis,Kaempferol,菌产生代谢物
+Parabacteroides distasonis,Succinate,菌产生代谢物
+Paraeggerthella hongkongensis,Equol,菌产生代谢物
+Paraprevotella,Glycocholic Acid,菌产生代谢物
+Paraprevotella clara,Acetic acid 10-acetoxymethyl-anthracen-9-ylmethyl ester,菌产生代谢物
+Paraprevotella clara,Succinate,菌产生代谢物
+Paraprevotella xylaniphila,Acetic acid 10-acetoxymethyl-anthracen-9-ylmethyl ester,菌产生代谢物
+Paraprevotella xylaniphila,Succinate,菌产生代谢物
+Parasutterella,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Parasutterella,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Parasutterella excrementihominis,Propionate ion,菌产生代谢物
+Parvimonas micra,L-Valine,菌产生代谢物
+Parvimonas micra,Linoleic Acid,菌产生代谢物
+Peptostreptococcus anaerobius,1H-Indole-3-propanoic acid,菌产生代谢物
+Peptostreptococcus anaerobius,Glycine,菌产生代谢物
+Peptostreptococcus anaerobius,Myristic Acid,菌产生代谢物
+Phascolarctobacterium,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Phascolarctobacterium,Butyrate,菌产生代谢物
+Phascolarctobacterium,Hexanoic Acid,菌产生代谢物
+Phascolarctobacterium,Isobutyric Acid,菌产生代谢物
+Phascolarctobacterium,Isocaproic acid,菌产生代谢物
+Phascolarctobacterium,L-Phenylalanine,菌产生代谢物
+Phascolarctobacterium,L-Serine,菌产生代谢物
+Phascolarctobacterium,Pentanoic Acid,菌产生代谢物
+Phascolarctobacterium,Propionate ion,菌产生代谢物
+Phascolarctobacterium succinatutens,Propionate ion,菌产生代谢物
+Phloretin,CYP1A2,代谢物预测结合靶点
+Phloretin,CYP3A4,代谢物预测结合靶点
+Phocaeicola vulgatus,Equol,菌产生代谢物
+Porphyromonas gingivalis,Gamma-Aminobutyric Acid,菌产生代谢物
+Prevotella,2-Methylbutyrate,菌产生代谢物
+Prevotella,Doconexent,菌产生代谢物
+Prevotella,Hexanoate,菌产生代谢物
+Prevotella,Isobutyric Acid,菌产生代谢物
+Prevotella,Isovalerate,菌产生代谢物
+Prevotella,L-Isoleucine,菌产生代谢物
+Prevotella nigrescens,(-)-Asparagine,菌产生代谢物
+Prevotellaceae,Succinate,菌产生代谢物
+Proteus,Acetate,菌产生代谢物
+Proteus,Propionate ion,菌产生代谢物
+Protocatechuic Acid,CA9,代谢物预测结合靶点
+Pseudobutyrivibrio,Butyrate,菌产生代谢物
+Pseudomonadota,Benzoate,菌产生代谢物
+Pseudomonas,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Pseudomonas,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Pseudomonas fragi,4-Pyridoxic Acid,菌产生代谢物
+Pyramidobacter,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Pyramidobacter,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Quercetin,ABCB1,代谢物预测结合靶点
+Quercetin,ABCC1,代谢物预测结合靶点
+Quercetin,ABCG2,代谢物预测结合靶点
+Quercetin,ADRA2B,代谢物预测结合靶点
+Quercetin,AKR1B1,代谢物预测结合靶点
+Quercetin,AKT1,代谢物预测结合靶点
+Quercetin,ALK,代谢物预测结合靶点
+Quercetin,ALOX12,代谢物预测结合靶点
+Quercetin,ALOX15,代谢物预测结合靶点
+Quercetin,ALOX5,代谢物预测结合靶点
+Quercetin,BACE1,代谢物预测结合靶点
+Quercetin,BRAF,代谢物预测结合靶点
+Quercetin,CA9,代谢物预测结合靶点
+Quercetin,CDK1,代谢物预测结合靶点
+Quercetin,CHRM2,代谢物预测结合靶点
+Quercetin,CNR1,代谢物预测结合靶点
+Quercetin,CSNK2A1,代谢物预测结合靶点
+Quercetin,CTNNB1,代谢物预测结合靶点
+Quercetin,CYP1A1,代谢物预测结合靶点
+Quercetin,CYP1A2,代谢物预测结合靶点
+Quercetin,CYP1B1,代谢物预测结合靶点
+Quercetin,CYP2C8,代谢物预测结合靶点
+Quercetin,CYP2C9,代谢物预测结合靶点
+Quercetin,CYP3A4,代谢物预测结合靶点
+Quercetin,DAPK1,代谢物预测结合靶点
+Quercetin,DPP4,代谢物预测结合靶点
+Quercetin,EGFR,代谢物预测结合靶点
+Quercetin,ELAVL1,代谢物预测结合靶点
+Quercetin,F2,代谢物预测结合靶点
+Quercetin,GLO1,代谢物预测结合靶点
+Quercetin,GSK3B,代谢物预测结合靶点
+Quercetin,HDAC6,代谢物预测结合靶点
+Quercetin,HRH1,代谢物预测结合靶点
+Quercetin,IGF1R,代谢物预测结合靶点
+Quercetin,IP6K2,代谢物预测结合靶点
+Quercetin,IPMK,代谢物预测结合靶点
+Quercetin,KDM1A,代谢物预测结合靶点
+Quercetin,KDR,代谢物预测结合靶点
+Quercetin,MAOA,代谢物预测结合靶点
+Quercetin,MAP2K1,代谢物预测结合靶点
+Quercetin,MET,代谢物预测结合靶点
+Quercetin,MMP13,代谢物预测结合靶点
+Quercetin,MMP2,代谢物预测结合靶点
+Quercetin,MMP3,代谢物预测结合靶点
+Quercetin,MMP9,代谢物预测结合靶点
+Quercetin,NEK2,代谢物预测结合靶点
+Quercetin,NEK6,代谢物预测结合靶点
+Quercetin,PDE4D,代谢物预测结合靶点
+Quercetin,PIK3R1,代谢物预测结合靶点
+Quercetin,PIM1,代谢物预测结合靶点
+Quercetin,PKN1,代谢物预测结合靶点
+Quercetin,PLK1,代谢物预测结合靶点
+Quercetin,PSMB5,代谢物预测结合靶点
+Quercetin,PTGS2,代谢物预测结合靶点
+Quercetin,PTK2,代谢物预测结合靶点
+Quercetin,PYGL,代谢物预测结合靶点
+Quercetin,SIRT6,代谢物预测结合靶点
+Quercetin,SLCO2B1,代谢物预测结合靶点
+Quercetin,SPHK1,代谢物预测结合靶点
+Quercetin,SRC,代谢物预测结合靶点
+Quercetin,YES1,代谢物预测结合靶点
+Quercitrin,AKR1B1,代谢物预测结合靶点
+Quercitrin,P4HB,代谢物预测结合靶点
+RPS6KA3,hsa04010:MAPK signaling pathway,靶点参与通路
+RPS6KA3,hsa04114:Oocyte meiosis,靶点参与通路
+RPS6KA3,hsa04150:mTOR signaling pathway,靶点参与通路
+RPS6KA3,hsa04720:Long-term potentiation,靶点参与通路
+RPS6KA3,hsa04722:Neurotrophin signaling pathway,靶点参与通路
+RPS6KA3,hsa04914:Progesterone-mediated oocyte maturation,靶点参与通路
+RPS6KA3,hsa04931:Insulin resistance,靶点参与通路
+RPS6KA3,hsa05135:Yersinia infection,靶点参与通路
+RPS6KA3,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+RXRA,hsa03320:PPAR signaling pathway,靶点参与通路
+RXRA,hsa04148:Efferocytosis,靶点参与通路
+RXRA,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+RXRA,hsa04919:Thyroid hormone signaling pathway,靶点参与通路
+RXRA,hsa04920:Adipocytokine signaling pathway,靶点参与通路
+RXRA,"hsa04928:Parathyroid hormone synthesis, secretion and action",靶点参与通路
+RXRA,hsa04932:Non-alcoholic fatty liver disease,靶点参与通路
+RXRA,hsa04976:Bile secretion,靶点参与通路
+RXRA,hsa05160:Hepatitis C,靶点参与通路
+RXRA,hsa05200:Pathways in cancer,靶点参与通路
+RXRA,hsa05202:Transcriptional misregulation in cancer,靶点参与通路
+RXRA,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+RXRA,hsa05216:Thyroid cancer,靶点参与通路
+RXRA,hsa05222:Small cell lung cancer,靶点参与通路
+RXRA,hsa05223:Non-small cell lung cancer,靶点参与通路
+RXRA,hsa05226:Gastric cancer,靶点参与通路
+RXRA,hsa05417:Lipid and atherosclerosis,靶点参与通路
+Roseburia,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Roseburia,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Roseburia,Butyrate,菌产生代谢物
+Roseburia hominis,Trimethylamine oxide,菌产生代谢物
+Roseburia intestinalis,Acetate,菌产生代谢物
+Roseburia intestinalis,Butyrate,菌产生代谢物
+Roseburia inulinivorans,1-Propanol,菌产生代谢物
+Roseburia inulinivorans,Butyrate,菌产生代谢物
+Roseburia inulinivorans,Propionate ion,菌产生代谢物
+Roseburia sp. A2-181,Butyrate,菌产生代谢物
+Roseburia sp. A2-183,Butyrate,菌产生代谢物
+Ruminococcus,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Ruminococcus,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Ruminococcus,Deoxycholic Acid,菌产生代谢物
+Ruminococcus,Glycine,菌产生代谢物
+Ruminococcus,L-Alanine,菌产生代谢物
+Ruminococcus,L-Isoleucine,菌产生代谢物
+Ruminococcus,L-Leucine,菌产生代谢物
+Ruminococcus,L-Proline,菌产生代谢物
+Ruminococcus,L-Serine,菌产生代谢物
+Ruminococcus,Ursodeoxycholic Acid,菌产生代谢物
+Ruminococcus bromii,"2,3-Dihydroxybutanedioic Acid",菌产生代谢物
+Ruminococcus bromii,4-Pyridoxic Acid,菌产生代谢物
+Ruminococcus bromii,Glycerol,菌产生代谢物
+Ruminococcus bromii,Propionate ion,菌产生代谢物
+Ruminococcus champanellensis,Acetate,菌产生代谢物
+Ruminococcus champanellensis,Succinate,菌产生代谢物
+SETD7,hsa01100:Metabolic pathways,靶点参与通路
+SETD7,hsa04068:FoxO signaling pathway,靶点参与通路
+SIRT6,hsa01100:Metabolic pathways,靶点参与通路
+SIRT6,hsa05230:Central carbon metabolism in cancer,靶点参与通路
+SLC2A1,hsa04066:HIF-1 signaling pathway,靶点参与通路
+SLC2A1,hsa04148:Efferocytosis,靶点参与通路
+SLC2A1,hsa04919:Thyroid hormone signaling pathway,靶点参与通路
+SLC2A1,hsa04920:Adipocytokine signaling pathway,靶点参与通路
+SLC2A1,hsa04922:Glucagon signaling pathway,靶点参与通路
+SLC2A1,hsa04931:Insulin resistance,靶点参与通路
+SLC2A1,hsa04976:Bile secretion,靶点参与通路
+SLC2A1,hsa05166:Human T-cell leukemia virus 1 infection,靶点参与通路
+SLC2A1,hsa05200:Pathways in cancer,靶点参与通路
+SLC2A1,hsa05211:Renal cell carcinoma,靶点参与通路
+SLC2A1,hsa05230:Central carbon metabolism in cancer,靶点参与通路
+SLC2A1,hsa05415:Diabetic cardiomyopathy,靶点参与通路
+SLCO2B1,hsa04981:Folate transport and metabolism,靶点参与通路
+SNCA,hsa05010:Alzheimer disease,靶点参与通路
+SNCA,hsa05022:Pathways of neurodegeneration - multiple diseases,靶点参与通路
+SPHK1,hsa01100:Metabolic pathways,靶点参与通路
+SPHK1,hsa04020:Calcium signaling pathway,靶点参与通路
+SPHK1,hsa04071:Sphingolipid signaling pathway,靶点参与通路
+SPHK1,hsa04072:Phospholipase D signaling pathway,靶点参与通路
+SPHK1,hsa04148:Efferocytosis,靶点参与通路
+SPHK1,hsa04370:VEGF signaling pathway,靶点参与通路
+SPHK1,hsa04666:Fc gamma R-mediated phagosome formation,靶点参与通路
+SPHK1,hsa05152:Tuberculosis,靶点参与通路
+SRC,hsa01521:EGFR tyrosine kinase inhibitor resistance,靶点参与通路
+SRC,hsa01522:Endocrine resistance,靶点参与通路
+SRC,hsa04012:ErbB signaling pathway,靶点参与通路
+SRC,hsa04015:Rap1 signaling pathway,靶点参与通路
+SRC,hsa04062:Chemokine signaling pathway,靶点参与通路
+SRC,hsa04360:Axon guidance,靶点参与通路
+SRC,hsa04370:VEGF signaling pathway,靶点参与通路
+SRC,hsa04510:Focal adhesion,靶点参与通路
+SRC,hsa04517:IgSF CAM signaling,靶点参与通路
+SRC,hsa04518:Integrin signaling,靶点参与通路
+SRC,hsa04520:Adherens junction,靶点参与通路
+SRC,hsa04540:Gap junction,靶点参与通路
+SRC,hsa04611:Platelet activation,靶点参与通路
+SRC,hsa04613:Neutrophil extracellular trap formation,靶点参与通路
+SRC,hsa04625:C-type lectin receptor signaling pathway,靶点参与通路
+SRC,hsa04750:Inflammatory mediator regulation of TRP channels,靶点参与通路
+SRC,hsa04810:Regulation of actin cytoskeleton,靶点参与通路
+SRC,hsa04912:GnRH signaling pathway,靶点参与通路
+SRC,hsa04915:Estrogen signaling pathway,靶点参与通路
+SRC,hsa04917:Prolactin signaling pathway,靶点参与通路
+SRC,hsa04919:Thyroid hormone signaling pathway,靶点参与通路
+SRC,hsa04921:Oxytocin signaling pathway,靶点参与通路
+SRC,hsa04926:Relaxin signaling pathway,靶点参与通路
+SRC,hsa05100:Bacterial invasion of epithelial cells,靶点参与通路
+SRC,hsa05120:Epithelial cell signaling in Helicobacter pylori infection,靶点参与通路
+SRC,hsa05131:Shigellosis,靶点参与通路
+SRC,hsa05135:Yersinia infection,靶点参与通路
+SRC,hsa05152:Tuberculosis,靶点参与通路
+SRC,hsa05161:Hepatitis B,靶点参与通路
+SRC,hsa05163:Human cytomegalovirus infection,靶点参与通路
+SRC,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+SRC,hsa05168:Herpes simplex virus 1 infection,靶点参与通路
+SRC,hsa05203:Viral carcinogenesis,靶点参与通路
+SRC,hsa05205:Proteoglycans in cancer,靶点参与通路
+SRC,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+SRC,hsa05208:Chemical carcinogenesis - reactive oxygen species,靶点参与通路
+SRC,hsa05219:Bladder cancer,靶点参与通路
+SRC,hsa05417:Lipid and atherosclerosis,靶点参与通路
+SRC,hsa05418:Fluid shear stress and atherosclerosis,靶点参与通路
+SYK,hsa04064:NF-kappa B signaling pathway,靶点参与通路
+SYK,hsa04072:Phospholipase D signaling pathway,靶点参与通路
+SYK,hsa04145:Phagocytosis,靶点参与通路
+SYK,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+SYK,hsa04380:Osteoclast differentiation,靶点参与通路
+SYK,hsa04611:Platelet activation,靶点参与通路
+SYK,hsa04613:Neutrophil extracellular trap formation,靶点参与通路
+SYK,hsa04625:C-type lectin receptor signaling pathway,靶点参与通路
+SYK,hsa04650:Natural killer cell mediated cytotoxicity,靶点参与通路
+SYK,hsa04662:B cell receptor signaling pathway,靶点参与通路
+SYK,hsa04664:Fc epsilon RI signaling pathway,靶点参与通路
+SYK,hsa04666:Fc gamma R-mediated phagosome formation,靶点参与通路
+SYK,hsa05152:Tuberculosis,靶点参与通路
+SYK,hsa05167:Kaposi sarcoma-associated herpesvirus infection,靶点参与通路
+SYK,hsa05168:Herpes simplex virus 1 infection,靶点参与通路
+SYK,hsa05169:Epstein-Barr virus infection,靶点参与通路
+SYK,hsa05171:Coronavirus disease,靶点参与通路
+SYK,hsa05203:Viral carcinogenesis,靶点参与通路
+Saccharomyces,Decanoic Acid,菌产生代谢物
+Saccharomyces cerevisiae,Ethanol,菌产生代谢物
+Saccharomycetales sp.,Acetate,菌产生代谢物
+Saccharomycetales sp.,Butyrate,菌产生代谢物
+Shigella,Indoxyl Sulfate,菌产生代谢物
+Shigella,Trimethylamine oxide,菌产生代谢物
+Slackia equolifaciens,"(E)-3,4-Stilbendiol",菌产生代谢物
+Slackia equolifaciens,Dihydroresveratrol,菌产生代谢物
+Slackia equolifaciens,Equol,菌产生代谢物
+Slackia equolifaciens,Lunularin,菌产生代谢物
+Slackia faecicanis sp.,Equol,菌产生代谢物
+Slackia isoflavoniconvertens,Equol,菌产生代谢物
+Slackia sp. NATTS,Equol,菌产生代谢物
+Sophoraflavanone B,ABCG2,代谢物预测结合靶点
+Sophoraflavanone B,ALOX5,代谢物预测结合靶点
+Sophoraflavanone B,CACNA1H,代谢物预测结合靶点
+Streptococcus,"Leucic acid, L-",菌产生代谢物
+Streptococcus australis,Acetate,菌产生代谢物
+Streptococcus intermedius,Equol,菌产生代谢物
+Streptococcus mutans,5-hydroxy-1H-imidazole-4-carboxamide,菌产生代谢物
+Streptococcus salivarius,Butyrate,菌产生代谢物
+Streptococcus sp. MRG-ICA-B,Icariside Ii,菌产生代谢物
+Streptococcus vestibularis,Butyrate,菌产生代谢物
+Subdoligranulum,"5-(3,4-Dihydroxyphenyl)pentanoic acid",菌产生代谢物
+Subdoligranulum,5-(3-Hydroxyphenyl)pentanoic Acid,菌产生代谢物
+Subdoligranulum sp.,(R)-3-(4-Hydroxyphenyl)lactate,菌产生代谢物
+Subdoligranulum sp.,"Ethyl phenyllactate, (-)-",菌产生代谢物
+Succinatimonas hippei,Acetate,菌产生代谢物
+Succinatimonas hippei,Succinate,菌产生代谢物
+Succinivibrio dextrinosolvens,Acetate,菌产生代谢物
+Succinivibrio dextrinosolvens,Formate,菌产生代谢物
+Succinivibrio dextrinosolvens,Lactate,菌产生代谢物
+Succinivibrio dextrinosolvens,Succinate,菌产生代谢物
+Sutterella,Hexanoic Acid,菌产生代谢物
+Sutterella,Isobutyric Acid,菌产生代谢物
+Sutterella,Isocaproic acid,菌产生代谢物
+Sutterella,Isovaleric Acid,菌产生代谢物
+Sutterella,O-alpha-D-Glucopyranosyl-(1->4)-O-alpha-D-glucopyranosyl-(1->4)-D-glucopyranose,菌产生代谢物
+Sutterella,Pentanoic Acid,菌产生代谢物
+Sutterella,Propionate ion,菌产生代谢物
+Synergistes sp.,L-Aspartic Acid,菌产生代谢物
+Synergistes sp.,L-Tyrosine,菌产生代谢物
+TERT,hsa05165:Human papillomavirus infection,靶点参与通路
+TERT,hsa05166:Human T-cell leukemia virus 1 infection,靶点参与通路
+TERT,hsa05200:Pathways in cancer,靶点参与通路
+TERT,hsa05225:Hepatocellular carcinoma,靶点参与通路
+TERT,hsa05226:Gastric cancer,靶点参与通路
+TLR2,hsa04145:Phagocytosis,靶点参与通路
+TLR2,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+TLR2,hsa04613:Neutrophil extracellular trap formation,靶点参与通路
+TLR2,hsa04620:Toll-like receptor signaling pathway,靶点参与通路
+TLR2,hsa05132:Salmonella infection,靶点参与通路
+TLR2,hsa05142:Chagas disease,靶点参与通路
+TLR2,hsa05145:Toxoplasmosis,靶点参与通路
+TLR2,hsa05146:Amoebiasis,靶点参与通路
+TLR2,hsa05152:Tuberculosis,靶点参与通路
+TLR2,hsa05161:Hepatitis B,靶点参与通路
+TLR2,hsa05162:Measles,靶点参与通路
+TLR2,hsa05168:Herpes simplex virus 1 infection,靶点参与通路
+TLR2,hsa05169:Epstein-Barr virus infection,靶点参与通路
+TLR2,hsa05170:Human immunodeficiency virus 1 infection,靶点参与通路
+TLR2,hsa05171:Coronavirus disease,靶点参与通路
+TLR2,hsa05205:Proteoglycans in cancer,靶点参与通路
+TLR2,hsa05235:PD-L1 expression and PD-1 checkpoint pathway in cancer,靶点参与通路
+TLR2,hsa05417:Lipid and atherosclerosis,靶点参与通路
+TLR4,hsa04064:NF-kappa B signaling pathway,靶点参与通路
+TLR4,hsa04066:HIF-1 signaling pathway,靶点参与通路
+TLR4,hsa04145:Phagocytosis,靶点参与通路
+TLR4,hsa04151:PI3K-Akt signaling pathway,靶点参与通路
+TLR4,hsa04217:Necroptosis,靶点参与通路
+TLR4,hsa04613:Neutrophil extracellular trap formation,靶点参与通路
+TLR4,hsa04620:Toll-like receptor signaling pathway,靶点参与通路
+TLR4,hsa04936:Alcoholic liver disease,靶点参与通路
+TLR4,hsa05131:Shigellosis,靶点参与通路
+TLR4,hsa05132:Salmonella infection,靶点参与通路
+TLR4,hsa05135:Yersinia infection,靶点参与通路
+TLR4,hsa05142:Chagas disease,靶点参与通路
+TLR4,hsa05145:Toxoplasmosis,靶点参与通路
+TLR4,hsa05146:Amoebiasis,靶点参与通路
+TLR4,hsa05152:Tuberculosis,靶点参与通路
+TLR4,hsa05161:Hepatitis B,靶点参与通路
+TLR4,hsa05162:Measles,靶点参与通路
+TLR4,hsa05164:Influenza A,靶点参与通路
+TLR4,hsa05170:Human immunodeficiency virus 1 infection,靶点参与通路
+TLR4,hsa05171:Coronavirus disease,靶点参与通路
+TLR4,hsa05205:Proteoglycans in cancer,靶点参与通路
+TLR4,hsa05235:PD-L1 expression and PD-1 checkpoint pathway in cancer,靶点参与通路
+TLR4,hsa05417:Lipid and atherosclerosis,靶点参与通路
+TOP2A,hsa01524:Platinum drug resistance,靶点参与通路
+Taurocholic Acid,GPBAR1,代谢物预测结合靶点
+Taurodeoxycholic Acid,GPBAR1,代谢物预测结合靶点
+Taurolithocholic Acid,GPBAR1,代谢物预测结合靶点
+Thomasclavelia ramosa,Trimethylsilyl 3-phenyl-2-[(trimethylsilyl)amino]propanoate,菌产生代谢物
+Tryptamine,CYP1A2,代谢物预测结合靶点
+Tryptamine,CYP2A6,代谢物预测结合靶点
+Turicibacter,"2,3-Dihydroxybutanedioic Acid",菌产生代谢物
+Turicibacter,Dihydrocaffeic Acid,菌产生代谢物
+Tyramine,PTGS1,代谢物预测结合靶点
+Ursodeoxycholic Acid,ABCB11,代谢物预测结合靶点
+Ursodeoxycholic Acid,CISD1,代谢物预测结合靶点
+Ursodeoxycholic Acid,ENPP2,代谢物预测结合靶点
+Ursodeoxycholic Acid,GPBAR1,代谢物预测结合靶点
+VDR,"hsa04928:Parathyroid hormone synthesis, secretion and action",靶点参与通路
+VDR,hsa05152:Tuberculosis,靶点参与通路
+VDR,hsa05207:Chemical carcinogenesis - receptor activation,靶点参与通路
+Veillonella,Propionate ion,菌产生代谢物
+Veillonella ratti,Propionate ion,菌产生代谢物
+Veillonella sp.,Equol,菌产生代谢物
+Veillonella sp.,Hydrogen Sulfide,菌产生代谢物
+Veillonella sp. 32,Leucocyanidin,菌产生代谢物
+Veillonellaceae,Succinate,菌产生代谢物
+Weissella confusa,Ethanol,菌产生代谢物
+Weissella paramesenteroides,beta-D-fructose,菌产生代谢物
+Wickerhamiella,Chenodeoxycholic Acid,菌产生代谢物
+Wickerhamiella,Glycochenodeoxycholic Acid,菌产生代谢物
+Wickerhamiella,Glycocholic Acid,菌产生代谢物
+Wickerhamiella,Glycoursodeoxycholic acid,菌产生代谢物
+Wickerhamiella,Taurocholic Acid,菌产生代谢物
+Wickerhamiella,Taurodeoxycholic Acid,菌产生代谢物
+Wickerhamiella,Taurolithocholic Acid,菌产生代谢物
+YES1,hsa04520:Adherens junction,靶点参与通路
+[Clostridium] nexile 1,Trimethylamine oxide,菌产生代谢物
+[Clostridium] scindens,Acetate,菌产生代谢物
+[Clostridium] scindens,Deoxycholic Acid,菌产生代谢物
+[Clostridium] scindens,Enterodiol,菌产生代谢物
+[Clostridium] scindens,Ethanol,菌产生代谢物
+[Clostridium] scindens,Formate,菌产生代谢物
+[Clostridium] scindens,Hydrogen,菌产生代谢物
+[Clostridium] scindens,Lithocholic Acid,菌产生代谢物
+[Clostridium] symbiosum 1,L-Homoserine,菌产生代谢物
+[Clostridium] symbiosum 1,L-Valine,菌产生代谢物
+[Eubacterium] siraeum 1,Creatine,菌产生代谢物
+[Eubacterium] siraeum 1,Ethanol,菌产生代谢物
+[Eubacterium] siraeum 1,Urea,菌产生代谢物
+[Ruminococcus] torques,L-Isoleucine,菌产生代谢物
+[Ruminococcus] torques,L-Leucine,菌产生代谢物
+[Ruminococcus] torques,L-Valine,菌产生代谢物
+bacterium MRG-IFC-1,Daidzein,菌产生代谢物
+bacterium MRG-IFC-2,Daidzein,菌产生代谢物
+bacterium MRG-PMF-1,Icariside Ii,菌产生代谢物
+bacterium MRG-PMF-1,Icaritin,菌产生代谢物
+cis-11-Eicosenoic acid,PTPN1,代谢物预测结合靶点
+human intestinal bacterium SNU-Julong732,Equol,菌产生代谢物
+unclassified Eggerthella,Trimethylamine oxide,菌产生代谢物
+unclassified Parabacteroides,Butyrate,菌产生代谢物
+uncultured Ruminiclostridium sp.,Creatine,菌产生代谢物
+uncultured Ruminiclostridium sp.,Urea,菌产生代谢物

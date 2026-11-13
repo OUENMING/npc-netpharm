@@ -1,0 +1,7 @@
+﻿gene,rank_MCC,rank_MNC,rank_EPC,rank_Stress,rank_Degree,rank_Radiality,STRING_degree,gutMGene_records,NPC_meta_log2FC,NPC_meta_FDR
+AKT1,2,1,,1,1,1,74,3/3,-0.227,0.01809
+CTNNB1,1,2,,2,2,2,65,3/3,-0.019,0.9462
+EGFR,3,3,,5,3,3,56,1/4,0.524,0.007332
+GSK3B,9,7,,7,7,7,48,1/1,0.191,0.04694
+PTGS2,7,5,,3,5,5,53,4/5,2.454,1.907e-10
+SRC,4,4,,4,4,4,56,—,0.418,0.003066

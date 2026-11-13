@@ -1,0 +1,229 @@
+metabolite,n_genera,n_core_targets,degree
+Quercetin,8,61,69
+Butyrate,34,1,35
+Acetate,34,0,34
+Luteolin,1,32,33
+Myricetin,3,28,31
+Kaempferol,6,24,30
+5-(3-Hydroxyphenyl)pentanoic Acid,29,0,29
+Apigenin,1,27,28
+"5-(3,4-Dihydroxyphenyl)pentanoic acid",25,0,25
+Equol,25,0,25
+Genistein,7,16,23
+Propionate ion,21,0,21
+Trimethylamine oxide,20,0,20
+Daidzein,13,4,17
+Chrysin,1,15,16
+Succinate,15,0,15
+Acacetin,1,12,13
+Caffeic Acid,4,9,13
+1H-Indole-3-propanoic acid,12,0,12
+Lactate,11,0,11
+Ethanol,10,0,10
+4-Pyridoxic Acid,9,0,9
+Levodopa,1,8,9
+Dihydrocaffeic Acid,9,0,9
+Isoquercetin,5,3,8
+Isobutyric Acid,8,0,8
+Oleic Acid,2,6,8
+Diosmetin,1,7,8
+Trimethylamine,8,0,8
+(+-)-Naringenin,1,7,8
+L-Isoleucine,7,0,7
+Lithocholic Acid,4,2,6
+Glycitein,5,1,6
+"2,3-Dihydroxybutanedioic Acid",6,0,6
+L-Leucine,4,2,6
+Creatine,6,0,6
+Formate,6,0,6
+L-Serine,4,1,5
+Deoxycholic Acid,4,1,5
+Linoleic Acid,3,2,5
+Enterodiol,5,0,5
+Arachidonic Acid,3,2,5
+Isoallolithocholic Acid,5,0,5
+Coumarin,2,3,5
+4-Hydroxybenzoic Acid,3,2,5
+"Ethyl phenyllactate, (-)-",5,0,5
+(-)-Secoisolariciresinol,5,0,5
+(R)-3-(4-Hydroxyphenyl)lactate,5,0,5
+Ursodeoxycholic Acid,1,4,5
+(+-)-Dihydrodaidzein,5,0,5
+Quercitrin,3,2,5
+Isovaleric Acid,4,0,4
+Glycocholic Acid,4,0,4
+Sophoraflavanone B,1,3,4
+Isourolithin A,4,0,4
+Glycine,4,0,4
+L-Phenylalanine,1,3,4
+Acetic acid 10-acetoxymethyl-anthracen-9-ylmethyl ester,4,0,4
+Platycodin D,4,0,4
+Dopamine,1,3,4
+"7-Hydroxy-5-methyl-3-phenyl-6,7,8,9-tetrahydropyrido[3',2':4,5]imidazo[1,2-a]pyrimidin-5-ium chloride",4,0,4
+Palmitoylethanolamide,2,2,4
+Palmitic Acid,3,1,4
+3-(4-Hydroxyphenyl)propionic acid,4,0,4
+Hexanoic Acid,4,0,4
+O-alpha-D-Glucopyranosyl-(1->4)-O-alpha-D-glucopyranosyl-(1->4)-D-glucopyranose,4,0,4
+Taurocholic Acid,3,1,4
+Leucocyanidin,4,0,4
+beta-D-fructose,4,0,4
+Urea,4,0,4
+Indoxyl Sulfate,3,0,3
+Hexanoate,3,0,3
+(-)-Asparagine,2,1,3
+Deoxyinosine,3,0,3
+Indole-3-lactic acid,3,0,3
+Isovalerate,3,0,3
+(-)-Arctigenin,1,2,3
+Glycochenodeoxycholic Acid,1,2,3
+Icariside Ii,3,0,3
+Tryptamine,1,2,3
+Myristic Acid,3,0,3
+L-Alanine,3,0,3
+L-Ascorbic Acid,1,2,3
+Ginsenoside Rh2,3,0,3
+O-Desmethylangolensin,3,0,3
+Glutathione,1,2,3
+cis-11-Eicosenoic acid,2,1,3
+2-Methylbutyrate,3,0,3
+L-Valine,3,0,3
+Phloretin,1,2,3
+L-Proline,3,0,3
+L-Methionine,3,0,3
+Protocatechuic Acid,2,1,3
+Hydrogen Sulfide,3,0,3
+Quinate,3,0,3
+Benzenepropanoic acid,3,0,3
+Doconexent,2,1,3
+Xanthine,2,0,2
+Taurolithocholic Acid,1,1,2
+Hydroxyphenylacetic acid,1,1,2
+Icaritin,1,1,2
+Lunularin,2,0,2
+Loganetin,1,1,2
+Palmitoleic Acid,2,0,2
+Pantothenic Acid,2,0,2
+Pentanoic Acid,2,0,2
+Pipecolic Acid,2,0,2
+L-Histidine,2,0,2
+L-Glutamic Acid,1,1,2
+L-(+)-Cysteine,1,1,2
+Taurodeoxycholic Acid,1,1,2
+Norathyriol,1,1,2
+Thymine,2,0,2
+Trimethylsilyl 3-phenyl-2-[(trimethylsilyl)amino]propanoate,2,0,2
+Isocaproic acid,2,0,2
+Tyramine,1,1,2
+"Leucic acid, L-",2,0,2
+(+)-Genipin,2,0,2
+Gamma-Aminobutyric Acid,2,0,2
+"(E)-3,4-Stilbendiol",2,0,2
+3-Hydroxy-4-methoxybenzenepropanoic acid,2,0,2
+3-Hydroxybenzoic Acid,1,1,2
+20(R)-Ginsenoside,2,0,2
+5-Methoxyindoleacetic acid,2,0,2
+5-hydroxy-1H-imidazole-4-carboxamide,2,0,2
+"6,7,4'-Trihydroxyisoflavone",1,1,2
+Aglycone,2,0,2
+Agmatine,2,0,2
+Benzoate,2,0,2
+"3-(3,4-Dihydroxyphenyl)-2-hydroxypropanoic acid",1,1,2
+"2',4,4',6'-Tetrahydroxychalcone",1,1,2
+Chenodeoxycholic Acid,1,1,2
+Citric Acid,2,0,2
+"1,6-Di-O-phosphono-beta-D-fructofuranose",1,1,2
+Bile Acid,2,0,2
+3-Hydroxy-2-methylbutyric acid,2,0,2
+Decanoic Acid,1,1,2
+(+-)-Aspartic Acid,2,0,2
+Dihydroresveratrol,2,0,2
+Dopac,2,0,2
+Desthiobiotin,1,1,2
+(20S)-Protopanaxadiol,2,0,2
+Deoxyguanosine,2,0,2
+(+)-Lariciresinol,2,0,2
+(+)-Melezitose,2,0,2
+"3-(3',4'-Dihydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)-propan-2-ol",1,0,1
+2-Acetoxypropionic Acid,1,0,1
+"2,4-Dioxopentanedioic acid",1,0,1
+"2-(4-Hydroxyphenyl)propionic acid, (2S)-",1,0,1
+3-(3'-Hydroxyphenyl)propionic acid,1,0,1
+Phloroglucinol,1,0,1
+Oxaloacetic Acid,1,0,1
+Phenylacetic Acid,1,0,1
+3-(1H-indol-3-yl)propanoate,1,0,1
+"2-Amino-1-Methyl-6-Phenylimidazo(4,5-b)Pyridine",1,0,1
+P-Cresol glucuronide,1,0,1
+2-Methylbutanoic Acid,1,0,1
+beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-beta-D-Gal-(1->4)-D-Glc,1,0,1
+(+-)-3-(4-Hydroxyphenyl)lactic acid,1,0,1
+P-Cresol sulfate,1,0,1
+Ponciretin,1,0,1
+(S)-Lactate,1,0,1
+"2,4-Dihydroxybenzenepropanoic acid",1,0,1
+Propylene Glycol,1,0,1
+"1,3-Diphenyl-2-propanol",1,0,1
+(2R)-2-hydroxypropanamide,1,0,1
+1-18:1-lysoPE,1,0,1
+1-Caffeoylglycerol,1,0,1
+1-Propanol,1,0,1
+Sulfate Ion,1,0,1
+10-Oxo-trans-11-octadecenoic acid,1,0,1
+10-keto-12Z-octadecenoic acid,1,0,1
+11-Methoxycurvularin,1,0,1
+Quercimeritrin,1,0,1
+(-)-Cystine,1,0,1
+"2,3-Bis(3,4-dihydroxybenzyl)butyrolactone",1,0,1
+Quercetagetin 3-rhamnoside,1,0,1
+Pyruvate,1,0,1
+Protopanaxadiol,1,0,1
+Valerate,1,0,1
+"1,2,3-Propanetricarboxylic acid",1,0,1
+"2,3-Butanediol",1,0,1
+"4-Hydroxy-(3',4'-dihydroxyphenyl)-valeric acid",1,0,1
+N-Acetylputrescine,1,0,1
+Butanedione,1,0,1
+Citrulline,1,0,1
+Cohibin B,1,0,1
+Colibactin,1,0,1
+D-Glucuronic Acid,1,0,1
+D-Lactic Acid,1,0,1
+D-Methionine,1,0,1
+D-Sedoheptulose,1,0,1
+D-Xylose,1,0,1
+DL-alanine,1,0,1
+Hypoxanthine,1,0,1
+DL-norvaline,1,0,1
+Hydroquinone,1,0,1
+Hydrogen,1,0,1
+Hesperetin dihydrochalcone,1,0,1
+Glycoursodeoxycholic acid,1,0,1
+Dihydrogenistein,1,0,1
+Dihydroglycitein,1,0,1
+Glycerol,1,0,1
+Folic Acid,1,0,1
+Carbon Dioxide,1,0,1
+L-(-)-Ornithine,1,0,1
+N-Acetyl-L-ornithine,1,0,1
+L-Aspartic Acid,1,0,1
+N-Acetyl-L-Aspartic Acid,1,0,1
+3-Hydroxyphenethyl alcohol,1,0,1
+3-Phospho-D-glyceric acid,1,0,1
+Ginsenoside Rd,1,0,1
+"4-[(Z)-15,16-dihydroxydotriacont-19-enyl]-2-methyl-2H-uran-5-one",1,0,1
+"5-(3,4-Dihydroxyphenyl)-valerolactone",1,0,1
+5-(Hydroxy-3-indolyl)lactic acid,1,0,1
+"5-Amino-5-carboxy-N,N,N-trimethyl-1-pentanaminium",1,0,1
+5-Hydroxyindoleacetic Acid,1,0,1
+Leu-Pro,1,0,1
+6'-Hydroxy-O-desmethylangolensin,1,0,1
+L-Tyrosine,1,0,1
+L-Threonine,1,0,1
+7-Aminoheptanoic acid,1,0,1
+"Acetic acid, monoanhydride with phosphoric acid, ion(2-)",1,0,1
+Acetoin,1,0,1
+L-Homoserine,1,0,1
+Allocholic acid,1,0,1
+Ammonium,1,0,1
+lacto-N-tetraose,1,0,1

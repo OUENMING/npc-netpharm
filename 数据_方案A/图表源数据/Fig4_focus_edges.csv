@@ -1,0 +1,62 @@
+source,target,interaction
+Bacillus sp. 46,Quercetin,taxon-metabolite
+Bacteroides ovatus,Quercetin,taxon-metabolite
+Bacteroides sp. 45,Quercetin,taxon-metabolite
+Bacteroides uniformis,Quercetin,taxon-metabolite
+Bifidobacterium adolescentis,Genistein,taxon-metabolite
+Bifidobacterium breve,Genistein,taxon-metabolite
+Bifidobacterium catenulatum,Genistein,taxon-metabolite
+Bifidobacterium dentium,Quercetin,taxon-metabolite
+Bifidobacterium longum subsp. infantis,Genistein,taxon-metabolite
+Bifidobacterium pseudocatenulatum,Genistein,taxon-metabolite
+Blautia sp. MRG-PMF1,Apigenin,taxon-metabolite
+Enterococcus casseliflavus,Quercetin,taxon-metabolite
+Enterococcus faecalis,Levodopa,taxon-metabolite
+Enterococcus sp. 45,Luteolin,taxon-metabolite
+Enterococcus sp. 45,Quercetin,taxon-metabolite
+Escherichia coli,Genistein,taxon-metabolite
+Escherichia sp. 33,Quercetin,taxon-metabolite
+Eubacterium limosum,Genistein,taxon-metabolite
+Apigenin,GSK3B,metabolite-target
+Apigenin,PTGS2,metabolite-target
+Genistein,EGFR,metabolite-target
+Genistein,SRC,metabolite-target
+Levodopa,EGFR,metabolite-target
+Luteolin,GSK3B,metabolite-target
+Quercetin,AKT1,metabolite-target
+Quercetin,CTNNB1,metabolite-target
+Quercetin,EGFR,metabolite-target
+Quercetin,GSK3B,metabolite-target
+Quercetin,PTGS2,metabolite-target
+Quercetin,SRC,metabolite-target
+AKT1,hsa04510:Focal adhesion,target-pathway
+AKT1,hsa04518:Integrin signaling,target-pathway
+AKT1,hsa05163:Human cytomegalovirus infection,target-pathway
+AKT1,hsa05165:Human papillomavirus infection,target-pathway
+AKT1,hsa05167:Kaposi sarcoma-associated herpesvirus infection,target-pathway
+AKT1,hsa05200:Pathways in cancer,target-pathway
+CTNNB1,hsa04510:Focal adhesion,target-pathway
+CTNNB1,hsa04518:Integrin signaling,target-pathway
+CTNNB1,hsa05163:Human cytomegalovirus infection,target-pathway
+CTNNB1,hsa05165:Human papillomavirus infection,target-pathway
+CTNNB1,hsa05167:Kaposi sarcoma-associated herpesvirus infection,target-pathway
+CTNNB1,hsa05200:Pathways in cancer,target-pathway
+EGFR,hsa04510:Focal adhesion,target-pathway
+EGFR,hsa04518:Integrin signaling,target-pathway
+EGFR,hsa05163:Human cytomegalovirus infection,target-pathway
+EGFR,hsa05165:Human papillomavirus infection,target-pathway
+EGFR,hsa05200:Pathways in cancer,target-pathway
+GSK3B,hsa04510:Focal adhesion,target-pathway
+GSK3B,hsa04518:Integrin signaling,target-pathway
+GSK3B,hsa05163:Human cytomegalovirus infection,target-pathway
+GSK3B,hsa05165:Human papillomavirus infection,target-pathway
+GSK3B,hsa05167:Kaposi sarcoma-associated herpesvirus infection,target-pathway
+GSK3B,hsa05200:Pathways in cancer,target-pathway
+PTGS2,hsa05163:Human cytomegalovirus infection,target-pathway
+PTGS2,hsa05165:Human papillomavirus infection,target-pathway
+PTGS2,hsa05167:Kaposi sarcoma-associated herpesvirus infection,target-pathway
+PTGS2,hsa05200:Pathways in cancer,target-pathway
+SRC,hsa04510:Focal adhesion,target-pathway
+SRC,hsa04518:Integrin signaling,target-pathway
+SRC,hsa05163:Human cytomegalovirus infection,target-pathway
+SRC,hsa05167:Kaposi sarcoma-associated herpesvirus infection,target-pathway

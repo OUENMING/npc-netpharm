@@ -1,0 +1,11 @@
+﻿序,代谢物,靶点,PDB,结合能_kcal/mol,R0判定,cocrystal_ligand,cocrystal_redock_check,cocrystal_redock_rmsd
+1,Quercetin,PTGS2,5IKQ,-7.76,正确归属,JMS,pass,0.58
+2,Apigenin,PTGS2,5IKQ,-7.75,正确归属,JMS,pass,0.58
+3,Apigenin,MAOB,2V5Z,-10.0,正确归属,SAG,pass,1.39
+4,Genistein,MAOB,2V5Z,-9.65,正确归属,SAG,pass,1.39
+5,Acacetin,MAOB,2V5Z,-10.23,正确归属,SAG,pass,1.39
+6,Quercetin,CA9,6FE0,-7.98,正确归属,V90,pass,0.9
+7,Decanoic Acid,GPR84,8J18,-6.64,错配,HXD,pass,1.67
+8,Dopamine,ADRA2A,9CBL,-6.1,正确归属,ALE,fail,2.01
+9,Levodopa,ADRA2A,9CBL,-6.92,正确归属,ALE,fail,2.01
+10,Lithocholic Acid,VDR,3AZ3,-10.72,正确归属,DS6,pass,1.18

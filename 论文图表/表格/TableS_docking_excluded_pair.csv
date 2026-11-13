@@ -1,0 +1,2 @@
+﻿no,metabolite,target,PDB,cocrystal_ligand,cocrystal_redock_check,cocrystal_redock_RMSD_A,Vina_kcal_per_mol,pose_energy_range,contact_residues_4A,geometric_Hbonds,aromatic_contacts,scheme_A_SEA_record,blood_upper_uM,R_total_conc,conc_source_class
+7,Decanoic Acid,GPR84,8J18,HXD,pass,1.67,-6.64,-6.64 ~ -5.67,13,3,0,misattributed (edge not in scheme A),17.0,158.653,UNK

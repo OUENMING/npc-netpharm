@@ -1,0 +1,25 @@
+﻿no,hmdb,name,class,p_value_raw,log2FC_relapse_vs_norelapse,label,grp
+9,HMDB0029200,Ferulic acid 4-sulfate,Others,0.011,-0.87,Ferulic acid 4-sulfate,polyphenol-derived
+8,HMDB0000226,Orotic acid,Pyrimidines,0.009,-0.6,Orotic acid,other annotated
+3,HMDB0000300,Uracil,Pyrimidines,<0.001,-0.54,Uracil,other annotated
+18,HMDB0012150,6-Acetamido-2-oxohexanoic acid,Organic acids,0.036,-0.51,6-Acetamido-2-oxohexanoic acid,other annotated
+21,HMDB0012308,Vanillin,Benzenoids,0.042,-0.43,Vanillin,LASSO panel
+6,HMDB0002712,"1,5-Anhydro-D-glucitol",Carbohydrates,0.003,-0.39,"1,5-Anhydro-D-glucitol",other annotated
+23,HMDB0002205,L-Homocysteic acid,Amino acids,0.049,-0.35,L-Homocysteic acid,other annotated
+19,HMDB0254310,Maleamic acid,Fatty acids,0.039,-0.29,Maleamic acid,other annotated
+17,HMDB0000641,L-Glutamine,Amino acids,0.029,0.28,L-Glutamine,other annotated
+16,HMDB0002894,5-Methylcytosine,Pyrimidines,0.029,0.33,5-Methylcytosine,other annotated
+22,HMDB0062188,1-Nitrosonaphthalene,Benzenoids,0.044,0.35,1-Nitrosonaphthalene,other annotated
+10,HMDB0000497,Dihydrouridine,Carbohydrates,0.011,0.39,Dihydrouridine,other annotated
+7,HMDB0002721,1-Methylinosine,Nucleosides,0.009,0.45,1-Methylinosine,other annotated
+4,HMDB0000162,L-Proline,Amino acid,0.001,0.46,L-Proline,LASSO panel
+11,HMDB0000630,Cytosine,Pyrimidines,0.012,0.46,Cytosine,other annotated
+12,HMDB0001161,gamma-Butyrobetaine @RT:0.803,Fatty acids,0.012,0.5,γ-Butyrobetaine RT 0.803,other annotated
+1,HMDB0000687,L-Leucine,Amino acids,<0.001,0.68,L-Leucine,other annotated
+13,HMDB0003681,4-Acetamidobutanoic acid,Amino acids,0.013,0.69,4-Acetamidobutanoic acid,LASSO panel
+15,HMDB0006344,N-Phenylacetylglutamine,Amino acids,0.026,0.71,N-Phenylacetylglutamine (PAGln),LASSO panel
+24,HMDB0001138,N-Acetylglutamic acid,Amino acids,0.049,0.75,N-Acetylglutamic acid,other annotated
+14,HMDB0060460,cis-4-Hydroxy-D-proline,Amino acids,0.014,0.77,cis-4-Hydroxy-D-proline,other annotated
+2,HMDB0001161,gamma-Butyrobetaine @RT:8.023,Fatty acids,<0.001,1.43,γ-Butyrobetaine RT 8.023,other annotated
+20,HMDB0011757,N-Acetylvaline,Amino acids,0.040,1.45,N-Acetylvaline,other annotated
+5,HMDB0000895,Acetylcholine,Others,0.001,1.67,Acetylcholine,other annotated

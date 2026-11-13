@@ -1,0 +1,77 @@
+﻿子集,配对数,fu,满足_R乘fu_ge_0_02,满足_R乘fu_ge_0_1,满足_R乘fu_ge_1,panel,metabolite,src_class
+全部有浓度的配对,492.0,1.0,450.0,345.0,194.0,A,,
+全部有浓度的配对,492.0,0.1,294.0,194.0,124.0,A,,
+全部有浓度的配对,492.0,0.01,180.0,124.0,76.0,A,,
+仅血浓度来源 OK,229.0,1.0,218.0,139.0,50.0,A,,
+仅血浓度来源 OK,229.0,0.1,106.0,50.0,28.0,A,,
+仅血浓度来源 OK,229.0,0.01,43.0,28.0,18.0,A,,
+仅 OK 且核心靶点,138.0,1.0,131.0,78.0,26.0,A,,
+仅 OK 且核心靶点,138.0,0.1,58.0,26.0,10.0,A,,
+仅 OK 且核心靶点,138.0,0.01,20.0,10.0,4.0,A,,
+,,,,,,B,L-Phenylalanine,PAT
+,,,,,,B,Urea,OK
+,,,,,,B,Myricetin,METHOD
+,,,,,,B,L-Ascorbic_Acid,HMDB_NONADULT
+,,,,,,B,Palmitic_Acid,OK
+,,,,,,B,Linoleic_Acid,MATRIX
+,,,,,,B,Glutathione,PAT
+,,,,,,B,L-Glutamic_Acid,UNK
+,,,,,,B,4-Hydroxybenzoic_Acid,UNK
+,,,,,,B,Oleic_Acid,PAT
+,,,,,,B,Glycine,HMDB_NONADULT
+,,,,,,B,Arachidonic_Acid,OK
+,,,,,,B,Caffeic_Acid,UNK
+,,,,,,B,Decanoic_Acid,UNK
+,,,,,,B,Genistein,OK
+,,,,,,B,(+-)-Naringenin,MANUAL
+,,,,,,B,Doconexent,OK
+,,,,,,B,"1,6-Di-O-phosphono-beta-D-fructofuranose",HMDB_NONADULT
+,,,,,,B,Kaempferol,OK
+,,,,,,B,Diosmetin,MANUAL
+,,,,,,B,cis-11-Eicosenoic_acid,MATRIX
+,,,,,,B,Creatine,UNK
+,,,,,,B,Daidzein,OK
+,,,,,,B,L-(+)-Cysteine,OK
+,,,,,,B,Luteolin,OK
+,,,,,,B,Hydroxyphenylacetic_acid,UNK
+,,,,,,B,Lithocholic_Acid,PED
+,,,,,,B,Quercetin,OK
+,,,,,,B,Palmitoylethanolamide,OK
+,,,,,,B,Apigenin,DOSE
+,,,,,,B,Gamma-Aminobutyric_Acid,HMDB_NONADULT
+,,,,,,B,(+-)-Aspartic_Acid,PED
+,,,,,,B,L-Aspartic_Acid,PED
+,,,,,,B,Taurolithocholic_Acid,METHOD
+,,,,,,B,Protocatechuic_Acid,UNK
+,,,,,,B,3-Hydroxybenzoic_Acid,UNK
+,,,,,,B,Chenodeoxycholic_Acid,PED
+,,,,,,B,Dopamine,UNK
+,,,,,,B,Deoxycholic_Acid,UNK
+,,,,,,B,"3-(3,4-Dihydroxyphenyl)-2-hydroxypropanoic_acid",DOSE
+,,,,,,B,Glycochenodeoxycholic_Acid,PED
+,,,,,,B,Butyrate,UNK
+,,,,,,B,Taurodeoxycholic_Acid,MATRIX
+,,,,,,B,Acacetin,MANUAL
+,,,,,,B,Phloretin,MANUAL
+,,,,,,B,Ursodeoxycholic_Acid,PED
+,,,,,,B,Tyramine,UNK
+,,,,,,B,Taurocholic_Acid,UNK
+,,,,,,B,Levodopa,UNK
+,,,,,,B,"6,7,4'-Trihydroxyisoflavone",MANUAL
+,,,,,,B,Glycitein,OK
+,,,,,,B,Equol,OK
+,,,,,,B,Loganetin,NONE
+,,,,,,B,"2,3-Bis(3,4-dihydroxybenzyl)butyrolactone",NONE
+,,,,,,B,Coumarin,NONE
+,,,,,,B,Quercitrin,NONE
+,,,,,,B,"2',4,4',6'-Tetrahydroxychalcone",NONE
+,,,,,,B,Isoquercetin,NONE
+,,,,,,B,Chrysin,NONE
+,,,,,,B,(-)-Arctigenin,NONE
+,,,,,,B,Leu-Pro,NONE
+,,,,,,B,Hydroquinone,NONE
+,,,,,,B,Sophoraflavanone_B,NONE
+,,,,,,B,Tryptamine,NONE
+,,,,,,B,Norathyriol,NONE
+,,,,,,B,Desthiobiotin,NONE
+,,,,,,B,Icaritin,NONE

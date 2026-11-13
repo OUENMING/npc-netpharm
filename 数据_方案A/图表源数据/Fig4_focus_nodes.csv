@@ -1,0 +1,35 @@
+id,t,lab
+Bacillus sp. 46,taxon,Bacillus sp. 46
+Bacteroides ovatus,taxon,Bacteroides ovatus
+Bacteroides sp. 45,taxon,Bacteroides sp. 45
+Bacteroides uniformis,taxon,Bacteroides uniformis
+Bifidobacterium dentium,taxon,Bifidobacterium dentium
+Enterococcus casseliflavus,taxon,Enterococcus casseliflavus
+Escherichia sp. 33,taxon,Escherichia sp. 33
+Blautia sp. MRG-PMF1,taxon,Blautia sp. MRG-PMF1
+Bifidobacterium adolescentis,taxon,Bifidobacterium adolescentis
+Bifidobacterium breve,taxon,Bifidobacterium breve
+Bifidobacterium catenulatum,taxon,Bifidobacterium catenulatum
+Bifidobacterium longum subsp. infantis,taxon,Bifidobacterium longum subsp. infantis
+Bifidobacterium pseudocatenulatum,taxon,Bifidobacterium pseudocatenulatum
+Enterococcus sp. 45,taxon,Enterococcus sp. 45
+Escherichia coli,taxon,Escherichia coli
+Eubacterium limosum,taxon,Eubacterium limosum
+Enterococcus faecalis,taxon,Enterococcus faecalis
+Quercetin,metabolite,Quercetin
+Apigenin,metabolite,Apigenin
+Genistein,metabolite,Genistein
+Levodopa,metabolite,Levodopa
+Luteolin,metabolite,Luteolin
+AKT1,target,AKT1
+CTNNB1,target,CTNNB1
+PTGS2,target,PTGS2
+SRC,target,SRC
+EGFR,target,EGFR
+GSK3B,target,GSK3B
+hsa05167:Kaposi sarcoma-associated herpesvirus infection,pathway,KSHV infection
+hsa05165:Human papillomavirus infection,pathway,HPV infection
+hsa05200:Pathways in cancer,pathway,Pathways in cancer
+hsa05163:Human cytomegalovirus infection,pathway,HCMV infection
+hsa04510:Focal adhesion,pathway,Focal adhesion
+hsa04518:Integrin signaling,pathway,Integrin signaling

@@ -1,0 +1,10 @@
+﻿序,代谢物,PubChem CID,SMILES,靶点基因,UniProt,在 134 核心靶点里,鼻咽癌 log2FC（FDR）,GSE68799 外部检验同向且 FDR<0.05（Fig 7）,选择理由
+1,Quercetin,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,PTGS2,P35354,是,+2.45（FDR 1.9e-10）,是,核心网络里的中心基因边；PTGS2 是五算法中心基因里唯一在鼻咽癌稳健上调的；槲皮素是 G-T-P-M 度数第 1 的核心代谢物
+2,Apigenin,5280443,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,PTGS2,P35354,是,+2.45（FDR 1.9e-10）,是,SEA 与 STP 双方法一致；PTGS2 鼻咽癌上调
+3,Apigenin,5280443,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,MAOB,P27338,是,-1.54（FDR 9.4e-10）,否（log2FC -0.88，FDR 0.14）,SEA 与 STP 双方法一致；MAOB 鼻咽癌下调
+4,Genistein,5280961,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,MAOB,P27338,是,-1.54（FDR 9.4e-10）,否（log2FC -0.88，FDR 0.14）,SEA 与 STP 双方法一致
+5,Acacetin,5280442,COC1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,MAOB,P27338,是,-1.54（FDR 9.4e-10）,否（log2FC -0.88，FDR 0.14）,SEA 与 STP 双方法一致
+6,Quercetin,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,CA9,Q16790,是,+1.20（FDR 0.00045）,是,SEA 与 STP 双方法一致；CA9 鼻咽癌上调
+7,Dopamine,681,C1=CC(=C(C=C1CCN)O)O,ADRA2A,P08913,否,-2.09（FDR 1.7e-11）,否（log2FC -1.32，FDR 0.27）,SEA 与 STP 双方法一致；已发表实验筛选里有验证对；ADRA2A 鼻咽癌下调（log2FC -2.09）
+8,Levodopa,6047,C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O,ADRA2A,P08913,否,-2.09（FDR 1.7e-11）,否（log2FC -1.32，FDR 0.27）,SEA 与 STP 双方法一致；同 ADRA2A 线
+9,Lithocholic Acid,9903,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)C,VDR,P11473,是,见共识轴,未检验（不在 14 个稳健差异里）,共识轴（文献整理加结合类证据）；VDR 在鼻咽癌两个数据集中等一致上调
