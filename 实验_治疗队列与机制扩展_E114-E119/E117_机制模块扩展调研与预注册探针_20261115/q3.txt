@@ -1,0 +1,4 @@
+Akkermansia AND (phenylglycine OR "memory B") AND nasopharyngeal
+(spatial metabolomics OR "spatial metabolome") AND nasopharyngeal carcinoma AND (ferroptosis OR glycerophospholipid)
+(aryl hydrocarbon receptor OR AHR) AND nasopharyngeal carcinoma AND (prognosis OR immune infiltration OR drug sensitivity)
+nasopharyngeal carcinoma AND (IDO1 OR TDO2 OR kynurenine) AND (EBV OR immunotherapy OR prognosis)

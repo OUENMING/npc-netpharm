@@ -1,0 +1,50 @@
+group,gene,top_celltype,median_mean,median_frac_pos,n_patients,second
+A_PGE2,HPGD,"""CD4+ Tregs-1""",0.28,0.258,15,"""CD4+ Tregs-2"":0.153"
+A_PGE2,PTGER1,"""B cell-1""",0.0,0.0,12,"""B cell-2"":0.0"
+A_PGE2,PTGER2,NK,0.165,0.188,9,"""CD4+ Tconv-2"":0.097"
+A_PGE2,PTGER3,"""DC2 (CD1C+)""",0.007,0.01,14,"""B cell-1"":0.0"
+A_PGE2,PTGER4,"""CD4+ Tconv-3""",0.445,0.363,10,"""CD4+ Tconv-2"":0.42"
+A_PGE2,PTGES,Malignant,0.305,0.515,11,"""Non-malignant epithelial"":0.228"
+A_PGE2,PTGES2,"""DC3 (CCR7+)""",0.602,0.702,6,"""B cell-3"":0.339"
+A_PGE2,PTGES3,"""B cell-3""",1.399,0.87,6,Malignant:1.394
+A_PGE2,PTGS1,"""DC2 (CD1C+)""",0.224,0.381,14,Macrophage:0.182
+"A_PGE2,D_net",PTGS2,Monocyte,0.442,0.373,10,"""DC2 (CD1C+)"":0.174"
+A_PGE2,SLCO2A1,Malignant,0.014,0.054,11,"""B cell-1"":0.0"
+B_sensor,AHR,Macrophage,0.533,0.648,13,"""DC2 (CD1C+)"":0.464"
+B_sensor,FFAR2,Monocyte,0.095,0.111,10,Macrophage:0.025
+B_sensor,FFAR3,"""B cell-1""",0.0,0.0,12,"""B cell-2"":0.0"
+B_sensor,FFAR4,"""DC2 (CD1C+)""",0.099,0.164,14,Macrophage:0.059
+B_sensor,GPBAR1,Monocyte,0.132,0.149,10,Macrophage:0.042
+B_sensor,HCAR2,"""Non-malignant epithelial""",0.157,0.167,5,Malignant:0.128
+B_sensor,HCAR3,Malignant,0.241,0.341,11,"""Non-malignant epithelial"":0.095"
+B_sensor,NOD2,Monocyte,0.107,0.117,10,"""DC2 (CD1C+)"":0.09"
+B_sensor,NR1I2,"""B cell-1""",0.0,0.0,12,"""B cell-2"":0.0"
+B_sensor,TLR2,Monocyte,0.492,0.496,10,Macrophage:0.4
+B_sensor,TLR4,Macrophage,0.256,0.387,13,Monocyte:0.138
+B_sensor,TLR5,"""Non-malignant epithelial""",0.164,0.25,5,Malignant:0.101
+B_sensor,VDR,"""CD4+ Tregs-2""",0.306,0.333,14,"""CD4+ Tregs-1"":0.174"
+"C_GPCR,D_net",ADRA2A,"""B cell-1""",0.0,0.0,12,"""B cell-2"":0.0"
+C_GPCR,ADRA2B,Macrophage,0.004,0.005,13,"""DC2 (CD1C+)"":0.004"
+C_GPCR,ADRA2C,"""B cell-1""",0.0,0.0,12,"""B cell-2"":0.0"
+C_GPCR,ADRB2,"""Non-malignant epithelial""",0.094,0.184,5,"""Plasma cell"":0.08"
+C_GPCR,DRD2,"""Non-malignant epithelial""",0.004,0.011,5,"""B cell-1"":0.0"
+C_GPCR,DRD4,pDC,0.145,0.208,7,Malignant:0.003
+C_GPCR,HRH2,Monocyte,0.173,0.243,10,Macrophage:0.167
+C_GPCR,HRH4,"""B cell-1""",0.0,0.0,12,"""B cell-2"":0.0"
+C_GPCR,HTR6,"""B cell-1""",0.0,0.0,12,"""B cell-2"":0.0"
+D_net,AKR1C3,"""Non-malignant epithelial""",0.403,0.458,5,pDC:0.069
+D_net,AKT1,"""Non-malignant epithelial""",0.186,0.382,5,"""CD8+ Tdys"":0.158"
+D_net,CA9,Malignant,0.008,0.017,11,"""B cell-1"":0.0"
+D_net,CDK1,"""B cell-4""",0.608,0.521,8,"""CD8+ Tdys"":0.376"
+D_net,CTNNB1,"""Non-malignant epithelial""",0.665,0.699,5,Macrophage:0.546
+D_net,EGFR,Malignant,0.534,0.695,11,"""Non-malignant epithelial"":0.32"
+D_net,GSK3B,"""Non-malignant epithelial""",0.261,0.5,5,"""CD8+ Tdys"":0.182"
+D_net,HSD17B2,Malignant,0.007,0.02,11,"""B cell-1"":0.0"
+D_net,MAOB,"""Non-malignant epithelial""",0.016,0.04,5,Malignant:0.0
+D_net,MMP1,Macrophage,0.046,0.054,13,Monocyte:0.031
+D_net,MMP3,"""DC2 (CD1C+)""",0.014,0.033,14,Macrophage:0.009
+D_net,NOX4,Malignant,0.0,0.001,11,"""B cell-1"":0.0"
+D_net,SLC1A3,Macrophage,0.223,0.301,13,Malignant:0.074
+D_net,SOST,"""B cell-1""",0.0,0.0,12,"""B cell-2"":0.0"
+D_net,SRC,Monocyte,0.238,0.269,10,Macrophage:0.198
+D_net,TOP2A,"""B cell-4""",0.734,0.488,8,"""CD8+ Tdys"":0.562"

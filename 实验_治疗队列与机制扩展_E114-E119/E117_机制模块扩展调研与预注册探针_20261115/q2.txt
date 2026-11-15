@@ -1,0 +1,14 @@
+(gut microbiota OR gut microbiome OR microbial metabolite) AND ferroptosis AND nasopharyngeal
+nasopharyngeal carcinoma AND ferroptosis AND (radiotherapy OR radioresistance OR radiosensitivity)
+Epstein-Barr virus AND (butyrate OR "short-chain fatty acid") AND (lytic OR reactivation)
+(Epstein-Barr virus OR EBV) AND (gut microbiota OR gut microbiome) AND (nasopharyngeal OR cancer)
+nasopharyngeal carcinoma AND (gut microbiota OR gut microbiome) AND (radiotherapy OR chemoradiotherapy) AND (mucositis OR toxicity OR "adverse events")
+nasopharyngeal carcinoma AND (probiotic OR probiotics) AND (randomized OR trial)
+gemcitabine AND bacteria AND (cytidine deaminase OR "drug metabolism" OR resistance) AND (gamma-proteobacteria OR microbiome OR microbiota)
+(gemcitabine OR cisplatin) AND (gut microbiota OR microbiome) AND nasopharyngeal
+cisplatin AND "gut microbiota" AND (efficacy OR resistance OR sensitivity) AND (mice OR patients)
+(PGE2 OR "prostaglandin E2") AND (MDSC OR "dendritic cell" OR "CD8") AND nasopharyngeal
+(EP4 antagonist OR "EP4 inhibitor") AND (PD-1 OR immunotherapy) AND (trial OR phase)
+(COX-2 OR PTGS2 OR celecoxib) AND (PD-1 OR immunotherapy OR anti-PD-1) AND nasopharyngeal
+nasopharyngeal carcinoma AND metabolomics AND (serum OR plasma) AND (prognosis OR recurrence OR response)
+nasopharyngeal carcinoma AND (single-cell) AND (PTGS2 OR COX-2 OR fibroblast OR macrophage) AND (chemotherapy OR response)

@@ -1,0 +1,18 @@
+{'cohort': 'GSE132112_IC应答(正类=应答)', 'n_pos': 71, 'n_neg': 24, 'universe': 25412, 'core_measured': 130, 'core_P_lt_0_05': 3, 'core_frac': 0.023076923076923078, 'null_mean_frac': np.float64(0.027387692307692307), 'null_p95_count': 7.0, 'empirical_P': np.float64(0.6950304969503049), 'core_BH_lt_0_05': 0, 'universe_frac_P_lt_0_05': 0.025303006453643948, 'robust14_measured': 14, 'robust14_P_lt_0_05': 1}
+{'cohort': 'GSE103611_远处转移(正类=无转移)', 'n_pos': 24, 'n_neg': 24, 'universe': 35369, 'core_measured': 134, 'core_P_lt_0_05': 6, 'core_frac': 0.04477611940298507, 'null_mean_frac': np.float64(0.06621119402985073), 'null_p95_count': 14.0, 'empirical_P': np.float64(0.8861113888611138), 'core_BH_lt_0_05': 0, 'universe_frac_P_lt_0_05': 0.06502869744691679, 'robust14_measured': 14, 'robust14_P_lt_0_05': 0}
+                                             0                       1
+cohort                   GSE132112_IC应答(正类=应答)  GSE103611_远处转移(正类=无转移)
+n_pos                                       71                      24
+n_neg                                       24                      24
+universe                                 25412                   35369
+core_measured                              130                     134
+core_P_lt_0_05                               3                       6
+core_frac                             0.023077                0.044776
+null_mean_frac                        0.027388                0.066211
+null_p95_count                             7.0                    14.0
+empirical_P                            0.69503                0.886111
+core_BH_lt_0_05                              0                       0
+universe_frac_P_lt_0_05               0.025303                0.065029
+robust14_measured                           14                      14
+robust14_P_lt_0_05                           1                       0
+BH_q_over_2cohorts                    0.886111                0.886111

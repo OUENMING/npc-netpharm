@@ -1,0 +1,24 @@
+core 134 deg 14 ['MMP1', 'ADRA2A', 'MMP3', 'PTGS2', 'MAOB', 'AKR1C3', 'CDK1', 'SLC1A3', 'MMP12', 'TOP2A', 'NOX4', 'HSD17B2', 'SOST', 'CA9'] hub ['AKT1', 'CTNNB1', 'EGFR', 'GSK3B', 'PTGS2', 'SRC']
+
+== mRNA 506 features; core overlap: 3
+  Gene  DFS_inter_p  DFS_inter_k  OS_inter_p  OS_inter_k DFS_interaction_classification OS_interaction_classification
+ALOX15       0.8662      -0.1000      0.8778     -0.1135                             NS                            NS
+  CNR2       0.9472      -0.0390      0.6575      0.3258                             NS                            NS
+AKR1C3       0.3293       0.5811      0.3579      0.6845                             NS                            NS
+hub in table: [] | DEG in table: ['ADRA2A', 'AKR1C3']
+mRNA DFS core overlap <5, descriptive: 0 3 | nonCore 18 485
+mRNA OS core overlap <5, descriptive: 0 3 | nonCore 27 476
+
+== protein 191 features; core overlap: 5
+   Gene  DFS_inter_p  DFS_inter_k  OS_inter_p  OS_inter_k DFS_interaction_classification OS_interaction_classification
+   MAOA       0.0008       2.1160      0.0423      1.5037                           Risk                          Risk
+AKR1B10       0.0169       1.3614      0.0348      1.4974                           Risk                          Risk
+     F2       0.1841       0.7663      0.2259      0.8539                             NS                            NS
+  ESRRA       0.9548       0.0318      0.4627      0.5098                             NS                            NS
+   SNCA       0.9615      -0.0273      0.6648      0.3057                             NS                            NS
+hub in table: [] | DEG in table: []
+protein DFS core sig/nonsig 2 3 | non-core sig/nonsig 52 134 OR 1.718 P 0.6226
+protein OS core sig/nonsig 2 3 | non-core sig/nonsig 50 136 OR 1.813 P 0.6146
+  table endpoint  core_sig  core_ns  non_sig  non_ns     OR      P   q_BH
+protein      DFS         2        3       52     134 1.7179 0.6226 0.6226
+protein       OS         2        3       50     136 1.8133 0.6146 0.6226

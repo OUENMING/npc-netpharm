@@ -1,0 +1,10 @@
+"IgA" AND "plasma cell" AND nasopharyngeal
+(microbiota OR microbiome) AND IgA AND "plasma cell" AND (tumor OR cancer OR carcinoma)
+nasopharyngeal carcinoma AND ("B cell" OR "tertiary lymphoid") AND (prognosis OR immunotherapy OR response)
+nasopharyngeal carcinoma AND (microbiome OR microbiota) AND (CD8 OR Treg OR macrophage OR "immune microenvironment")
+nasopharyngeal carcinoma AND (tryptophan OR kynurenine OR indole OR "aryl hydrocarbon")
+nasopharyngeal carcinoma AND "bile acid"
+nasopharyngeal carcinoma AND ("short-chain fatty acid" OR butyrate OR acetate OR propionate)
+nasopharyngeal carcinoma AND (TMAO OR trimethylamine OR polyamine)
+nasopharyngeal carcinoma AND (LPS OR endotoxin OR "intestinal permeability" OR "gut barrier")
+nasopharyngeal carcinoma AND hypoxia AND (microbiome OR microbiota OR metabolite)
