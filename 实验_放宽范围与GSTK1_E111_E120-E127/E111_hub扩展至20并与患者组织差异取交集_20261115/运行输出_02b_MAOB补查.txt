@@ -1,0 +1,5 @@
+日期 2026-11-15
+(MAOB OR "MAO-B" OR "monoamine oxidase B" OR "monoamine oxidase-B") AND nasopharyn* → ('5', ['33704972', '32673884', '30205936', '29748109', '1452165'])
+"monoamine oxidase" AND nasopharyn* → ('6', ['32673884', '32273550', '30635744', '30205936', '29748109'])
+(MAOB OR "MAO-B" OR "monoamine oxidase B") AND (carcinoma OR cancer OR tumor) AND (chemotherapy OR prognosis OR survival) → ('371', ['42883891', '42847863', '42787833', '42774697', '42742908'])
+(apigenin OR genistein OR acacetin) AND ("monoamine oxidase") AND (cancer OR carcinoma) → ('9', ['37500735', '32746771', '31680079', '24603350', '16723506'])

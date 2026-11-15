@@ -1,0 +1,101 @@
+﻿gene,family
+ABCB1,E_表达亚型; H_肿瘤vs正常
+ABCB11,E_表达亚型; H_肿瘤vs正常
+ABCC1,E_表达亚型
+ABCG2,E_表达亚型
+ACE2,E_表达亚型
+ADAMTS4,E_表达亚型
+ADRA2B,E_表达亚型
+AHR,E_表达亚型
+AKR1B1,E_表达亚型
+AKR1B10,E_表达亚型
+AKR1C3,E_表达亚型
+AKT1,E_表达亚型; H_肿瘤vs正常
+ALDH2,E_表达亚型
+ALK,E_表达亚型
+ALOX15,E_表达亚型
+ALOX5,E_表达亚型; F_免疫浸润(TIL%)
+ALPL,E_表达亚型; H_肿瘤vs正常
+AR,E_表达亚型
+BACE1,E_表达亚型
+BRAF,E_表达亚型
+CA5B,E_表达亚型
+CASP7,E_表达亚型
+CD38,E_表达亚型
+CDK1,E_表达亚型; H_肿瘤vs正常
+CFTR,E_表达亚型
+CHRNA7,F_免疫浸润(TIL%)
+CNR1,H_肿瘤vs正常
+CNR2,E_表达亚型
+CSNK2A1,E_表达亚型; H_肿瘤vs正常
+CYP1B1,E_表达亚型
+CYP2A6,E_表达亚型
+CYP2C19,F_免疫浸润(TIL%)
+CYP2C8,E_表达亚型; H_肿瘤vs正常
+CYP2D6,E_表达亚型
+DAPK1,E_表达亚型
+DPP4,E_表达亚型
+EGFR,E_表达亚型; H_肿瘤vs正常
+ELAVL1,E_表达亚型
+ENPP2,E_表达亚型
+GLO1,E_表达亚型; F_免疫浸润(TIL%); H_肿瘤vs正常
+GPBAR1,E_表达亚型
+GSK3B,H_肿瘤vs正常
+GSTK1,C_疾病进展(Cox); E_表达亚型; H_肿瘤vs正常
+HDAC6,H_肿瘤vs正常
+HRH1,E_表达亚型
+IDE,H_肿瘤vs正常
+IGF1R,E_表达亚型
+IPMK,E_表达亚型
+KCNA5,E_表达亚型
+KDM1A,E_表达亚型
+KDM4E,E_表达亚型
+KDM5B,E_表达亚型; H_肿瘤vs正常
+KDR,E_表达亚型
+MAOA,E_表达亚型
+MAOB,E_表达亚型; H_肿瘤vs正常
+MAP2K1,H_肿瘤vs正常
+MAPT,E_表达亚型
+MBNL1,E_表达亚型
+MCL1,E_表达亚型
+MET,E_表达亚型
+MKNK1,E_表达亚型
+MMP1,H_肿瘤vs正常
+MMP13,H_肿瘤vs正常
+MMP2,E_表达亚型
+MMP3,H_肿瘤vs正常
+MMP9,E_表达亚型
+NEK2,E_表达亚型; F_免疫浸润(TIL%); H_肿瘤vs正常
+NEK6,E_表达亚型
+NLRP3,E_表达亚型
+PARP1,E_表达亚型
+PDE4D,E_表达亚型
+PIK3CA,G_突变负荷
+PIK3CG,E_表达亚型; H_肿瘤vs正常
+PIK3R1,E_表达亚型
+PIM1,E_表达亚型
+PKM,E_表达亚型
+PKN1,E_表达亚型; H_肿瘤vs正常
+PLAA,H_肿瘤vs正常
+PLK1,E_表达亚型
+PPARD,E_表达亚型
+PPARG,E_表达亚型
+PSMB5,H_肿瘤vs正常
+PTGS1,E_表达亚型; F_免疫浸润(TIL%)
+PTGS2,H_肿瘤vs正常
+PTK2,E_表达亚型; H_肿瘤vs正常
+PYGL,E_表达亚型
+RPS6KA3,E_表达亚型
+SETD7,E_表达亚型
+SIRT6,E_表达亚型; H_肿瘤vs正常
+SLC1A1,E_表达亚型; H_肿瘤vs正常
+SLC2A1,E_表达亚型; H_肿瘤vs正常
+SLCO2B1,E_表达亚型; F_免疫浸润(TIL%)
+SPHK1,H_肿瘤vs正常
+SYK,E_表达亚型; H_肿瘤vs正常
+TLR2,E_表达亚型; H_肿瘤vs正常
+TLR4,E_表达亚型
+TNKS,E_表达亚型
+TOP2A,E_表达亚型; H_肿瘤vs正常
+VDR,E_表达亚型; H_肿瘤vs正常
+YES1,E_表达亚型; H_肿瘤vs正常

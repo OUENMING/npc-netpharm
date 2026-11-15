@@ -1,0 +1,13 @@
+PTGS2 {'gene_only': 58218, 'gene_NPC': 114, 'gene_NPC_clin': 56, 'gene_NPC_quercetin': 1, 'gene_quercetin': 735, 'gene_NPC_apigenin': 0, 'gene_apigenin': 175}
+CDK1 {'gene_only': 12837, 'gene_NPC': 64, 'gene_NPC_clin': 32, 'gene_NPC_quercetin': 0, 'gene_quercetin': 46}
+MAOB {'gene_only': 5776, 'gene_NPC': 0, 'gene_NPC_clin': 0, 'gene_NPC_apigenin': 0, 'gene_apigenin': 11, 'gene_NPC_genistein': 0, 'gene_genistein': 4, 'gene_NPC_acacetin': 0, 'gene_acacetin': 7}
+MMP1 {'gene_only': 11168, 'gene_NPC': 37, 'gene_NPC_clin': 14, 'gene_NPC_caffeic acid': 0, 'gene_caffeic acid': 19}
+MMP3 {'gene_only': 8807, 'gene_NPC': 21, 'gene_NPC_clin': 12, 'gene_NPC_quercetin': 0, 'gene_quercetin': 57}
+TOP2A {'gene_only': 3430, 'gene_NPC': 8, 'gene_NPC_clin': 6, 'gene_NPC_myricetin': 0, 'gene_myricetin': 6}
+AKR1C3 {'gene_only': 828, 'gene_NPC': 1, 'gene_NPC_clin': 1, 'gene_NPC_linoleic acid': 0, 'gene_linoleic acid': 1}
+CA9 {'gene_only': 3838, 'gene_NPC': 13, 'gene_NPC_clin': 7, 'gene_NPC_caffeic acid': 0, 'gene_caffeic acid': 5, 'gene_NPC_chrysin': 0, 'gene_chrysin': 0}
+AKT1 {'gene_only': 10336, 'gene_NPC': 38, 'gene_NPC_clin': 18}
+EGFR {'gene_only': 108789, 'gene_NPC': 334, 'gene_NPC_clin': 218}
+SRC {'gene_only': 38237, 'gene_NPC': 51, 'gene_NPC_clin': 23}
+GSK3B {'gene_only': 18700, 'gene_NPC': 55, 'gene_NPC_clin': 32}
+CTNNB1 {'gene_only': 55914, 'gene_NPC': 240, 'gene_NPC_clin': 109}

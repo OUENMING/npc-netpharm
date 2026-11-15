@@ -1,0 +1,129 @@
+﻿gene,pos,mean_rank,rank_MCC,rank_MNC,rank_Stress,rank_Degree,rank_Radiality,degree,is_DEG,log2FC,meta_FDR,E82_consistent,E82_I2,n_metabolites,metabolites_top5,gutMGene_tier,has_docking,GSE132112_AUC_nonresp,GSE132112_P
+AKT1,1,1.2,2,1,1,1,1,74,False,-0.227,0.01809,True,0.0,1,Quercetin,弱人类证据 + 动物证据,False,0.449,0.4587781534664142
+CTNNB1,2,1.8,1,2,2,2,2,65,False,-0.019,0.9462,False,58.0,1,Quercetin,仅动物证据,False,0.451,0.4798145562165344
+EGFR,3,3.4,3,3,5,3,3,56,False,0.524,0.007332,True,80.0,3,Genistein; Levodopa; Quercetin,A 人类证据,False,0.469,0.6529591579868839
+SRC,4,4.0,4,4,4,4,4,56,False,0.418,0.003066,True,87.0,2,Genistein; Quercetin,—,False,0.503,0.9692556528795796
+PTGS2,5,5.0,7,5,3,5,5,53,True,2.454,1.907e-10,True,6.0,2,Apigenin; Quercetin,仅动物证据,True,0.742,0.0004108658121414
+GSK3B,6,7.4,9,7,7,7,7,48,False,0.191,0.04694,True,0.0,3,Apigenin; Luteolin; Quercetin,A 人类证据,False,0.47,0.6653596151338977
+PPARG,7,7.8,15,6,6,6,6,52,False,-0.2,0.1026,True,32.0,3,Chrysin; Decanoic Acid; Oleic Acid,A 人类证据,False,0.485,0.8271144261447806
+MMP9,8,9.6,5,8,19,8,8,41,False,0.192,0.4978,False,0.0,3,Caffeic Acid; Luteolin; Quercetin,仅动物证据,False,0.481,0.7873194664684845
+PARP1,9,9.8,8,9,14,9,9,37,False,0.232,0.3384,False,85.0,1,Luteolin,—,False,0.448,0.4484569631502269
+ABCB1,10,11.4,13,12,9,12,11,32,False,-0.707,0.0001182,True,39.0,4,Apigenin; Chrysin; Kaempferol; Quercetin,—,False,0.434,0.3352732786111244
+MCL1,11,13.2,11,10,21,10,14,33,False,-0.095,0.5243,False,45.0,1,Coumarin,—,False,0.467,0.6345377633555123
+ABCG2,12,14.0,23,13,8,13,13,32,False,-0.411,0.01381,False,44.0,7,Apigenin; Chrysin; Genistein; Kaempferol; Luteolin,—,False,0.516,0.8137945884884964
+PPARA,13,14.2,18,14,15,14,10,32,False,-0.389,0.01184,False,0.0,3,Arachidonic Acid; Linoleic Acid; Oleic Acid,仅动物证据,False,0.501,0.989749628986064
+AR,14,15.0,21,15,12,15,12,31,False,-0.637,0.0004054,False,63.0,2,Apigenin; Kaempferol,—,False,0.46,0.5574100222144094
+TLR4,15,16.4,17,11,27,11,16,33,False,0.002,0.5359,False,35.0,1,Loganetin,A 人类证据,False,0.406,0.1719091505345296
+MAP2K1,16,17.0,14,21,11,19,20,29,False,0.146,0.05844,False,0.0,2,(-)-Arctigenin; Quercetin,—,False,0.55,0.4639882658662789
+MMP2,17,18.6,6,16,40,16,15,30,False,0.453,0.005033,False,26.0,3,Caffeic Acid; Luteolin; Quercetin,—,False,0.463,0.5924398823969254
+BRAF,18,21.2,20,23,22,23,18,27,False,-0.005,0.4136,False,36.0,2,Myricetin; Quercetin,—,False,0.503,0.9692556528795796
+KDR,19,21.6,16,18,37,18,19,29,False,-0.264,0.7188,False,73.0,2,Chenodeoxycholic Acid; Quercetin,—,False,0.507,0.9215385456893154
+CYP3A4,20,22.0,39,17,13,17,24,29,False,0.459,0.1041,False,71.0,10,(+-)-Naringenin; (-)-Asparagine; Acacetin; Apigenin; Chrysin,无有效证据,False,0.517,0.8071545513772592
+ABL1,21,23.2,30,22,25,22,17,27,False,0.118,0.428,True,0.0,1,Genistein,—,False,0.407,0.1746128261555505
+MET,22,24.0,12,25,36,25,22,26,False,-0.522,0.1756,False,41.0,1,Quercetin,—,False,0.613,0.0992018682073745
+HDAC6,23,27.2,36,27,18,26,29,25,False,-0.153,0.03411,False,12.0,10,Apigenin; Chrysin; Daidzein; Diosmetin; Genistein,仅动物证据,False,0.455,0.5123314599925921
+PIK3R1,23,27.2,26,19,48,20,23,29,False,-0.351,0.003035,False,60.0,1,Quercetin,—,False,0.455,0.5123314599925921
+PIK3CA,25,27.6,24,20,46,21,27,28,False,0.008,0.8978,False,75.0,1,Myricetin,—,False,0.563,0.3616858287942832
+CDK1,26,28.2,32,24,35,24,26,26,True,1.31,3.443e-08,False,79.0,1,Quercetin,—,False,0.509,0.8943868968830296
+CYP1A1,26,28.2,41,30,10,30,30,23,False,-0.127,0.3251,False,0.0,8,Acacetin; Apigenin; Chrysin; Diosmetin; Kaempferol,A 人类证据,False,0.534,0.6223804916516842
+SLC2A1,28,28.8,25,33,26,32,28,22,False,0.491,0.03362,False,57.0,2,Genistein; Kaempferol,A 人类证据,False,0.491,0.9011644806025207
+IGF1R,29,30.6,10,28,66,28,21,24,False,0.203,0.1787,False,80.0,1,Quercetin,无有效证据,False,0.521,0.7676213996913619
+SYK,30,32.4,29,29,50,29,25,24,False,-0.476,0.01022,True,63.0,3,Apigenin; Luteolin; Myricetin,—,False,0.641,0.0394130207157991
+CYP2C9,31,35.8,37,26,31,27,58,24,False,-0.171,0.9215,False,38.0,6,Acacetin; Chrysin; Daidzein; Kaempferol; Myricetin,—,False,0.583,0.2255401225992039
+PKM,32,37.4,54,40,24,38,31,20,False,0.431,0.0002057,,,5,"1,6-Di-O-phosphono-beta-D-fructofuranose; Apigenin; Isoquercetin; L-Phenylalanine; Myricetin",—,False,0.513,0.8471866203355211
+MAOA,32,37.4,63,36,16,36,36,20,False,-0.662,0.01942,False,58.0,8,Acacetin; Apigenin; Genistein; L-Serine; Levodopa,—,False,0.562,0.3707722528279813
+MAOB,34,38.4,64,37,17,37,37,20,True,-1.542,9.436e-10,True,0.0,3,Acacetin; Apigenin; Genistein,—,True,0.454,0.5068333284291363
+KDM1A,35,39.6,70,32,20,33,43,21,False,0.143,0.1218,False,0.0,2,Isoquercetin; Quercetin,—,False,0.61,0.1101885622858155
+TERT,35,39.6,27,34,64,34,39,21,False,-0.0,0.8813,False,34.0,1,Oleic Acid,—,False,0.564,0.3527402732902364
+PIK3CG,37,40.2,28,39,58,41,35,19,False,-0.667,0.004724,True,20.0,1,Myricetin,—,False,0.455,0.5178605324942933
+PTK2,38,40.6,22,41,57,39,44,20,False,0.395,0.002186,False,38.0,1,Quercetin,—,False,,
+TLR2,39,40.8,19,38,73,40,34,20,False,0.35,0.2038,True,0.0,1,Palmitic Acid,A 人类证据,False,0.367,0.052386917135871
+SNCA,40,41.2,59,42,30,42,33,19,False,-0.254,0.2948,False,70.0,2,Dopamine; Myricetin,—,False,0.526,0.7094674912080097
+ELAVL1,41,41.4,35,49,32,49,42,17,False,0.118,0.01027,False,70.0,1,Quercetin,—,False,0.568,0.3225451452160092
+CYP2C19,42,42.6,38,31,41,31,72,22,False,0.013,0.8468,False,42.0,9,(+-)-Naringenin; (-)-Arctigenin; Acacetin; Apigenin; Chrysin,—,False,0.538,0.5865319403776708
+MAPT,43,43.0,55,47,29,44,40,18,False,-0.392,0.3563,False,14.0,1,Myricetin,—,False,0.478,0.7480723146199921
+PTGS1,44,45.2,62,51,23,45,45,18,False,0.074,0.8895,False,0.0,7,Dopamine; Glutathione; L-(+)-Cysteine; L-Ascorbic Acid; Levodopa,—,False,0.505,0.9419642361199174
+CYP1A2,45,45.4,40,35,42,35,75,20,False,0.215,0.03445,False,58.0,12,(+-)-Naringenin; Acacetin; Apigenin; Chrysin; Diosmetin,无有效证据,False,0.506,0.9283420320816484
+PTPN1,46,46.4,48,48,54,50,32,17,False,-0.068,0.5165,False,88.0,3,Caffeic Acid; Norathyriol; cis-11-Eicosenoic acid,—,False,0.476,0.7286838884453603
+CDK6,47,47.4,44,43,56,43,51,18,False,0.164,0.2837,False,56.0,2,Apigenin; Chrysin,A 人类证据,False,0.472,0.6841322661886813
+ACE2,48,50.6,52,58,44,58,41,14,False,0.37,0.3928,False,54.0,1,Myricetin,无有效证据,False,0.478,0.7480723146199921
+ABCC1,49,52.2,60,57,38,57,49,14,False,,,,,6,(+-)-Naringenin; Apigenin; Diosmetin; Kaempferol; Myricetin,—,False,0.499,0.989749628986064
+AKR1B1,50,52.4,77,52,28,52,53,15,False,0.376,0.02238,False,51.0,5,Chrysin; Kaempferol; Luteolin; Quercetin; Quercitrin,—,False,0.503,0.9692556528795796
+ALOX5,51,54.4,56,53,53,53,57,15,False,-0.132,0.3201,False,0.0,5,Caffeic Acid; Kaempferol; Luteolin; Quercetin; Sophoraflavanone B,—,False,0.495,0.9487819611423418
+HDAC3,52,55.4,65,50,63,51,48,16,False,0.039,0.8916,False,0.0,1,Butyrate,A 人类证据,False,0.492,0.9079492772509524
+CYP2D6,53,55.6,49,45,52,47,85,17,False,-0.08,0.2889,False,74.0,1,Kaempferol,无有效证据,False,0.49,0.8876170150564995
+MMP1,53,55.6,34,55,82,55,52,15,True,3.272,5.89e-12,True,77.0,1,Caffeic Acid,—,False,0.549,0.4745066509637049
+CYP2C8,55,57.2,43,44,69,46,84,17,False,-0.772,0.0001109,True,64.0,1,Quercetin,—,False,0.474,0.7094674912080097
+DPP4,56,57.4,78,46,59,48,56,17,False,-0.155,0.5953,False,0.0,7,(+-)-Naringenin; Apigenin; Caffeic Acid; Genistein; Kaempferol,—,False,0.417,0.2255401225992039
+RXRA,57,57.8,66,62,61,62,38,14,False,-0.086,0.8412,False,88.0,1,Doconexent,—,False,0.442,0.3988713881636989
+TOP2A,58,58.4,73,63,47,63,46,14,True,1.466,3.072e-06,False,83.0,1,Myricetin,—,False,0.624,0.0700684920588794
+ALK,59,60.2,47,59,81,59,55,14,False,0.605,0.009581,False,51.0,1,Quercetin,—,False,0.489,0.8741023044085632
+MMP3,60,60.8,33,60,91,60,60,14,True,3.282,8.363e-11,True,71.0,1,Quercetin,仅动物证据,False,0.485,0.8271144261447806
+PPARD,61,61.4,45,61,90,61,50,14,False,-0.153,0.01823,False,25.0,2,Arachidonic Acid; Oleic Acid,—,False,0.518,0.7939165358329751
+KDM6B,62,62.4,75,69,34,71,63,12,False,0.145,0.58,False,38.0,1,"3-(3,4-Dihydroxyphenyl)-2-hydroxypropanoic acid",—,False,0.448,0.4484569631502269
+CSNK2A1,63,63.0,79,74,33,70,59,12,False,0.306,8.757e-05,True,23.0,2,Apigenin; Quercetin,—,False,,
+CBR1,64,64.0,89,65,39,65,62,13,False,-0.448,0.04228,False,71.0,2,(+-)-Naringenin; Chrysin,—,False,0.552,0.4484569631502269
+CFTR,65,64.8,83,73,45,69,54,12,False,-0.673,0.00297,False,76.0,2,Apigenin; Genistein,—,False,0.482,0.7939165358329751
+ABCB11,66,65.0,50,56,72,56,91,14,False,-0.189,0.01669,False,6.0,2,Glycochenodeoxycholic Acid; Ursodeoxycholic Acid,—,False,0.501,0.9965831261137444
+CYP1B1,66,65.0,46,66,55,66,92,13,False,-0.588,0.02011,False,0.0,9,(+-)-Naringenin; Acacetin; Apigenin; Chrysin; Diosmetin,—,False,0.462,0.5865319403776708
+CYP2A6,68,65.4,42,54,76,54,101,15,False,-0.954,9.375e-05,,,1,Tryptamine,—,False,0.475,0.722258756123135
+BACE1,68,65.4,72,64,80,64,47,13,False,-0.177,0.07454,False,58.0,4,Apigenin; Luteolin; Myricetin; Quercetin,—,False,0.394,0.1221149466328501
+NLRP3,70,68.4,53,70,86,72,61,12,False,-0.187,0.2544,False,40.0,1,Apigenin,弱人类证据 + 动物证据,False,0.531,0.6529591579868839
+MMP13,71,68.8,51,67,89,67,70,13,False,0.943,0.004783,False,0.0,1,Quercetin,—,False,0.465,0.6103253452225252
+YES1,72,69.6,31,72,103,74,68,12,False,0.544,0.0003495,True,79.0,3,Kaempferol; Luteolin; Quercetin,—,False,0.474,0.7031021725829254
+ALOX15,73,71.0,67,68,71,68,81,12,False,-1.323,0.0694,False,91.0,2,Luteolin; Quercetin,—,False,0.58,0.2458296781283268
+SIRT6,74,73.0,76,71,79,73,66,12,False,0.09,0.2037,False,0.0,2,Luteolin; Quercetin,—,False,0.563,0.3571954153990171
+AKR1C3,75,76.8,90,75,62,75,82,10,True,-2.043,6.503e-09,False,71.0,1,Linoleic Acid,—,False,0.429,0.3020414371004096
+IDE,76,77.0,84,87,70,79,65,10,False,0.114,0.09675,False,0.0,1,Desthiobiotin,—,False,0.519,0.7873194664684845
+CASP7,77,77.2,61,77,99,78,71,10,False,-0.175,0.3501,False,86.0,1,Myricetin,—,False,0.529,0.6778522866668786
+CNR1,78,79.2,85,84,77,86,64,8,False,-0.7,0.0001695,True,43.0,3,Levodopa; Palmitoylethanolamide; Quercetin,仅动物证据,False,0.504,0.9624281684707128
+APEX1,79,79.4,92,79,60,77,89,10,False,0.121,0.1183,False,82.0,1,Myricetin,—,False,0.57,0.3060711996757328
+FAAH,80,80.2,95,80,68,82,76,9,False,-0.41,0.003702,False,31.0,1,Oleic Acid,—,False,0.604,0.1284450274434423
+MAP2K4,81,81.0,57,81,110,83,74,9,False,0.081,0.482,True,2.0,1,Genistein,—,False,0.512,0.8606242247834396
+SPHK1,82,81.4,96,102,43,99,67,6,False,0.64,0.001112,True,0.0,1,Quercetin,—,False,0.462,0.5806514543169523
+GPBAR1,83,81.6,86,86,75,88,73,8,False,0.124,0.9961,False,72.0,7,Deoxycholic Acid; Glycochenodeoxycholic Acid; Lithocholic Acid; Taurocholic Acid; Taurodeoxycholic Acid,仅动物证据,False,0.369,0.0555887360103911
+RPS6KA3,84,81.8,81,94,65,89,80,8,False,-0.252,0.0006902,False,78.0,2,Kaempferol; Luteolin,—,False,0.491,0.8943868968830296
+ESRRA,85,83.4,71,85,105,87,69,8,False,0.074,0.5893,False,74.0,2,Genistein; Kaempferol,—,False,0.479,0.7676213996913619
+PLK1,86,84.4,80,82,85,80,95,10,False,0.29,0.4291,False,83.0,1,Quercetin,—,False,0.548,0.490526829137374
+ALDH2,87,85.0,82,76,78,76,113,10,False,0.098,0.6531,False,86.0,1,Daidzein,—,False,0.521,0.7610879017305273
+SLCO2B1,88,87.0,58,78,111,81,107,10,False,-0.001,0.9735,False,0.0,3,Genistein; Luteolin; Quercetin,—,False,0.398,0.1395582246362646
+ALOX12,88,87.0,68,90,95,84,98,8,False,0.403,0.6121,False,65.0,2,"6,7,4'-Trihydroxyisoflavone; Quercetin",—,False,0.43,0.3060711996757328
+CD38,90,89.0,91,83,98,85,88,8,False,-0.02,0.9011,False,0.0,1,Luteolin,—,False,0.533,0.6345377633555123
+NEK2,90,89.0,93,93,87,95,77,7,False,0.89,1.361e-05,True,62.0,1,Quercetin,—,False,0.508,0.9079492772509524
+CA9,92,90.2,74,91,115,92,79,7,True,1.203,0.0004481,True,73.0,7,3-Hydroxybenzoic Acid; 4-Hydroxybenzoic Acid; Caffeic Acid; Chrysin; Coumarin,—,True,0.423,0.2600474683312938
+ADAMTS4,93,90.6,69,88,119,90,87,7,False,0.44,0.1004,True,6.0,1,Luteolin,—,False,0.5,1.0
+AHR,94,94.4,103,99,84,100,86,5,False,-0.241,0.3505,False,0.0,1,Kaempferol,A 人类证据,False,0.471,0.6778522866668786
+TNKS,95,94.6,94,95,92,96,96,7,False,0.193,0.2519,False,28.0,2,Apigenin; Luteolin,—,False,0.535,0.6163399852528183
+KDM5B,96,95.0,98,98,88,98,93,6,False,0.441,0.002436,True,73.0,1,Caffeic Acid,—,False,0.502,0.9829168837377202
+CAMK2A,97,95.4,101,92,94,93,97,7,False,-0.249,0.1189,False,41.0,1,Hydroxyphenylacetic acid,仅动物证据,False,0.45,0.4692311586192612
+AKR1B10,98,96.2,87,89,97,91,117,7,False,-0.01,0.5581,False,74.0,2,Apigenin; Luteolin,—,False,0.465,0.6103253452225252
+PDE4D,99,96.4,110,108,51,110,103,4,False,0.026,0.6265,False,42.0,1,Quercetin,无有效证据,False,0.617,0.0891075123589419
+KCNA5,100,96.6,112,115,49,108,99,4,False,-0.385,0.0578,False,71.0,1,Acacetin,—,False,0.501,0.9965831261137444
+ALPL,100,96.6,97,100,107,101,78,5,False,-0.323,0.01697,True,6.0,2,L-Leucine; L-Phenylalanine,—,False,0.564,0.3527402732902364
+GLO1,102,97.2,88,97,93,94,114,7,False,0.342,0.004954,True,0.0,3,Luteolin; Myricetin; Quercetin,—,False,0.477,0.7415910869088227
+PYGL,103,97.6,99,101,101,104,83,5,False,-0.374,0.01887,False,81.0,1,Quercetin,—,False,0.381,0.0843799692183011
+CDK9,104,101.4,100,96,102,97,112,6,False,-0.138,0.0126,False,79.0,1,Acacetin,—,False,,
+HTR2B,105,101.6,109,114,74,102,109,5,False,0.218,0.5644,False,0.0,1,Levodopa,—,False,0.498,0.9829168837377202
+CHRM2,106,102.0,111,111,83,105,100,4,False,-0.143,0.8772,False,31.0,2,Levodopa; Quercetin,仅动物证据,False,0.488,0.867358444670436
+CNR2,107,103.8,106,103,100,106,104,4,False,-0.527,0.0591,False,91.0,1,Palmitoylethanolamide,—,False,0.483,0.8071545513772592
+PSMB5,108,104.0,105,106,96,103,110,5,False,0.215,0.02171,True,23.0,6,Apigenin; Chrysin; Genistein; Luteolin; Myricetin,—,False,0.61,0.1101885622858155
+KCND3,108,104.0,115,116,67,114,108,3,False,-0.198,0.2491,False,16.0,1,Acacetin,—,False,0.56,0.384664922016128
+P4HB,110,106.4,107,105,109,109,102,4,False,0.069,0.7792,False,79.0,2,Isoquercetin; Quercitrin,—,False,0.511,0.8741023044085632
+F2,111,109.0,104,104,114,107,116,4,False,0.311,0.4368,False,0.0,1,Quercetin,—,False,0.478,0.7545713958487192
+SETD7,112,110.2,102,107,116,111,115,4,False,-0.18,0.1307,False,0.0,1,Luteolin,—,False,0.506,0.9351507608220632
+CISD1,113,110.6,114,112,108,113,106,3,False,-0.069,0.8014,False,21.0,2,Kaempferol; Ursodeoxycholic Acid,—,False,0.62,0.0813425620724648
+PKN1,114,110.8,108,109,127,116,94,3,False,-0.362,0.0009598,False,58.0,1,Quercetin,—,False,0.594,0.1692369244914121
+ADRA2B,115,113.0,117,122,104,117,105,2,False,0.232,0.774,False,0.0,3,L-Ascorbic Acid; Levodopa; Quercetin,A 人类证据,False,0.497,0.9692556528795796
+CACNA1H,116,115.2,113,110,113,112,128,3,False,0.052,0.07141,False,81.0,1,Sophoraflavanone B,—,False,0.519,0.7807376235203447
+MKNK1,117,116.0,116,118,112,115,119,3,False,0.095,0.3571,False,0.0,1,Luteolin,—,False,0.39,0.108293457780446
+PDE5A,118,116.2,123,120,125,123,90,2,False,-0.187,0.34,False,0.0,1,Icaritin,—,False,0.569,0.3142371779719257
+GSTK1,119,118.8,118,113,122,118,123,2,False,-0.364,0.0003604,True,21.0,1,Glutathione,—,False,0.455,0.5123314599925921
+HRH1,119,118.8,119,125,106,119,125,2,False,-0.378,0.02169,False,69.0,2,Levodopa; Quercetin,—,False,0.498,0.976085391437768
+MBNL1,121,120.6,121,126,117,121,118,2,False,-0.12,0.03589,False,84.0,1,Myricetin,—,False,0.492,0.9079492772509524
+PIM1,122,121.2,124,121,126,124,111,2,False,-0.147,0.1309,False,84.0,2,Myricetin; Quercetin,—,False,0.523,0.7415910869088227
+KDM4E,122,121.2,120,117,123,120,126,2,False,,,,,2,Dopamine; Myricetin,—,False,0.468,0.6406538457025082
+MKNK2,124,121.4,122,119,124,122,120,2,False,-0.054,0.164,False,35.0,2,Apigenin; Luteolin,—,False,0.549,0.4798145562165344
+PLAA,125,123.2,125,127,118,125,121,2,False,0.277,0.001088,True,0.0,2,L-Leucine; L-Phenylalanine,—,False,0.512,0.8606242247834396
+DAPK1,126,123.8,126,123,120,126,124,1,False,0.044,0.8812,False,0.0,2,Kaempferol; Quercetin,—,False,0.351,0.0299166826746612
+ENPP2,127,125.2,127,124,121,127,127,1,False,-0.338,0.2821,False,0.0,1,Ursodeoxycholic Acid,—,False,0.555,0.4232391565249438
+SLC1A1,128,126.8,128,128,128,128,122,1,False,-0.867,7.397e-05,True,0.0,1,L-Glutamic Acid,—,False,0.587,0.2034152107449491

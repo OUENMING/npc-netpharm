@@ -1,0 +1,10 @@
+T 细胞 16733 患者 15 关键基因 ['GSTK1', 'GZMB', 'IFNG', 'PDE4D'] 随机池 325
+ gene  n_pat  median_rho_partial  n_pos_partial  P_wilcoxon_partial  median_rho_raw  n_pos_raw  P_wilcoxon_raw  q_BH_primary
+PDE4D     15              0.0020             10              0.2524          0.0039          8          0.8904        0.5048
+ IFNG     15             -0.0035              6              0.9780         -0.0235          6          0.3591        0.9780
+ GZMB     15             -0.0016              7              0.5614         -0.0156          4          0.1070           NaN
+随机对照 PDE4D: 匹配基因 11，观察 median 偏 rho 0.0020，随机基因中位 0.0144，分位 0.091
+随机对照 IFNG: 匹配基因 10，观察 median 偏 rho -0.0035，随机基因中位 0.0233，分位 0.200
+患者平均水平 GSTK1–PDE4D: rho -0.300 P 0.277 n=15
+患者平均水平 GSTK1–IFNG: rho 0.379 P 0.164 n=15
+患者平均水平 GSTK1–GZMB: rho 0.275 P 0.321 n=15

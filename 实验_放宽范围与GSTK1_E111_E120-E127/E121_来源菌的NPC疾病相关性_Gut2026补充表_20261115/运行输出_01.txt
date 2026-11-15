@@ -1,0 +1,65 @@
+S4 物种 335 {'其他': 285, '耗竭': 30, '富集': 20}
+gutMGene 内 228 代谢物的记录 1482 ；代谢物数 228
+=== 主分析：human 标签 ===
+
+[human|species] T1 产生物种 56 / 已检 335；耗竭: 产生 7/56 vs 非产生 23/279；OR=1.59 P=0.3082
+[human|species] T2 家族大小 20；q_depl<0.05: 0；q_enr<0.05: 1
+      cid                                                                                            metabolite  n_producers_tested  n_depleted  n_enriched  OR_depl  P_depl  OR_enr  P_enr  q_depl  q_enr
+   104775                                                                                              Butyrate                  13           5           1   7.4250  0.0032  1.3289 0.5575  0.0637 0.7434
+     9903                                                                                      Lithocholic Acid                   3           2           0  21.7143  0.0220  0.0000 1.0000  0.2202 1.0000
+      175                                                                                               Acetate                  16           4           1   3.7564  0.0445  1.0526 1.0000  0.2968 1.0000
+     1145                                                                                  Trimethylamine oxide                   7           2           1   4.2857  0.1228  2.7105 0.3527  0.6138 0.5039
+129849310 7-Hydroxy-5-methyl-3-phenyl-6,7,8,9-tetrahydropyrido[3',2':4,5]imidazo[1,2-a]pyrimidin-5-ium chloride                   3           1           0   5.2241  0.2460  0.0000 1.0000  0.9839 1.0000
+    91435                                                                                               Lactate                   5           1           1   2.5948  0.3763  4.0921 0.2663  1.0000 0.4439
+   104745                                                                                        Propionate ion                   6           1           1   2.0690  0.4330  3.2632 0.3108  1.0000 0.4782
+    91469                                                                                                 Equol                  11           0           4   0.0000  0.6080 11.0000 0.0024  1.0000 0.0470
+   115089                                                                                            Enterodiol                   3           0           1   0.0000  1.0000  8.2368 0.1691  1.0000 0.3382
+      283                                                                                               Formate                   3           0           1   0.0000  1.0000  8.2368 0.1691  1.0000 0.3382
+  5280343                                                                                             Quercetin                   3           0           1   0.0000  1.0000  8.2368 0.1691  1.0000 0.3382
+  5280863                                                                                            Kaempferol                   3           0           1   0.0000  1.0000  8.2368 0.1691  1.0000 0.3382
+
+=== 次要 (a) 敏感性：全部记录 ===
+
+[all|species] T1 产生物种 72 / 已检 335；耗竭: 产生 9/72 vs 非产生 21/263；OR=1.65 P=0.2465
+[all|species] T2 家族大小 24；q_depl<0.05: 1；q_enr<0.05: 0
+      cid                                                                                            metabolite  n_producers_tested  n_depleted  n_enriched  OR_depl  P_depl  OR_enr  P_enr  q_depl  q_enr
+   104775                                                                                              Butyrate                  22           7           2   5.8841  0.0015  1.6389 0.6310  0.0361 0.8599
+      127                                                                              Hydroxyphenylacetic acid                  11           4           1   6.5495  0.0111  1.6053 0.4973  0.1338 0.7957
+   104745                                                                                        Propionate ion                  24           5           2   3.0105  0.0512  1.4798 0.6449  0.3928 0.8599
+     9903                                                                                      Lithocholic Acid                   5           2           0   7.1905  0.0655  0.0000 1.0000  0.3928 1.0000
+     1145                                                                                  Trimethylamine oxide                   7           2           1   4.2857  0.1228  2.7105 0.3527  0.5532 0.6046
+      175                                                                                               Acetate                  23           4           2   2.3158  0.1383  1.5556 0.6376  0.5532 0.8599
+129849310 7-Hydroxy-5-methyl-3-phenyl-6,7,8,9-tetrahydropyrido[3',2':4,5]imidazo[1,2-a]pyrimidin-5-ium chloride                   3           1           0   5.2241  0.2460  0.0000 1.0000  0.8434 1.0000
+      999                                                                                     Phenylacetic Acid                   5           1           1   2.5948  0.3763  4.0921 0.2663  1.0000 0.5327
+    91435                                                                                               Lactate                   6           1           1   2.0690  0.4330  3.2632 0.3108  1.0000 0.5738
+    91469                                                                                                 Equol                  11           0           4   0.0000  0.6080 11.0000 0.0024  1.0000 0.0565
+   115089                                                                                            Enterodiol                   3           0           1   0.0000  1.0000  8.2368 0.1691  1.0000 0.4509
+   222528                                                                                      Deoxycholic Acid                   4           0           0   0.0000  1.0000  0.0000 1.0000  1.0000 1.0000
+
+=== 次要 (b) 属级（human）===
+
+[human|genus] T1 产生物种 39 / 已检 160；耗竭: 产生 8/39 vs 非产生 9/121；OR=3.21 P=0.03356
+[human|genus] T2 家族大小 20；q_depl<0.05: 9；q_enr<0.05: 2
+     cid                                                                      metabolite  n_producers_tested  n_depleted  n_enriched  OR_depl  P_depl  OR_enr  P_enr  q_depl  q_enr
+  104775                                                                        Butyrate                   6           5           0  59.1667  0.0000  0.0000 1.0000  0.0008 1.0000
+     750                                                                         Glycine                   3           3           0      inf  0.0010  0.0000 1.0000  0.0041 1.0000
+  145742                                                                       L-Proline                   3           3           0      inf  0.0010  0.0000 1.0000  0.0041 1.0000
+    5950                                                                       L-Alanine                   3           3           0      inf  0.0010  0.0000 1.0000  0.0041 1.0000
+    6106                                                                       L-Leucine                   3           3           0      inf  0.0010  0.0000 1.0000  0.0041 1.0000
+    5951                                                                        L-Serine                   4           3           0  30.4286  0.0038  0.0000 1.0000  0.0126 1.0000
+     175                                                                         Acetate                   5           3           1  15.1071  0.0088  2.9792 0.3491  0.0221 0.4987
+    6306                                                                    L-Isoleucine                   5           3           1  15.1071  0.0088  2.9792 0.3491  0.0221 0.4987
+10559720                                               5-(3-Hydroxyphenyl)pentanoic Acid                  22           6           6   4.3295  0.0153  7.0179 0.0031  0.0341 0.0312
+49831816                                           5-(3,4-Dihydroxyphenyl)pentanoic acid                  18           5           4   4.1667  0.0267  4.2222 0.0423  0.0533 0.1694
+     875                                                   2,3-Dihydroxybutanedioic Acid                   3           1           1   4.4062  0.2877  6.0417 0.2258  0.5231 0.4987
+  439586 O-alpha-D-Glucopyranosyl-(1->4)-O-alpha-D-glucopyranosyl-(1->4)-D-glucopyranose                   4           1           1   2.9167  0.3648  4.0000 0.2899  0.6080 0.4987
+
+=== 次要 (c) 有对接结果的化合物的产生物种在 S4 的状态 ===
+  Apigenin (CID 5280443 )：gutMGene 物种级记录 1 → [('blautia sp mrg pmf1', 'S4 未检')]
+  Quercetin (CID 5280343 )：gutMGene 物种级记录 11 → [('bacillus sp 46', 'S4 未检'), ('bacteroides ovatus', '其他'), ('bacteroides sp 45', 'S4 未检'), ('bacteroides uniformis', '富集'), ('bifidobacterium dentium', '其他'), ('enterococcus avium', 'S4 未检'), ('enterococcus casseliflavus', 'S4 未检'), ('enterococcus sp 45', 'S4 未检')]
+  Acacetin (CID 5280442 )：gutMGene 物种级记录 1 → [('escherichia sp 4', 'S4 未检')]
+  Decanoic Acid (CID 2969 )：gutMGene 物种级记录 0 → []
+  Dopamine (CID 681 )：gutMGene 物种级记录 0 → []
+  Genistein (CID 5280961 )：gutMGene 物种级记录 6 → [('bifidobacterium adolescentis', '其他'), ('bifidobacterium breve', 'S4 未检'), ('bifidobacterium catenulatum', 'S4 未检'), ('bifidobacterium pseudocatenulatum', '其他'), ('escherichia coli', '富集'), ('eubacterium limosum', 'S4 未检')]
+  Levodopa (CID 6047 )：gutMGene 物种级记录 1 → [('enterococcus faecalis', 'S4 未检')]
+  Lithocholic Acid (CID 9903 )：gutMGene 物种级记录 9 → [('akkermansia muciniphila', '其他'), ('alistipes onderdonkii', '其他'), ('anaerobutyricum hallii', '耗竭'), ('clostridium scindens', '其他'), ('eubacterium coprostanoligenes', 'S4 未检'), ('lachnospira eligens', '耗竭')]

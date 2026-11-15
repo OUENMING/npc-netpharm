@@ -1,0 +1,35 @@
+GSTK1 在 Charoentong 基因集: [] ；在 ESTIMATE 基因集: []
+Tcell ssGSEA 列: ['Activated CD4 T cell', 'Activated CD8 T cell', 'Central memory CD4 T cell', 'Central memory CD8 T cell', 'Effector memeory CD4 T cell', 'Effector memeory CD8 T cell', 'Gamma delta T cell', 'Natural killer T cell', 'Regulatory T cell', 'T follicular helper cell', 'Type 1 T helper cell', 'Type 17 T helper cell', 'Type 2 T helper cell']
+n 88 事件 16
+
+[Q1] 免疫分数本身与进展（单变量 / 加亚型）
+  CD3        单变量 logHR=-0.785 P=0.0028 | +亚型 logHR=-0.605 P=0.0491
+  Immune     单变量 logHR=-0.778 P=0.0022 | +亚型 logHR=-0.625 P=0.0403
+  Stromal    单变量 logHR=-0.889 P=0.0040 | +亚型 logHR=-0.726 P=0.0475
+  Tcell      单变量 logHR=-0.656 P=0.0192 | +亚型 logHR=-0.408 P=0.2368
+  TIL_intra  单变量 logHR=-0.030 P=0.2993 | +亚型 logHR=-0.024 P=0.4106
+  TIL_stroma 单变量 logHR=-0.020 P=0.0287 | +亚型 logHR=-0.023 P=0.0186
+  GSTK1      单变量 logHR=-0.874 P=0.0002 | +亚型 logHR=-0.790 P=0.0043
+
+[Q3] GSTK1 与浸润分数 Spearman（全 113 例 / 控制亚型）
+  GSTK1 vs CD3    : rho=+0.719 P=2.89e-19 | 控制亚型偏相关 r=+0.591
+  GSTK1 vs Immune : rho=+0.678 P=1.54e-16 | 控制亚型偏相关 r=+0.519
+  GSTK1 vs Stromal: rho=+0.338 P=0.000247 | 控制亚型偏相关 r=-0.047
+  GSTK1 vs Tcell  : rho=+0.550 P=2.71e-10 | 控制亚型偏相关 r=+0.340
+
+[Q2] 校正后 GSTK1
+  单变量 logHR=-0.874 P=0.0002
+  M0 GSTK1+亚型                      n=88 事件=16 logHR=-0.790 HR=0.45(0.26-0.78) P=0.0043 相对单变量缩小 -10%
+  M1 +CD3                          n=88 事件=16 logHR=-0.744 HR=0.48(0.23-0.98) P=0.0431 相对单变量缩小 -15%
+  M1b +Tcell(ssGSEA)               n=88 事件=16 logHR=-0.848 HR=0.43(0.22-0.83) P=0.0124 相对单变量缩小 -3%
+  M2 +Immune                       n=88 事件=16 logHR=-0.706 HR=0.49(0.25-0.99) P=0.0476 相对单变量缩小 -19%
+  M3 +Stromal+Immune               n=88 事件=16 logHR=-0.838 HR=0.43(0.21-0.88) P=0.0199 相对单变量缩小 -4%
+  M4 +CD3+Stromal+Immune+TIL×2     n=80 事件=14 logHR=-0.656 HR=0.52(0.25-1.09) P=0.0838 相对单变量缩小 -25%
+
+[Q4] GSTK1 残差（浸润+亚型解释不了的部分）对进展
+  R²(GSTK1 被浸润+亚型解释) = 0.488
+  残差 +亚型：logHR=-0.728 HR=0.48 P=0.0070
+
+[Q5] 校准：随机基因经同样 M3 校正后的保留率
+  共 300 个表达相近且单变量 P<0.05 的随机基因（试了 1730 个）：M3 校正后仍 P<0.05 的比例 0.18；logHR 缩小比例中位 38%（IQR 18–57%）
+  GSTK1 的缩小比例 4%，位于随机基因缩小比例分布的第 12 百分位；其校正后 P=0.0199

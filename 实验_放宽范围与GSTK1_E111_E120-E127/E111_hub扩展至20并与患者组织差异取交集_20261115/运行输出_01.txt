@@ -1,0 +1,73 @@
+核心 128 ；核心内 is_DEG 8 ['AKR1C3', 'CA9', 'CDK1', 'MAOB', 'MMP1', 'MMP3', 'PTGS2', 'TOP2A']
+
+H_10：10 个靶点（并列并入）；∩ is_DEG = 1（背景 8/128=6.2%）；超几何 P=0.488
+  gene  pos  mean_rank  is_DEG  log2FC E82_consistent  n_metabolites gutMGene_tier  has_docking
+  AKT1    1        1.2   False  -0.227           True              1  弱人类证据 + 动物证据        False
+CTNNB1    2        1.8   False  -0.019          False              1         仅动物证据        False
+  EGFR    3        3.4   False   0.524           True              3        A 人类证据        False
+   SRC    4        4.0   False   0.418           True              2             —        False
+ PTGS2    5        5.0    True   2.454           True              2         仅动物证据         True
+ GSK3B    6        7.4   False   0.191           True              3        A 人类证据        False
+ PPARG    7        7.8   False  -0.200           True              3        A 人类证据        False
+  MMP9    8        9.6   False   0.192          False              3         仅动物证据        False
+ PARP1    9        9.8   False   0.232          False              1             —        False
+ ABCB1   10       11.4   False  -0.707           True              4             —        False
+
+H_15：15 个靶点（并列并入）；∩ is_DEG = 1（背景 8/128=6.2%）；超几何 P=0.642
+  gene  pos  mean_rank  is_DEG  log2FC E82_consistent  n_metabolites gutMGene_tier  has_docking
+  AKT1    1        1.2   False  -0.227           True              1  弱人类证据 + 动物证据        False
+CTNNB1    2        1.8   False  -0.019          False              1         仅动物证据        False
+  EGFR    3        3.4   False   0.524           True              3        A 人类证据        False
+   SRC    4        4.0   False   0.418           True              2             —        False
+ PTGS2    5        5.0    True   2.454           True              2         仅动物证据         True
+ GSK3B    6        7.4   False   0.191           True              3        A 人类证据        False
+ PPARG    7        7.8   False  -0.200           True              3        A 人类证据        False
+  MMP9    8        9.6   False   0.192          False              3         仅动物证据        False
+ PARP1    9        9.8   False   0.232          False              1             —        False
+ ABCB1   10       11.4   False  -0.707           True              4             —        False
+  MCL1   11       13.2   False  -0.095          False              1             —        False
+ ABCG2   12       14.0   False  -0.411          False              7             —        False
+ PPARA   13       14.2   False  -0.389          False              3         仅动物证据        False
+    AR   14       15.0   False  -0.637          False              2             —        False
+  TLR4   15       16.4   False   0.002          False              1        A 人类证据        False
+
+H_20：20 个靶点（并列并入）；∩ is_DEG = 1（背景 8/128=6.2%）；超几何 P=0.754
+  gene  pos  mean_rank  is_DEG  log2FC E82_consistent  n_metabolites gutMGene_tier  has_docking
+  AKT1    1        1.2   False  -0.227           True              1  弱人类证据 + 动物证据        False
+CTNNB1    2        1.8   False  -0.019          False              1         仅动物证据        False
+  EGFR    3        3.4   False   0.524           True              3        A 人类证据        False
+   SRC    4        4.0   False   0.418           True              2             —        False
+ PTGS2    5        5.0    True   2.454           True              2         仅动物证据         True
+ GSK3B    6        7.4   False   0.191           True              3        A 人类证据        False
+ PPARG    7        7.8   False  -0.200           True              3        A 人类证据        False
+  MMP9    8        9.6   False   0.192          False              3         仅动物证据        False
+ PARP1    9        9.8   False   0.232          False              1             —        False
+ ABCB1   10       11.4   False  -0.707           True              4             —        False
+  MCL1   11       13.2   False  -0.095          False              1             —        False
+ ABCG2   12       14.0   False  -0.411          False              7             —        False
+ PPARA   13       14.2   False  -0.389          False              3         仅动物证据        False
+    AR   14       15.0   False  -0.637          False              2             —        False
+  TLR4   15       16.4   False   0.002          False              1        A 人类证据        False
+MAP2K1   16       17.0   False   0.146          False              2             —        False
+  MMP2   17       18.6   False   0.453          False              3             —        False
+  BRAF   18       21.2   False  -0.005          False              2             —        False
+   KDR   19       21.6   False  -0.264          False              2             —        False
+CYP3A4   20       22.0   False   0.459          False             10         无有效证据        False
+
+候选（H_20∩DEG）:
+ gene  pos  mean_rank  degree  is_DEG  log2FC     meta_FDR E82_consistent  E82_I2  n_metabolites gutMGene_tier  has_docking  GSE132112_AUC_nonresp  GSE132112_P
+PTGS2    5        5.0      53    True   2.454 1.907000e-10           True     6.0              2         仅动物证据         True                  0.742     0.000411
+
+次要（H_20 ∩ E82 consistent 5/5）: ['AKT1', 'EGFR', 'SRC', 'PTGS2', 'GSK3B', 'PPARG', 'ABCB1']
+
+对接靶点: ['ADRA2A', 'CA9', 'GPR84', 'MAOB', 'PTGS2', 'VDR']  ∈ H_20: ['PTGS2']  ∈ 核心: ['CA9', 'MAOB', 'PTGS2']
+  ADRA2A 排名位次 不在核心134
+  CA9 排名位次 92
+  GPR84 排名位次 不在核心134
+  MAOB 排名位次 34
+  PTGS2 排名位次 5
+  VDR 排名位次 不在核心134
+
+族内 GSE132112 BH:
+ gene  GSE132112_AUC_nonresp  GSE132112_P  q_in_family
+PTGS2                  0.742     0.000411     0.000411

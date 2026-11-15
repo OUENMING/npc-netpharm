@@ -1,0 +1,97 @@
+[核对] 134 核心内 ≥0.4：旧(v12) 1037 边，新(v12.5) 1129 边，重合 886，仅旧 151，仅新 243
+{'D0': 995, 'D1': 5847, 'D2': 3255}  ∩250: {'D0': 14, 'D1': 72, 'D2': 45}  ∩134: {'D0': 8, 'D1': 45, 'D2': 31}
+网络 core134 STRING≥0.4: 128 节点 / 1129 边
+网络 core134 STRING≥0.15: 133 节点 / 3402 边
+网络 pool250 STRING≥0.4: 245 节点 / 2327 边
+网络 pool250 STRING≥0.15: 248 节点 / 8580 边
+   pool  string  K deg  n_hub  n_inter                                                                       inter
+core134    0.40 10  D0     10        1                                                                       PTGS2
+core134    0.40 10  D1     10        6                                            AKT1 EGFR GSK3B PIK3CG PTGS2 SRC
+core134    0.40 10  D2     10        7                                      AKT1 EGFR GSK3B PIK3CG PPARG PTGS2 SRC
+core134    0.40 20  D0     20        1                                                                       PTGS2
+core134    0.40 20  D1     20       10                        ABCB1 AKT1 AR EGFR GSK3B PIK3CG PIK3R1 PKM PTGS2 SRC
+core134    0.40 20  D2     20        8                                ABCB1 AKT1 EGFR GSK3B PIK3CG PPARG PTGS2 SRC
+core134    0.40 30  D0     30        2                                                                  CDK1 PTGS2
+core134    0.40 30  D1     30       13        ABCB1 AKT1 AR CDK1 EGFR GSK3B MMP2 PIK3CG PIK3R1 PKM PPARA PTGS2 SRC
+core134    0.40 30  D2     30        9                           ABCB1 ABL1 AKT1 EGFR GSK3B PIK3CG PPARG PTGS2 SRC
+core134    0.15 10  D0     10        1                                                                       PTGS2
+core134    0.15 10  D1     10        6                                            AKT1 EGFR GSK3B PIK3CG PTGS2 SRC
+core134    0.15 10  D2     10        7                                      AKT1 EGFR GSK3B PIK3CG PPARG PTGS2 SRC
+core134    0.15 20  D0     20        1                                                                       PTGS2
+core134    0.15 20  D1     20       11                    ABCB1 AKT1 AR EGFR GSK3B MMP2 PIK3CG PKM PPARA PTGS2 SRC
+core134    0.15 20  D2     20        8                                ABCB1 AKT1 EGFR GSK3B PIK3CG PPARG PTGS2 SRC
+core134    0.15 30  D0     30        2                                                                  CDK1 PTGS2
+core134    0.15 30  D1     30       12               ABCB1 AKT1 AR CDK1 EGFR GSK3B MMP2 PIK3CG PKM PPARA PTGS2 SRC
+core134    0.15 30  D2     30        9                           ABCB1 ABL1 AKT1 EGFR GSK3B PIK3CG PPARG PTGS2 SRC
+pool250    0.40 10  D0     10        1                                                                       PTGS2
+pool250    0.40 10  D1     10        5                                                  AKT1 EGFR PIK3CG PTGS2 SRC
+pool250    0.40 10  D2     10        6                                            AKT1 EGFR PIK3CG PPARG PTGS2 SRC
+pool250    0.40 20  D0     21        2                                                                  MAOB PTGS2
+pool250    0.40 20  D1     21       10                        AKT1 APP EGFR GSK3B MAOA MAOB PIK3CG PPARA PTGS2 SRC
+pool250    0.40 20  D2     21        9                             AKT1 APP EGFR GSK3B MAOB PIK3CG PPARG PTGS2 SRC
+pool250    0.40 30  D0     30        2                                                                  MAOB PTGS2
+pool250    0.40 30  D1     30       14   ABCB1 AKT1 APP AR DRD2 EGFR GSK3B MAOA MAOB PIK3CG PIK3R1 PPARA PTGS2 SRC
+pool250    0.40 30  D2     30       11                   ABCB1 AKT1 APP EGFR FYN GSK3B MAOB PIK3CG PPARG PTGS2 SRC
+pool250    0.15 10  D0     10        1                                                                       PTGS2
+pool250    0.15 10  D1     10        6                                              AKT1 APP EGFR PIK3CG PTGS2 SRC
+pool250    0.15 10  D2     10        7                                        AKT1 APP EGFR PIK3CG PPARG PTGS2 SRC
+pool250    0.15 20  D0     21        2                                                                  MAOB PTGS2
+pool250    0.15 20  D1     21       11                  ABCB1 AKT1 APP EGFR GSK3B MAOA MAOB PIK3CG PPARA PTGS2 SRC
+pool250    0.15 20  D2     21       10                       ABCB1 AKT1 APP EGFR GSK3B MAOB PIK3CG PPARG PTGS2 SRC
+pool250    0.15 30  D0     31        2                                                                  MAOB PTGS2
+pool250    0.15 30  D1     31       15 ABCB1 AKT1 APP AR DRD2 EGFR GSK3B MAOA MAOB MMP2 PIK3CG PKM PPARA PTGS2 SRC
+pool250    0.15 30  D2     31       10                       ABCB1 AKT1 APP EGFR GSK3B MAOB PIK3CG PPARG PTGS2 SRC
+
+稳定性（出现在多少格 /36）:
+  gene  n_cells     frac
+ PTGS2       36 1.000000
+  EGFR       24 0.666667
+PIK3CG       24 0.666667
+   SRC       24 0.666667
+  AKT1       24 0.666667
+ GSK3B       20 0.555556
+ ABCB1       14 0.388889
+ PPARG       12 0.333333
+  MAOB       12 0.333333
+   APP       10 0.277778
+ PPARA        7 0.194444
+    AR        6 0.166667
+   PKM        5 0.138889
+  MMP2        4 0.111111
+  CDK1        4 0.111111
+  MAOA        4 0.111111
+PIK3R1        3 0.083333
+  ABL1        2 0.055556
+  DRD2        2 0.055556
+   FYN        1 0.027778
+
+GSE132112 非应答/应答 24 71 ；池内已测基因 245 / 250；未测: ['CDK9', 'CHRNA7', 'CSNK2A1', 'FFAR4', 'PTK2']
+
+并集族（20 个基因，20 个已测）GSE132112:
+  gene  n_cells   frac  AUC_nonresp      P  q_union  stable50
+ PTGS2       36 1.0000       0.7424 0.0004   0.0082      True
+  EGFR       24 0.6667       0.4689 0.6530   0.8871      True
+PIK3CG       24 0.6667       0.4554 0.5179   0.8871      True
+   SRC       24 0.6667       0.5029 0.9693   0.9897      True
+  AKT1       24 0.6667       0.4489 0.4588   0.8871      True
+ GSK3B       20 0.5556       0.4701 0.6654   0.8871      True
+ ABCB1       14 0.3889       0.4337 0.3353   0.8871     False
+ PPARG       12 0.3333       0.4847 0.8271   0.9897     False
+  MAOB       12 0.3333       0.4542 0.5068   0.8871     False
+   APP       10 0.2778       0.5487 0.4798   0.8871     False
+ PPARA        7 0.1944       0.5012 0.9897   0.9897     False
+    AR        6 0.1667       0.4595 0.5574   0.8871     False
+   PKM        5 0.1389       0.5135 0.8472   0.9897     False
+  MMP2        4 0.1111       0.4630 0.5924   0.8871     False
+  CDK1        4 0.1111       0.5094 0.8944   0.9897     False
+  MAOA        4 0.1111       0.5616 0.3708   0.8871     False
+PIK3R1        3 0.0833       0.4548 0.5123   0.8871     False
+  ABL1        2 0.0556       0.4067 0.1746   0.8871     False
+  DRD2        2 0.0556       0.4090 0.1857   0.8871     False
+   FYN        1 0.0278       0.4654 0.6163   0.8871     False
+
+并集内名义 P<0.05: 1/20（期望 5%≈1.0）；池 250 全体名义 P<0.05: 4/245 = 1.6%
+随机对照：抽 20 个，名义 P<0.05 个数 ≥ 1 的频率 = 0.292（均值 0.33）
+
+新阳性判据：稳定(≥18格)且非 PTGS2 且 q_union<0.05 -> []
+稳定候选: ['PTGS2', 'EGFR', 'PIK3CG', 'SRC', 'AKT1', 'GSK3B']

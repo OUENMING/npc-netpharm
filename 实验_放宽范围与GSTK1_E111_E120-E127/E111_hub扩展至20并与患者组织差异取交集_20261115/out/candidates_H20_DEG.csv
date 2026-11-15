@@ -1,0 +1,2 @@
+﻿gene,pos,mean_rank,rank_MCC,rank_MNC,rank_Stress,rank_Degree,rank_Radiality,degree,is_DEG,log2FC,meta_FDR,E82_consistent,E82_I2,n_metabolites,metabolites_top5,gutMGene_tier,has_docking,GSE132112_AUC_nonresp,GSE132112_P
+PTGS2,5,5.0,7,5,3,5,5,53,True,2.454,1.907e-10,True,6.0,2,Apigenin; Quercetin,仅动物证据,True,0.742,0.0004108658121414

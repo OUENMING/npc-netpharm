@@ -1,0 +1,40 @@
+n 88 事件 16 亚型 {np.str_('I'): np.int64(50), np.str_('II'): np.int64(24), np.str_('III'): np.int64(14)}
+全基因组可用 22280
+[P1] GSTK1 得分检验 z=-3.686 P=2.28e-04；全基因组名次 108/22280；P≤2.28e-04 的基因数 108；P<0.05 的基因 3477（期望 ≈1114）
+全基因组前 10: [('C3orf43', 6.46, '1.1e-10'), ('BC039452', 6.34, '2.4e-10'), ('TUBA3E', 6.2, '5.8e-10'), ('PAH', 5.9, '3.6e-09'), ('C8orf12', 5.9, '3.7e-09'), ('VCX', 5.88, '4.1e-09'), ('PAPPA2', 5.72, '1.0e-08'), ('SPATA16', 5.62, '1.9e-08'), ('TMSB15A', 5.55, '2.8e-08'), ('BC038546', 5.52, '3.5e-08')]
+[P2] 全基因组最小-P 置换 FWER P=1.0000（置换最小 P 的中位 4.6e-11，5% 分位 2.3e-20）
+[P2] 亚型内置换（保留亚型）最小-P FWER P=1.0000（中位 1.5e-11，5% 分位 1.3e-19）
+[P2] 参考：GSTK1 自身在亚型内置换下 P 的分布：P≤2.3e-04 的比例 0.0020
+[P3] GSTK1+亚型: n=88 事件=16 logHR/SD=-0.844（HR 0.43，95%CI 0.24-0.77）P=0.0043
+[P3] GSTK1+亚型+stromalTIL+intraTIL: n=80 事件=14 logHR/SD=-0.809（HR 0.45，95%CI 0.24-0.81）P=0.0083
+[P3] GSTK1 单变量(同样本): n=80 事件=14 logHR/SD=-1.091（HR 0.34，95%CI 0.20-0.57）P=0.0001
+[P4] 通路家族：
+    gene  logHR_SD  P_wald  P_score  frac_expr   q_BH
+  GSTK1   -0.9339  0.0002   0.0002     1.0000 0.0033
+  GSTP1    0.4078  0.0754   0.0808     1.0000 0.5653
+  GSTM1    0.1230  0.6029   0.6021     0.4779 0.6957
+  GSTT1    0.2367  0.3450   0.3412     0.6637 0.6957
+  GSTA1   -0.2379  0.3635   0.3608     1.0000 0.6957
+  GSTA2   -0.2076  0.5719   0.5695     0.8938 0.6957
+  MGST1   -0.3194  0.2748   0.2701     1.0000 0.6957
+  MGST2   -0.2993  0.1831   0.1882     1.0000 0.6865
+  MGST3    0.3299  0.1578   0.1605     1.0000 0.6865
+   GPX4    0.1738  0.4817   0.4814     1.0000 0.6957
+   GCLC    0.1655  0.4801   0.4801     1.0000 0.6957
+   GCLM   -0.1582  0.5353   0.5353     1.0000 0.6957
+    GSR    0.1629  0.5400   0.5395     1.0000 0.6957
+SLC7A11   -0.0894  0.7350   0.7352     1.0000 0.7583
+ NFE2L2   -0.0825  0.7583   0.7583     1.0000 0.7583
+[P4] 方向为保护（logHR<0）的基因 8/15；GSTK1 之外 P<0.05: []
+[P5] GSTK1 表达（log2）亚型均值: {'I': 6.19, 'II': 6.72, 'III': 6.77} KW P=5.6e-08
+[P5] GSTK1 vs % stromal tils: rho=0.098 P=0.327 n=103
+[P5] GSTK1 vs % intratumoral tils: rho=0.268 P=0.00615 n=103
+[P5] GSTK1 vs non-synonymous mutation burden: rho=0.060 P=0.546 n=105
+Traceback (most recent call last):
+  File "experiments/E124_GSTK1往下查_20261115/01_bulk.py", line 63, in <module>
+    e82 = pd.read_csv(X/"E82_补充分析_投稿前_20261101/out/02_meta_134.csv", encoding="utf-8-sig").set_index("gene"); print("[P5] E82 肿瘤 vs 正常 GSTK1:", e82.loc["GSTK1", ["g_GSE12452", "g_GSE64634", "g_GSE53819", "g_GSE61218", "g_GSE68799", "meta_g", "ci_lo", "ci_hi", "I2"]].round(2).to_dict())
+                                                                                                                                                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "<venv>/lib/python3.14/site-packages/pandas/core/series.py", line 2821, in round
+    raise TypeError("Expected numeric dtype, got object instead.")
+TypeError: Expected numeric dtype, got object instead.
+[P5] E82 肿瘤 vs 正常 GSTK1（Hedges g，5 套）: [-0.59, -0.6, -1.29, -0.08, -0.19] meta g=-0.64 (-1.09, -0.19) I2=21% q=0.0247
